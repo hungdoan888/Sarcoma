@@ -1,0 +1,8 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-MSK-P-0020246,GENIE-MSK-P-0020246-T16-IH3,genie_public,Histiocytosis,Histiocytic Sarcoma,10,4,0.0531,Unknown,Unknown,Primary,<18,MSK,HS,Unknown,Primary tumor,MSK-IMPACT-HEME-399
+GENIE-MSK-P-0031977,GENIE-MSK-P-0031977-T01-IH3,genie_public,Histiocytosis,Histiocytic Sarcoma,1,7,0.2482,Unknown,Unknown,Primary,<18,MSK,HS,Unknown,Primary tumor,MSK-IMPACT-HEME-399
+GENIE-MSK-P-0038181,GENIE-MSK-P-0038181-T01-IM6,genie_public,Histiocytosis,Histiocytic Sarcoma,1,,0.0024,Female,Non-Spanish/non-Hispanic,Primary,67,MSK,HS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0038360,GENIE-MSK-P-0038360-T02-IH3,genie_public,Histiocytosis,Histiocytic Sarcoma,1,7,0.1826,Unknown,Unknown,Primary,<18,MSK,HS,Unknown,Primary tumor,MSK-IMPACT-HEME-399
+GENIE-MSK-P-0042727,GENIE-MSK-P-0042727-T04-IH3,genie_public,Histiocytosis,Histiocytic Sarcoma,3,1,0.0002,Unknown,Unknown,Metastasis,<18,MSK,HS,Unknown,Metastasis site unspecified,MSK-IMPACT-HEME-399
+GENIE-MSK-P-0042727,GENIE-MSK-P-0042727-T05-IH3,genie_public,Histiocytosis,Histiocytic Sarcoma,3,1,0.0022,Unknown,Unknown,Metastasis,<18,MSK,HS,Unknown,Metastasis site unspecified,MSK-IMPACT-HEME-399
+GENIE-MSK-P-0050300,GENIE-MSK-P-0050300-T02-IH3,genie_public,Histiocytosis,Histiocytic Sarcoma,2,1,0,Unknown,Unknown,Metastasis,<18,MSK,HS,Unknown,Metastasis site unspecified,MSK-IMPACT-HEME-399

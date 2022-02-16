@@ -1,0 +1,5 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+NTRK3,4,4,4,100.00%,Yes
+SPECC1L,1,1,4,25.00%,No
+STRN3,1,1,4,25.00%,No
+ETV6,2,2,4,50.00%,Yes

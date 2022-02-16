@@ -1,0 +1,9 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+NSRP1	1	1	43	2.3%	No
+CSF1R	1	1	38	2.6%	Yes
+PIK3R2	1	1	35	2.9%	Yes
+TP53	1	1	43	2.3%	Yes
+NF1	1	1	41	2.4%	Yes
+PDGFRB	1	1	41	2.4%	Yes
+CBL	1	1	41	2.4%	Yes
+EGFR	2	1	43	2.3%	Yes

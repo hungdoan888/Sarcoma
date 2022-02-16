@@ -1,0 +1,14 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-DFCI-122297,GENIE-DFCI-122297-1304202,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,28,DFCI,MCHS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-GRCC-95b71fe5,GENIE-GRCC-95b71fe5-metastasis-a,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,,,Female,Not Collected,Metastasis,23,GRCC,MCHS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-JHU-04158,GENIE-JHU-04158-04852,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Primary,64,JHU,MCHS,White,Primary tumor,JHU-50GP
+GENIE-MSK-P-0003494,GENIE-MSK-P-0003494-T01-IM5,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,1,0.0778,Male,Non-Spanish/non-Hispanic,Metastasis,<18,MSK,MCHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004854,GENIE-MSK-P-0004854-T01-IM5,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,2,2,0.2503,Female,Spanish/Hispanic,Primary,22,MSK,MCHS,Black,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0004854,GENIE-MSK-P-0004854-T02-IM6,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,2,2,0.1755,Female,Spanish/Hispanic,Metastasis,24,MSK,MCHS,Black,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0008517,GENIE-MSK-P-0008517-T01-IM5,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,1,0.1229,Male,Non-Spanish/non-Hispanic,Metastasis,27,MSK,MCHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0021902,GENIE-MSK-P-0021902-T02-IM6,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,2,4,0.0565,Female,Non-Spanish/non-Hispanic,Primary,24,MSK,MCHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0036688,GENIE-MSK-P-0036688-T01-IM6,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,1,0.113,Male,Non-Spanish/non-Hispanic,Metastasis,22,MSK,MCHS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0052753,GENIE-MSK-P-0052753-T02-IM6,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,2,0.0654,Male,Non-Spanish/non-Hispanic,Primary,28,MSK,MCHS,White,Primary tumor,MSK-IMPACT468
+GENIE-UHN-067089,GENIE-UHN-067089-ARC1,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,1,,,Male,Not Collected,Primary,73,UHN,MCHS,White,Primary tumor,UHN-48-V1
+GENIE-VICC-543210,GENIE-VICC-543210-unk-1,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,2,4,,Female,Non-Spanish/non-Hispanic,Metastasis,54,VICC,MCHS,White,Metastasis site unspecified,VICC-01-R2
+GENIE-VICC-543210,GENIE-VICC-543210-unk-2,genie_public,Bone Cancer,Mesenchymal Chondrosarcoma,2,3,,Female,Non-Spanish/non-Hispanic,Metastasis,55,VICC,MCHS,White,Metastasis site unspecified,VICC-01-T7

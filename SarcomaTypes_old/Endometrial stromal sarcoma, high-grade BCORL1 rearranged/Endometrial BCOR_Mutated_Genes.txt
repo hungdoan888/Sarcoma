@@ -1,0 +1,7 @@
+Gene	MutSig(Q-value)	# Mut	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+SETBP1		1	1	1	100.0%	Yes
+APC		1	1	1	100.0%	Yes
+EED		1	1	1	100.0%	Yes
+MSH3		1	1	1	100.0%	Yes
+KRAS		1	1	1	100.0%	Yes
+KMT2C		1	1	1	100.0%	Yes

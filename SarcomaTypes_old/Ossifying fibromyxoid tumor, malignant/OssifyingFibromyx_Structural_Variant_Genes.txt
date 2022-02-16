@@ -1,0 +1,4 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+PTEN	1	1	4	25.0%	Yes
+PHF1	1	1	4	25.0%	Yes
+MEAF6	1	1	4	25.0%	No

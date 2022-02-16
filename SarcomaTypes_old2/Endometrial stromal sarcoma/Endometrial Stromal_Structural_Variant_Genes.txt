@@ -1,0 +1,16 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+CIITA	1	1	13	7.7%	Yes
+PHF1	2	2	32	6.3%	Yes
+PTPN11	1	1	31	3.2%	Yes
+YWHAE	1	1	1	100.0%	Yes
+NUTM2B	1	1	32	3.1%	Yes
+ERG	1	1	27	3.7%	Yes
+JAZF1	2	2	9	22.2%	Yes
+CDKN2B	1	1	30	3.3%	Yes
+EWSR1	1	1	15	6.7%	Yes
+SUZ12	1	1	28	3.6%	Yes
+FLI1	1	1	1	100.0%	Yes
+CDKN2A-DT	1	1	32	3.1%	No
+EPC1	1	1	1	100.0%	No
+NF1	1	1	31	3.2%	Yes
+KDM6A	1	1	30	3.3%	Yes

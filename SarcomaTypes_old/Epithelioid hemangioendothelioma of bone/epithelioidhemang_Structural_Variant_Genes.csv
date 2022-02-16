@@ -1,0 +1,7 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+WWTR1,13,13,26,50.00%,Yes
+CAMTA1,12,12,51,23.50%,Yes
+FAT1,1,1,40,2.50%,Yes
+ASXL1,1,1,45,2.20%,Yes
+YAP1,3,3,40,7.50%,Yes
+TFE3,3,3,7,42.90%,Yes

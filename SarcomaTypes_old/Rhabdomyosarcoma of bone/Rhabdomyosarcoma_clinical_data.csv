@@ -1,0 +1,90 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-CHOP-C2384478,GENIE-CHOP-C2384478-BS14JFJACH,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,2,2,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2384478,GENIE-CHOP-C2384478-BSZY7PH8XJ,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,2,2,,Male,Non-Spanish/non-Hispanic,Metastasis,<18,CHOP,RMS,White,Local recurrence,CHOP-STNGS
+GENIE-CHOP-C2727894,GENIE-CHOP-C2727894-BS2MWEFB68,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-COMPT
+GENIE-CHOP-C2772051,GENIE-CHOP-C2772051-BSXQ1XS1YD,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2827401,GENIE-CHOP-C2827401-BSQ4Q64FRV,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2830599,GENIE-CHOP-C2830599-BS14V0HA2H,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2849664,GENIE-CHOP-C2849664-BS6G3RMA9X,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C3036993,GENIE-CHOP-C3036993-BS0N1BWQQ9,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,Black,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C966780,GENIE-CHOP-C966780-BSKNT0E16D,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C984738,GENIE-CHOP-C984738-BS2T3Q50CW,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,4,3,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C984738,GENIE-CHOP-C984738-BSRM6VB6XB,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,4,3,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,RMS,White,Not otherwise specified,CHOP-STNGS
+GENIE-COLU-00308,GENIE-COLU-00308-01,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,,Male,Unknown,Primary,65,COLU,RMS,Unknown,Primary tumor,COLU-TSACP-V1
+GENIE-DFCI-004282,GENIE-DFCI-004282-3188,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,,Female,Spanish/Hispanic,Not Applicable or Heme,<18,DFCI,RMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-1
+GENIE-DFCI-007602,GENIE-DFCI-007602-4306,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,7,,Male,Spanish/Hispanic,Not Applicable or Heme,<18,DFCI,RMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-2
+GENIE-DFCI-008183,GENIE-DFCI-008183-5208,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Not Applicable or Heme,<18,DFCI,RMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-2
+GENIE-DFCI-011335,GENIE-DFCI-011335-10927,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,<18,DFCI,RMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-2
+GENIE-DFCI-011366,GENIE-DFCI-011366-11046,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-011402,GENIE-DFCI-011402-10617,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Primary,69,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-053385,GENIE-DFCI-053385-218462,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,<18,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-090822,GENIE-DFCI-090822-315669,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,32,,Male,Non-Spanish/non-Hispanic,Primary,36,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-106682,GENIE-DFCI-106682-436479,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-169336,GENIE-DFCI-169336-2090003,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-200233,GENIE-DFCI-200233-2903574,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-205360,GENIE-DFCI-205360-2518546,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-266197,GENIE-DFCI-266197-3559718,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,45,DFCI,RMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-GRCC-b0e8fcd1,GENIE-GRCC-b0e8fcd1-metastasis-a,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Female,Not Collected,Metastasis,<18,GRCC,RMS,Not collected,Metastasis site unspecified,GRCC-MOSC3
+GENIE-GRCC-b6c7419f,GENIE-GRCC-b6c7419f-metastasis-a,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Male,Not Collected,Metastasis,52,GRCC,RMS,Not collected,Lymph node metastasis,GRCC-MOSC3
+GENIE-GRCC-f75dbf52,GENIE-GRCC-f75dbf52-sample-a,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,,Female,Not Collected,Primary,<18,GRCC,RMS,Not collected,Primary tumor,GRCC-MOSC3
+GENIE-JHU-05024,GENIE-JHU-05024-05846,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Female,Unknown,Primary,<18,JHU,RMS,Unknown,Primary tumor,JHU-50GP
+GENIE-MDA-1681,GENIE-MDA-1681-3459,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Female,Unknown,Metastasis,10,MDA,RMS,White,Distant organ metastasis,MDA-46-V1
+GENIE-MDA-1945,GENIE-MDA-1945-3881,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,,Male,Spanish/Hispanic,Primary,34,MDA,RMS,Unknown,Primary tumor,MDA-46-V1
+GENIE-MSK-P-0000579,GENIE-MSK-P-0000579-T01-IM3,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.1364,Male,Spanish/Hispanic,Metastasis,32,MSK,RMS,Other,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0000905,GENIE-MSK-P-0000905-T01-IM3,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.1438,Male,Spanish/Hispanic,Primary,<18,MSK,RMS,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002882,GENIE-MSK-P-0002882-T01-IM3,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.0005,Male,Non-Spanish/non-Hispanic,Primary,44,MSK,RMS,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0003484,GENIE-MSK-P-0003484-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.4992,Female,Non-Spanish/non-Hispanic,Primary,40,MSK,RMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0005006,GENIE-MSK-P-0005006-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,3,0.1872,Female,Non-Spanish/non-Hispanic,Metastasis,23,MSK,RMS,Unknown,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0006632,GENIE-MSK-P-0006632-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.0578,Female,Non-Spanish/non-Hispanic,Metastasis,30,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0006884,GENIE-MSK-P-0006884-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.363,Male,Non-Spanish/non-Hispanic,Primary,31,MSK,RMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0007815,GENIE-MSK-P-0007815-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.6308,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,RMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0008051,GENIE-MSK-P-0008051-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.5188,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,RMS,Black,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0008325,GENIE-MSK-P-0008325-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.1726,Female,Unknown,Primary,52,MSK,RMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012004,GENIE-MSK-P-0012004-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.0226,Male,Non-Spanish/non-Hispanic,Primary,19,MSK,RMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012410,GENIE-MSK-P-0012410-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,0.1219,Male,Non-Spanish/non-Hispanic,Primary,22,MSK,RMS,Black,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012721,GENIE-MSK-P-0012721-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.0067,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,RMS,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012861,GENIE-MSK-P-0012861-T01-IM5,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.5191,Male,Unknown,Primary,34,MSK,RMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0013120,GENIE-MSK-P-0013120-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,3,,0,Female,Non-Spanish/non-Hispanic,Metastasis,18,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0013120,GENIE-MSK-P-0013120-T04-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,3,,0.1217,Female,Non-Spanish/non-Hispanic,Metastasis,20,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0013120,GENIE-MSK-P-0013120-T06-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,3,,0.2839,Female,Non-Spanish/non-Hispanic,Metastasis,21,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0014589,GENIE-MSK-P-0014589-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.0096,Female,Non-Spanish/non-Hispanic,Primary,21,MSK,RMS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0016090,GENIE-MSK-P-0016090-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.3974,Female,Non-Spanish/non-Hispanic,Metastasis,<18,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0016374,GENIE-MSK-P-0016374-T03-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.5433,Male,Unknown,Metastasis,21,MSK,RMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0017194,GENIE-MSK-P-0017194-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.9416,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,RMS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018310,GENIE-MSK-P-0018310-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.2623,Female,Spanish/Hispanic,Primary,<18,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018594,GENIE-MSK-P-0018594-T03-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,2,1,0.1161,Female,Non-Spanish/non-Hispanic,Primary,76,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018770,GENIE-MSK-P-0018770-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,2,1,0.6574,Male,Non-Spanish/non-Hispanic,Primary,18,MSK,RMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018919,GENIE-MSK-P-0018919-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,0.6907,Male,Non-Spanish/non-Hispanic,Primary,22,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018975,GENIE-MSK-P-0018975-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,0.5959,Female,Unknown,Metastasis,<18,MSK,RMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019746,GENIE-MSK-P-0019746-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.1756,Female,Non-Spanish/non-Hispanic,Metastasis,<18,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0020547,GENIE-MSK-P-0020547-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,3,0.0743,Male,Non-Spanish/non-Hispanic,Primary,25,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0021989,GENIE-MSK-P-0021989-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.428,Male,Unknown,Primary,<18,MSK,RMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0022317,GENIE-MSK-P-0022317-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,2,,0.3136,Male,Spanish/Hispanic,Metastasis,<18,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0024683,GENIE-MSK-P-0024683-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.0493,Male,Non-Spanish/non-Hispanic,Primary,26,MSK,RMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0025681,GENIE-MSK-P-0025681-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,2,12,0.4295,Female,Non-Spanish/non-Hispanic,Metastasis,67,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0032782,GENIE-MSK-P-0032782-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.2904,Male,Spanish/Hispanic,Metastasis,<18,MSK,RMS,Other,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0036983,GENIE-MSK-P-0036983-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.2001,Male,Non-Spanish/non-Hispanic,Primary,18,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0038234,GENIE-MSK-P-0038234-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.5867,Female,Non-Spanish/non-Hispanic,Primary,19,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0039203,GENIE-MSK-P-0039203-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,0.6561,Female,Unknown,Primary,<18,MSK,RMS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0041527,GENIE-MSK-P-0041527-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.0052,Female,Non-Spanish/non-Hispanic,Primary,40,MSK,RMS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0042661,GENIE-MSK-P-0042661-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.2559,Male,Non-Spanish/non-Hispanic,Metastasis,43,MSK,RMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0046800,GENIE-MSK-P-0046800-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.0013,Male,Non-Spanish/non-Hispanic,Metastasis,62,MSK,RMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0050430,GENIE-MSK-P-0050430-T01-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.8974,Female,Non-Spanish/non-Hispanic,Primary,52,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0052213,GENIE-MSK-P-0052213-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.5663,Male,Non-Spanish/non-Hispanic,Primary,35,MSK,RMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0055245,GENIE-MSK-P-0055245-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,6,0.4084,Female,Non-Spanish/non-Hispanic,Primary,63,MSK,RMS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0055434,GENIE-MSK-P-0055434-T02-IM6,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,3,0.7549,Female,Spanish/Hispanic,Primary,<18,MSK,RMS,White,Primary tumor,MSK-IMPACT468
+GENIE-NKI-EQVR,GENIE-NKI-EQVR-9MHW,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Male,Not Collected,Primary,17,NKI,RMS,Not collected,Primary tumor,NKI-TSACP-MISEQ-NGS
+GENIE-PHS-daebd3a2,GENIE-PHS-daebd3a2-TST170-V1,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Metastasis,76,PHS,RMS,White,Metastasis site unspecified,PHS-TST170-V1
+GENIE-UCSF-10571,GENIE-UCSF-10571-6479T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.7343,Female,Spanish/Hispanic,Not Collected,<18,UCSF,RMS,Other,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-1650,GENIE-UCSF-1650-1827T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,4,0.895,Male,Non-Spanish/non-Hispanic,Not Collected,<18,UCSF,RMS,Asian,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-1783,GENIE-UCSF-1783-1945T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.5115,Male,Non-Spanish/non-Hispanic,Not Collected,<18,UCSF,RMS,White,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-1953,GENIE-UCSF-1953-4320T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,5,0.7399,Male,Spanish/Hispanic,Not Collected,20,UCSF,RMS,Other,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-1979,GENIE-UCSF-1979-2170T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,2,0.9996,Male,Spanish/Hispanic,Not Collected,<18,UCSF,RMS,Other,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-2125,GENIE-UCSF-2125-2326T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,3,0.3476,Male,Not Collected,Not Collected,<18,UCSF,RMS,Black,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-2995,GENIE-UCSF-2995-5154T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.1176,Female,Spanish/Hispanic,Not Collected,<18,UCSF,RMS,White,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-3601,GENIE-UCSF-3601-3309T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,6,0.6264,Male,Non-Spanish/non-Hispanic,Not Collected,<18,UCSF,RMS,White,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-3604,GENIE-UCSF-3604-6571T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,8,0.6151,Male,Spanish/Hispanic,Not Collected,<18,UCSF,RMS,Other,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-3719,GENIE-UCSF-3719-4446T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,1,0.5048,Female,Spanish/Hispanic,Not Collected,<18,UCSF,RMS,Other,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-922,GENIE-UCSF-922-1086T,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,6,0.9638,Male,Non-Spanish/non-Hispanic,Not Collected,46,UCSF,RMS,Asian,Not Collected,UCSF-NIMV4-TN
+GENIE-VICC-101386,GENIE-VICC-101386-unk-1,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,22,,Female,Non-Spanish/non-Hispanic,Primary,72,VICC,RMS,White,Primary tumor,VICC-01-R2
+GENIE-VICC-147168,GENIE-VICC-147168-unk-1,genie_public,Soft Tissue Sarcoma,Rhabdomyosarcoma,1,11,,Female,Unknown,Primary,69,VICC,RMS,White,Primary tumor,VICC-01-D2

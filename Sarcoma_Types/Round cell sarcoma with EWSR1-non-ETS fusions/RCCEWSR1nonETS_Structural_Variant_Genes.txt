@@ -1,0 +1,5 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+FLI1	3	2	5	40.0%	Yes
+NFATC2	1	1	5	20.0%	Yes
+EWSR1	6	5	4	125.0%	Yes
+PATZ1	1	1	5	20.0%	Yes

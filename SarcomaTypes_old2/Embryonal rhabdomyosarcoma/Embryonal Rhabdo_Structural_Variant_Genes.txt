@@ -1,0 +1,25 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+RUNDC3B	1	1	90	1.1%	No
+KDM5C	1	1	85	1.2%	Yes
+TERT	1	1	82	1.2%	Yes
+TP53	1	1	90	1.1%	Yes
+GRIA3	1	1	90	1.1%	No
+FAM156B	1	1	90	1.1%	No
+CDK6	1	1	85	1.2%	Yes
+COX6B1	1	1	90	1.1%	No
+MAP3K13	1	1	60	1.7%	Yes
+PLK2	1	1	57	1.8%	Yes
+BCOR	2	2	85	2.4%	Yes
+DNMT1	1	1	57	1.8%	Yes
+STAG2	1	1	85	1.2%	Yes
+CTNNB1	1	1	90	1.1%	Yes
+SNTG1	1	1	90	1.1%	No
+NF1	2	2	90	2.2%	Yes
+NOTCH1	1	1	90	1.1%	Yes
+KMT2B	1	1	49	2.0%	Yes
+MALT1	1	1	54	1.9%	Yes
+MASP1	1	1	90	1.1%	No
+PTK2	1	1	6	16.7%	No
+POLH	1	1	10	10.0%	No
+NPM1	1	1	90	1.1%	Yes
+CD276	2	2	57	3.5%	Yes

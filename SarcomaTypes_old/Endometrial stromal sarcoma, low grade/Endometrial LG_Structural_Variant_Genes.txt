@@ -1,0 +1,8 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+PHF1	3	3	1	300.0%	Yes
+MDC1	1	1	12	8.3%	Yes
+YWHAE	1	1	5	20.0%	Yes
+NUTM2B	1	1	28	3.6%	Yes
+JAZF1	8	8	8	100.0%	Yes
+KIFC1	1	1	28	3.6%	No
+SUZ12	5	5	19	26.3%	Yes

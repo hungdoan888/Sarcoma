@@ -1,0 +1,921 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-CHOP-C1077726	GENIE-CHOP-C1077726-BSWQWYBZ6V	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	1	ES	White	2	Metastasis	Local recurrence	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C1077726	GENIE-CHOP-C1077726-BSYRQ5TTQZ	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	1	ES	White	2	Metastasis	Local recurrence	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C1186458	GENIE-CHOP-C1186458-BSN631Y1EA	18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	2	OS	Unknown	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C1191132	GENIE-CHOP-C1191132-BSP2NVYPV1	<18	Bone Cancer	Ewing Sarcoma	CHOP	Spanish/Hispanic	NA	1	ES	Unknown	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C1258659	GENIE-CHOP-C1258659-BSFN8W7Z6A	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	4	ES	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C182778	GENIE-CHOP-C182778-BSW9N759KV	<18	Bone Cancer	Chordoma	CHOP	Non-Spanish/non-Hispanic	NA	1	CHDM	Unknown	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C21402	GENIE-CHOP-C21402-BSX1DWHYPJ	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	4	OS	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2318796	GENIE-CHOP-C2318796-BSMXT5RMA9	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2319903	GENIE-CHOP-C2319903-BS461PCYM0	<18	Bone Cancer	Giant Cell Tumor of Bone	CHOP	Non-Spanish/non-Hispanic	NA	2	GCTB	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2379066	GENIE-CHOP-C2379066-BSR71BS1YM	<18	Bone Cancer	Giant Cell Tumor of Bone	CHOP	Non-Spanish/non-Hispanic	NA	2	GCTB	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2381280	GENIE-CHOP-C2381280-BS2G1PV524	25	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	5	OS	Black	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2384232	GENIE-CHOP-C2384232-BS422NNE0X	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2409201	GENIE-CHOP-C2409201-BSFJ01C13H	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	4	OS	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2419656	GENIE-CHOP-C2419656-BS02ED2NR4	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	2	OS	White	1	Metastasis	Local recurrence	CHOP-COMPT	Male
+genie_public	GENIE-CHOP-C2440689	GENIE-CHOP-C2440689-BSSXH4WCR5	<18	Bone Cancer	Chordoma	CHOP	Non-Spanish/non-Hispanic	NA	3	CHDM	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2471562	GENIE-CHOP-C2471562-BSKWKXM9PB	23	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	6	OS	Unknown	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2472792	GENIE-CHOP-C2472792-BS6WWEFF97	<18	Bone Cancer	Ewing Sarcoma	CHOP	Spanish/Hispanic	NA	5	ES	Unknown	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2475006	GENIE-CHOP-C2475006-BSKXSP301M	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2624328	GENIE-CHOP-C2624328-BSGXQV9CXK	<18	Bone Cancer	Chordoma	CHOP	Non-Spanish/non-Hispanic	NA	1	CHDM	Unknown	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2648436	GENIE-CHOP-C2648436-BSZX6JTETM	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	7	OS	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2782014	GENIE-CHOP-C2782014-BSEH0X4VF5	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	2	OS	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2791116	GENIE-CHOP-C2791116-BSC275XB4K	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	4	OS	Black	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2825064	GENIE-CHOP-C2825064-BSX4JW9TVS	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2828139	GENIE-CHOP-C2828139-BSVPB2HYTX	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	2	OS	Black	1	Unspecified	Not otherwise specified	CHOP-STNGS	Female
+genie_public	GENIE-CHOP-C2883612	GENIE-CHOP-C2883612-BSZT5PGWY5	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C2887548	GENIE-CHOP-C2887548-BSTH949QZZ	<18	Bone Cancer	Ewing Sarcoma	CHOP	Non-Spanish/non-Hispanic	NA	3	ES	White	1	Primary	Primary tumor	CHOP-COMPT	Female
+genie_public	GENIE-CHOP-C3039330	GENIE-CHOP-C3039330-BS25RMVMTG	<18	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-CHOP-C3393201	GENIE-CHOP-C3393201-BSW0B0SSGE	19	Bone Cancer	Osteosarcoma	CHOP	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Unspecified	Not otherwise specified	CHOP-STNGS	Male
+genie_public	GENIE-COLU-00054	GENIE-COLU-00054-01	43	Bone Cancer	Chordoma	COLU	Unknown	NA	1	CHDM	Unknown	1	Primary	Primary tumor	COLU-CCCP-V1	Male
+genie_public	GENIE-COLU-00061	GENIE-COLU-00061-01	80	Bone Cancer	Dedifferentiated Chordoma	COLU	Spanish/Hispanic	NA	9	DDCHDM	Unknown	1	Primary	Primary tumor	COLU-CCCP-V1	Male
+genie_public	GENIE-COLU-00064	GENIE-COLU-00064-01	73	Bone Cancer	Myxoid Chondrosarcoma	COLU	Non-Spanish/non-Hispanic	NA	244	MYCHS	White	1	Metastasis	Distant organ metastasis	COLU-CCCP-V1	Male
+genie_public	GENIE-COLU-00374	GENIE-COLU-00374-01	25	Bone Cancer	Giant Cell Tumor of Bone	COLU	Non-Spanish/non-Hispanic	NA	13	GCTB	Black	1	Primary	Primary tumor	COLU-CCCP-V1	Female
+genie_public	GENIE-COLU-1307	GENIE-COLU-1307-1	75	Bone Cancer	Osteosarcoma	COLU	Non-Spanish/non-Hispanic	NA	9	OS	White	1	Metastasis	Metastasis site unspecified	COLU-CCCP-V1	Male
+genie_public	GENIE-COLU-626	GENIE-COLU-626-1	78	Bone Cancer	Osteosarcoma	COLU	Unknown	NA	10	OS	Unknown	1	Primary	Primary tumor	COLU-CCCP-V1	Female
+genie_public	GENIE-COLU-815	GENIE-COLU-815-1	55	Bone Cancer	Chondrosarcoma	COLU	Unknown	NA	7	CHS	White	1	Primary	Primary tumor	COLU-CCCP-V1	Female
+genie_public	GENIE-COLU-891	GENIE-COLU-891-1	64	Bone Cancer	Chondrosarcoma	COLU	Unknown	NA	3	CHS	Unknown	1	Metastasis	Distant organ metastasis	COLU-CCCP-V1	Female
+genie_public	GENIE-DFCI-000069	GENIE-DFCI-000069-3170972	72	Bone Cancer	Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHDM	White	2	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-000069	GENIE-DFCI-000069-9295	72	Bone Cancer	Conventional Type Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	2	CCHDM	White	2	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-000289	GENIE-DFCI-000289-2266	33	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Female
+genie_public	GENIE-DFCI-000504	GENIE-DFCI-000504-9924	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-000895	GENIE-DFCI-000895-5115	37	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-001444	GENIE-DFCI-001444-6461	82	Bone Cancer	Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	5	CHDM	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-001640	GENIE-DFCI-001640-9630	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-001676	GENIE-DFCI-001676-2445	51	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	CHS	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-002525	GENIE-DFCI-002525-1612	79	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-003142	GENIE-DFCI-003142-3081	38	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-003678	GENIE-DFCI-003678-4830	61	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-003740	GENIE-DFCI-003740-7087	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-003779	GENIE-DFCI-003779-4899	39	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-003904	GENIE-DFCI-003904-254	65	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Female
+genie_public	GENIE-DFCI-004006	GENIE-DFCI-004006-398	47	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-004184	GENIE-DFCI-004184-566	29	Bone Cancer	Ewing Sarcoma	DFCI	Spanish/Hispanic	NA	4	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-004252	GENIE-DFCI-004252-6566	26	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-005117	GENIE-DFCI-005117-799	55	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-005368	GENIE-DFCI-005368-7436	61	Bone Cancer	Chondrosarcoma	DFCI	Spanish/Hispanic	NA	14	CHS	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-005536	GENIE-DFCI-005536-2286	24	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Female
+genie_public	GENIE-DFCI-005593	GENIE-DFCI-005593-7745	47	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	EMCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-006575	GENIE-DFCI-006575-3191	48	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-006979	GENIE-DFCI-006979-4795	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-007106	GENIE-DFCI-007106-5905	76	Bone Cancer	Dedifferentiated Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	DDCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-007706	GENIE-DFCI-007706-3940	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	OS	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-007712	GENIE-DFCI-007712-4966	34	Bone Cancer	Dedifferentiated Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	DDCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-007938	GENIE-DFCI-007938-5482	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-008127	GENIE-DFCI-008127-5172	<18	Bone Cancer	Osteosarcoma	DFCI	Spanish/Hispanic	NA	2	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-008181	GENIE-DFCI-008181-5183	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-008595	GENIE-DFCI-008595-6507	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	ES	Unknown	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-008806	GENIE-DFCI-008806-6945	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-008837	GENIE-DFCI-008837-7655	66	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-009184	GENIE-DFCI-009184-6622	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-009215	GENIE-DFCI-009215-6627	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-009239	GENIE-DFCI-009239-6656	22	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-009524	GENIE-DFCI-009524-8483	69	Bone Cancer	High-Grade Surface Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	HGSOS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-009529	GENIE-DFCI-009529-8684	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	11	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-009610	GENIE-DFCI-009610-8310	67	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-009686	GENIE-DFCI-009686-11416	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-009708	GENIE-DFCI-009708-9606	78	Bone Cancer	Dedifferentiated Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	DDCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-009797	GENIE-DFCI-009797-7884	61	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-010277	GENIE-DFCI-010277-11217	28	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	CHS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-010594	GENIE-DFCI-010594-8740	<18	Bone Cancer	Ewing Sarcoma	DFCI	Spanish/Hispanic	NA	2	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-010637	GENIE-DFCI-010637-8980	65	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-010659	GENIE-DFCI-010659-8640	18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	Black	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-010992	GENIE-DFCI-010992-11429	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-011466	GENIE-DFCI-011466-11047	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	ES	Unknown	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-022818	GENIE-DFCI-022818-23615	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-023037	GENIE-DFCI-023037-23386	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-023086	GENIE-DFCI-023086-23877	63	Bone Cancer	Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	3	CHDM	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-026468	GENIE-DFCI-026468-36054	48	Bone Cancer	Giant Cell Tumor of Bone	DFCI	Non-Spanish/non-Hispanic	NA	4	GCTB	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-026752	GENIE-DFCI-026752-116427	51	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	CHS	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-028498	GENIE-DFCI-028498-159177	58	Bone Cancer	Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHDM	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-029692	GENIE-DFCI-029692-159091	45	Bone Cancer	Chordoma	DFCI	Spanish/Hispanic	NA	4	CHDM	Other	2	Metastasis	Local recurrence	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-029692	GENIE-DFCI-029692-2970312	45	Bone Cancer	Chordoma	DFCI	Spanish/Hispanic	NA	4	CHDM	Other	2	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-034914	GENIE-DFCI-034914-3036772	23	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	ES	White	2	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-034914	GENIE-DFCI-034914-73817	23	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	ES	White	2	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-035112	GENIE-DFCI-035112-88055	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	20	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-036446	GENIE-DFCI-036446-74280	38	Bone Cancer	Ewing Sarcoma	DFCI	Spanish/Hispanic	NA	4	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-036447	GENIE-DFCI-036447-74183	62	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-036458	GENIE-DFCI-036458-88001	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	8	ES	Asian	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-036843	GENIE-DFCI-036843-129939	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-036848	GENIE-DFCI-036848-88418	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-037105	GENIE-DFCI-037105-61456	52	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	CHS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-037183	GENIE-DFCI-037183-158200	<18	Bone Cancer	Osteosarcoma	DFCI	Spanish/Hispanic	NA	7	OS	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-037840	GENIE-DFCI-037840-74372	32	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-037847	GENIE-DFCI-037847-88111	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-041264	GENIE-DFCI-041264-203490	31	Bone Cancer	Conventional Type Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	10	CCHDM	Black	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-046447	GENIE-DFCI-046447-250134	37	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-048787	GENIE-DFCI-048787-203608	75	Bone Cancer	Dedifferentiated Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	9	DDCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-050711	GENIE-DFCI-050711-188410	67	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	EMCHS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-050801	GENIE-DFCI-050801-234126	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	OS	White	2	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-050801	GENIE-DFCI-050801-298522	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	OS	White	2	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-052359	GENIE-DFCI-052359-233263	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-052783	GENIE-DFCI-052783-218536	18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	12	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-053455	GENIE-DFCI-053455-250059	<18	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	8	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-078123	GENIE-DFCI-078123-315702	49	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-086158	GENIE-DFCI-086158-350168	49	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-088840	GENIE-DFCI-088840-350663	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-088868	GENIE-DFCI-088868-332985	69	Bone Cancer	Giant Cell Tumor of Bone	DFCI	Non-Spanish/non-Hispanic	NA	6	GCTB	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-089480	GENIE-DFCI-089480-266362	56	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	8	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-090471	GENIE-DFCI-090471-266317	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	12	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-090495	GENIE-DFCI-090495-299052	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-091178	GENIE-DFCI-091178-350231	19	Bone Cancer	Giant Cell Tumor of Bone	DFCI	Non-Spanish/non-Hispanic	NA	7	GCTB	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-091205	GENIE-DFCI-091205-350226	<18	Bone Cancer	Ewing Sarcoma	DFCI	Spanish/Hispanic	NA	6	ES	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-091544	GENIE-DFCI-091544-350281	38	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-092018	GENIE-DFCI-092018-296747	<18	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	CHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-099560	GENIE-DFCI-099560-950630	34	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-108012	GENIE-DFCI-108012-525876	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-109340	GENIE-DFCI-109340-436557	28	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-110549	GENIE-DFCI-110549-757386	49	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	10	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-118415	GENIE-DFCI-118415-901793	20	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	OS	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-122297	GENIE-DFCI-122297-1304202	28	Bone Cancer	Mesenchymal Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	MCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-130262	GENIE-DFCI-130262-1288329	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	OS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-132166	GENIE-DFCI-132166-1413868	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-135589	GENIE-DFCI-135589-999993	32	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	10	OS	Black	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-136991	GENIE-DFCI-136991-1200700	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-137315	GENIE-DFCI-137315-1303582	<18	Bone Cancer	Osteosarcoma	DFCI	Spanish/Hispanic	NA	NA	OS	Other	2	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-137315	GENIE-DFCI-137315-1304508	<18	Bone Cancer	Osteosarcoma	DFCI	Spanish/Hispanic	NA	9	OS	Other	2	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-137407	GENIE-DFCI-137407-1252030	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-137834	GENIE-DFCI-137834-1358774	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-138227	GENIE-DFCI-138227-1358652	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	8	ES	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-139353	GENIE-DFCI-139353-1291178	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-149337	GENIE-DFCI-149337-1672245	67	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-154554	GENIE-DFCI-154554-2271410	66	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	CHS	White	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-167550	GENIE-DFCI-167550-1844958	56	Bone Cancer	Chondroblastoma	DFCI	Non-Spanish/non-Hispanic	NA	5	CHBL	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-167597	GENIE-DFCI-167597-1525854	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	OS	Unknown	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-168023	GENIE-DFCI-168023-2271400	61	Bone Cancer	Osteoblastic Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	OSOS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-169743	GENIE-DFCI-169743-2021508	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-170225	GENIE-DFCI-170225-2089935	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	OS	Asian	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-170226	GENIE-DFCI-170226-2089827	72	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	7	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-170246	GENIE-DFCI-170246-2021485	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-182884	GENIE-DFCI-182884-2708218	46	Bone Cancer	Chordoma	DFCI	Non-Spanish/non-Hispanic	NA	7	CHDM	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-183200	GENIE-DFCI-183200-2839185	<18	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	CHS	White	3	Metastasis	Local recurrence	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-183200	GENIE-DFCI-183200-2839230	<18	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	CHS	White	3	Metastasis	Local recurrence	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-199746	GENIE-DFCI-199746-2644766	52	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	EMCHS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-202028	GENIE-DFCI-202028-2839234	32	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-202422	GENIE-DFCI-202422-2970399	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-202433	GENIE-DFCI-202433-2839120	18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-202445	GENIE-DFCI-202445-2904334	22	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-202457	GENIE-DFCI-202457-2904559	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-203627	GENIE-DFCI-203627-2839171	20	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	8	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-204101	GENIE-DFCI-204101-2904312	<18	Bone Cancer	Ewing Sarcoma	DFCI	Spanish/Hispanic	NA	5	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-204507	GENIE-DFCI-204507-2774315	<18	Bone Cancer	Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	CHS	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-204927	GENIE-DFCI-204927-2518476	28	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	ES	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-205377	GENIE-DFCI-205377-2774554	23	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-205823	GENIE-DFCI-205823-2518687	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-206341	GENIE-DFCI-206341-2455919	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-215239	GENIE-DFCI-215239-3170211	37	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	OS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-236308	GENIE-DFCI-236308-3446480	23	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-236317	GENIE-DFCI-236317-3446406	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-237094	GENIE-DFCI-237094-3103095	<18	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-258466	GENIE-DFCI-258466-3588214	32	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	ES	Asian	1	Metastasis	Local recurrence	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-262615	GENIE-DFCI-262615-3502593	22	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	ES	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-268153	GENIE-DFCI-268153-3588671	30	Bone Cancer	Ewing Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	ES	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-268803	GENIE-DFCI-268803-3530920	77	Bone Cancer	Dedifferentiated Chondrosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	14	DDCHS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-268915	GENIE-DFCI-268915-3676082	<18	Bone Cancer	Osteosarcoma	DFCI	Non-Spanish/non-Hispanic	NA	2	OS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-GRCC-113ee91d	GENIE-GRCC-113ee91d-sample-a	18	Bone Cancer	Osteosarcoma	GRCC	Not Collected	NA	NA	OS	Not collected	1	Primary	Primary tumor	GRCC-MOSC3	Male
+genie_public	GENIE-GRCC-2019dd43	GENIE-GRCC-2019dd43-metastasis-a	26	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	0.1496	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-32431a91	GENIE-GRCC-32431a91-metastasis-a	Unknown	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	1	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-CHP2	Male
+genie_public	GENIE-GRCC-3e4825eb	GENIE-GRCC-3e4825eb-sample-a	<18	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	1	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-3febe14f	GENIE-GRCC-3febe14f-metastasis-a	19	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	0.0202	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-492d2693	GENIE-GRCC-492d2693-sample-a	<18	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	2	ES	Not collected	1	Primary	Primary tumor	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-4b5b7429	GENIE-GRCC-4b5b7429-metastasis-a	20	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	0.0502	1	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-CHP2	Male
+genie_public	GENIE-GRCC-67523e36	GENIE-GRCC-67523e36-sample-a	<18	Bone Cancer	Osteosarcoma	GRCC	Not Collected	NA	1	OS	Not collected	1	Primary	Primary tumor	GRCC-MOSC3	Male
+genie_public	GENIE-GRCC-707845b3	GENIE-GRCC-707845b3-metastasis-a	21	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Male
+genie_public	GENIE-GRCC-860e4812	GENIE-GRCC-860e4812-metastasis-a	Unknown	Bone Cancer	Osteosarcoma	GRCC	Not Collected	0.3504	NA	OS	Not collected	1	Metastasis	Distant organ metastasis	GRCC-CHP2	Female
+genie_public	GENIE-GRCC-89ad042b	GENIE-GRCC-89ad042b-metastasis-a	Unknown	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	0.1802	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Male
+genie_public	GENIE-GRCC-95b71fe5	GENIE-GRCC-95b71fe5-metastasis-a	23	Bone Cancer	Mesenchymal Chondrosarcoma	GRCC	Not Collected	NA	NA	MCHS	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-9a71ddb2	GENIE-GRCC-9a71ddb2-sample-a	<18	Bone Cancer	Osteosarcoma	GRCC	Not Collected	NA	1	OS	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Male
+genie_public	GENIE-GRCC-a091c7xg	GENIE-GRCC-a091c7xg-sample-a	72	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC4	Male
+genie_public	GENIE-GRCC-a6bc7f8e	GENIE-GRCC-a6bc7f8e-metastasis-a	Unknown	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-c2ec7edd	GENIE-GRCC-c2ec7edd-metastasis-a	<18	Bone Cancer	Ewing Sarcoma	GRCC	Not Collected	NA	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-GRCC-e3ec287b	GENIE-GRCC-e3ec287b-sample-a	<18	Bone Cancer	Osteosarcoma	GRCC	Not Collected	NA	NA	OS	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Male
+genie_public	GENIE-JHU-01011	GENIE-JHU-01011-01164	55	Bone Cancer	Chondrosarcoma	JHU	Unknown	NA	1	CHS	White	1	Metastasis	Metastasis site unspecified	JHU-50GP	Female
+genie_public	GENIE-JHU-01301	GENIE-JHU-01301-01653	50	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	NA	CHS	Black	1	Metastasis	Metastasis site unspecified	JHU-50GP	Male
+genie_public	GENIE-JHU-01751	GENIE-JHU-01751-02154	49	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	1	CHS	White	1	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-01912	GENIE-JHU-01912-02333	63	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	2	CHS	White	1	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-01946	GENIE-JHU-01946-02369	46	Bone Cancer	Chondrosarcoma	JHU	Unknown	NA	NA	CHS	White	1	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-02774	GENIE-JHU-02774-03293	44	Bone Cancer	Osteosarcoma	JHU	Unknown	NA	1	OS	White	1	Metastasis	Distant organ metastasis	JHU-50GP	Female
+genie_public	GENIE-JHU-03215	GENIE-JHU-03215-03780	30	Bone Cancer	Ewing Sarcoma	JHU	Non-Spanish/non-Hispanic	NA	NA	ES	Other	1	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-03939	GENIE-JHU-03939-04600	29	Bone Cancer	Chondrosarcoma	JHU	Unknown	NA	NA	CHS	Black	2	Primary	Primary tumor	JHU-50GP	Male
+genie_public	GENIE-JHU-03939	GENIE-JHU-03939-04675	29	Bone Cancer	Chondrosarcoma	JHU	Unknown	NA	NA	CHS	Black	2	Metastasis	Distant organ metastasis	JHU-50GP	Male
+genie_public	GENIE-JHU-04158	GENIE-JHU-04158-04852	64	Bone Cancer	Mesenchymal Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	NA	MCHS	White	1	Primary	Primary tumor	JHU-50GP	Male
+genie_public	GENIE-JHU-04454	GENIE-JHU-04454-05197	71	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	NA	CHS	White	2	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-04454	GENIE-JHU-04454-05202	71	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	NA	CHS	White	2	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-04501	GENIE-JHU-04501-05247	70	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	7	CHS	White	1	Primary	Primary tumor	JHU-50GP	Male
+genie_public	GENIE-JHU-04522	GENIE-JHU-04522-05270	41	Bone Cancer	Chondrosarcoma	JHU	Non-Spanish/non-Hispanic	NA	2	CHS	Other	1	Primary	Primary tumor	JHU-50GP	Female
+genie_public	GENIE-JHU-04912	GENIE-JHU-04912-05718	<18	Bone Cancer	Osteosarcoma	JHU	Non-Spanish/non-Hispanic	NA	5	OS	White	1	Primary	Primary tumor	JHU-50GP	Male
+genie_public	GENIE-JHU-05807	GENIE-JHU-05807-06714	53	Bone Cancer	Chordoma	JHU	Non-Spanish/non-Hispanic	NA	NA	CHDM	White	1	Primary	Primary tumor	JHU-500STP	Female
+genie_public	GENIE-JHU-06715	GENIE-JHU-06715-07683	22	Bone Cancer	Osteosarcoma	JHU	Non-Spanish/non-Hispanic	NA	1	OS	White	1	Metastasis	Distant organ metastasis	JHU-500STP	Male
+genie_public	GENIE-JHU-06810	GENIE-JHU-06810-07783	<18	Bone Cancer	Ewing Sarcoma	JHU	Non-Spanish/non-Hispanic	NA	NA	ES	Black	1	Primary	Primary tumor	JHU-500STP	Male
+genie_public	GENIE-MDA-1152	GENIE-MDA-1152-2511	56	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-1245	GENIE-MDA-1245-2711	22	Bone Cancer	Osteosarcoma	MDA	Spanish/Hispanic	NA	NA	OS	Unknown	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1414	GENIE-MDA-1414-3037	7	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1494	GENIE-MDA-1494-3154	46	Bone Cancer	Chondrosarcoma	MDA	Spanish/Hispanic	NA	NA	CHS	Other	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1540	GENIE-MDA-1540-3229	62	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	2	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-1595	GENIE-MDA-1595-3308	34	Bone Cancer	Chondrosarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	CHS	Asian	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-1625	GENIE-MDA-1625-3351	55	Bone Cancer	Osteosarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	OS	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1645	GENIE-MDA-1645-3375	50	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	2	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-1671	GENIE-MDA-1671-3432	19	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-1788	GENIE-MDA-1788-3629	50	Bone Cancer	Chondrosarcoma	MDA	Spanish/Hispanic	NA	2	CHS	Unknown	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1802	GENIE-MDA-1802-3654	8	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-1835	GENIE-MDA-1835-3698	63	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	NA	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1840	GENIE-MDA-1840-3703	17	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	1	OS	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-1886	GENIE-MDA-1886-3783	54	Bone Cancer	Chondrosarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-1944	GENIE-MDA-1944-3880	45	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-1969	GENIE-MDA-1969-3910	25	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	1	ES	Unknown	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2107	GENIE-MDA-2107-4151	66	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	1	OS	Black	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-2113	GENIE-MDA-2113-4161	27	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-2223	GENIE-MDA-2223-4340	43	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2224	GENIE-MDA-2224-4341	24	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	Other	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2226	GENIE-MDA-2226-11765	28	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	2	ES	White	1	Primary	Primary tumor	MDA-409-V1	Male
+genie_public	GENIE-MDA-2227	GENIE-MDA-2227-4345	36	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2228	GENIE-MDA-2228-4346	24	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2252	GENIE-MDA-2252-4386	34	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	Unknown	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2253	GENIE-MDA-2253-4387	32	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2254	GENIE-MDA-2254-4388	27	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2255	GENIE-MDA-2255-4389	23	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2330	GENIE-MDA-2330-16850	54	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	MDA-409-V1	Male
+genie_public	GENIE-MDA-2354	GENIE-MDA-2354-4542	20	Bone Cancer	Osteosarcoma	MDA	Spanish/Hispanic	NA	NA	OS	Unknown	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-2359	GENIE-MDA-2359-4555	28	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2371	GENIE-MDA-2371-4579	20	Bone Cancer	Osteosarcoma	MDA	Spanish/Hispanic	NA	NA	OS	Unknown	1	Metastasis	Distant organ metastasis	MDA-46-V1	Female
+genie_public	GENIE-MDA-2381	GENIE-MDA-2381-4587	21	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-2426	GENIE-MDA-2426-4669	34	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2434	GENIE-MDA-2434-4683	49	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2488	GENIE-MDA-2488-4747	23	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2491	GENIE-MDA-2491-4750	43	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2643	GENIE-MDA-2643-4963	33	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	NA	ES	Other	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2656	GENIE-MDA-2656-17827	21	Bone Cancer	Chondrosarcoma	MDA	Spanish/Hispanic	NA	3	CHS	Other	1	Primary	Primary tumor	MDA-409-V1	Female
+genie_public	GENIE-MDA-2718	GENIE-MDA-2718-5061	21	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	Unknown	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2734	GENIE-MDA-2734-5076	56	Bone Cancer	Chondrosarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-2760	GENIE-MDA-2760-5107	21	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	NA	CHS	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-2763	GENIE-MDA-2763-5112	20	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	1	ES	Asian	1	Primary	Primary tumor	MDA-46-V1	Female
+genie_public	GENIE-MDA-2764	GENIE-MDA-2764-5113	28	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Metastasis	Distant organ metastasis	MDA-46-V1	Male
+genie_public	GENIE-MDA-3019	GENIE-MDA-3019-5503	29	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-3044	GENIE-MDA-3044-5541	38	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	NA	CHS	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-3280	GENIE-MDA-3280-5865	20	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-3443	GENIE-MDA-3443-6086	17	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	Black	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-3466	GENIE-MDA-3466-6112	49	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	2	CHS	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-3495	GENIE-MDA-3495-16508	49	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Primary	Primary tumor	MDA-409-V1	Female
+genie_public	GENIE-MDA-3526	GENIE-MDA-3526-6185	71	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-3557	GENIE-MDA-3557-6215	24	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	Unknown	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-3622	GENIE-MDA-3622-6315	18	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	Unknown	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-3640	GENIE-MDA-3640-6337	17	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-3697	GENIE-MDA-3697-6412	22	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	1	CHS	White	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-3782	GENIE-MDA-3782-6491	17	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	1	OS	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-3857	GENIE-MDA-3857-6677	24	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-3859	GENIE-MDA-3859-6679	20	Bone Cancer	Osteosarcoma	MDA	Spanish/Hispanic	NA	NA	OS	Unknown	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-3879	GENIE-MDA-3879-6694	36	Bone Cancer	Chordoma	MDA	Spanish/Hispanic	NA	NA	CHDM	Unknown	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-3959	GENIE-MDA-3959-7034	51	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	1	OS	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-4013	GENIE-MDA-4013-6951	60	Bone Cancer	Chordoma	MDA	Non-Spanish/non-Hispanic	NA	NA	CHDM	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-4103	GENIE-MDA-4103-16644	20	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	6	ES	White	1	Metastasis	Distant organ metastasis	MDA-409-V1	Male
+genie_public	GENIE-MDA-4827	GENIE-MDA-4827-17479	31	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	2	OS	White	1	Metastasis	Distant organ metastasis	MDA-409-V1	Male
+genie_public	GENIE-MDA-4967	GENIE-MDA-4967-16026	36	Bone Cancer	Osteosarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	OS	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Female
+genie_public	GENIE-MDA-5251	GENIE-MDA-5251-16482	17	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	Unknown	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-5353	GENIE-MDA-5353-16488	18	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	2	OS	White	1	Metastasis	Distant organ metastasis	MDA-409-V1	Male
+genie_public	GENIE-MDA-5375	GENIE-MDA-5375-16514	61	Bone Cancer	Chordoma	MDA	Spanish/Hispanic	NA	NA	CHDM	Unknown	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-5531	GENIE-MDA-5531-16445	46	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	NA	ES	Unknown	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-5533	GENIE-MDA-5533-16446	53	Bone Cancer	Chordoma	MDA	Unknown	NA	NA	CHDM	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Female
+genie_public	GENIE-MDA-55419	GENIE-MDA-55419-391421	64	Bone Cancer	Chondrosarcoma	MDA	Non-Spanish/non-Hispanic	NA	2	CHS	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-5905	GENIE-MDA-5905-16942	78	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	2	CHS	Other	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-5995	GENIE-MDA-5995-17090	31	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	NA	ES	Other	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-6035	GENIE-MDA-6035-16983	41	Bone Cancer	Osteosarcoma	MDA	Spanish/Hispanic	NA	2	OS	Unknown	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-6061	GENIE-MDA-6061-17027	41	Bone Cancer	Ewing Sarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	ES	White	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-6291	GENIE-MDA-6291-17371	17	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	NA	ES	Unknown	1	Primary	Primary tumor	MDA-50-V1	Male
+genie_public	GENIE-MDA-6333	GENIE-MDA-6333-17902	27	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	2	OS	White	1	Primary	Primary tumor	MDA-409-V1	Female
+genie_public	GENIE-MDA-6338	GENIE-MDA-6338-17403	45	Bone Cancer	Chondrosarcoma	MDA	Non-Spanish/non-Hispanic	NA	NA	CHS	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-6502	GENIE-MDA-6502-17735	33	Bone Cancer	Ewing Sarcoma	MDA	Unknown	NA	1	ES	White	1	Primary	Primary tumor	MDA-409-V1	Male
+genie_public	GENIE-MDA-6610	GENIE-MDA-6610-18064	51	Bone Cancer	Osteosarcoma	MDA	Non-Spanish/non-Hispanic	NA	3	OS	White	1	Metastasis	Distant organ metastasis	MDA-409-V1	Male
+genie_public	GENIE-MDA-6714	GENIE-MDA-6714-17925	22	Bone Cancer	Osteosarcoma	MDA	Spanish/Hispanic	NA	NA	OS	Other	1	Metastasis	Distant organ metastasis	MDA-50-V1	Male
+genie_public	GENIE-MDA-6724	GENIE-MDA-6724-17921	46	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	3	CHS	White	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-6757	GENIE-MDA-6757-17969	30	Bone Cancer	Chordoma	MDA	Non-Spanish/non-Hispanic	NA	NA	CHDM	Asian	1	Primary	Primary tumor	MDA-50-V1	Female
+genie_public	GENIE-MDA-735	GENIE-MDA-735-1668	56	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	1	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-8260	GENIE-MDA-8260-18371	32	Bone Cancer	Chondrosarcoma	MDA	Spanish/Hispanic	NA	2	CHS	Unknown	1	Primary	Primary tumor	MDA-409-V1	Female
+genie_public	GENIE-MDA-8307	GENIE-MDA-8307-18442	44	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	1	OS	White	1	Metastasis	Local recurrence	MDA-50-V1	Female
+genie_public	GENIE-MDA-8326	GENIE-MDA-8326-18459	44	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	1	CHS	White	1	Metastasis	Distant organ metastasis	MDA-50-V1	Female
+genie_public	GENIE-MDA-8342	GENIE-MDA-8342-18467	17	Bone Cancer	Osteosarcoma	MDA	Unknown	NA	NA	OS	Unknown	1	Metastasis	Distant organ metastasis	MDA-50-V1	Female
+genie_public	GENIE-MDA-849	GENIE-MDA-849-1923	68	Bone Cancer	Chondrosarcoma	MDA	Unknown	NA	NA	CHS	White	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MDA-919	GENIE-MDA-919-2104	29	Bone Cancer	Ewing Sarcoma	MDA	Spanish/Hispanic	NA	NA	ES	Unknown	1	Primary	Primary tumor	MDA-46-V1	Male
+genie_public	GENIE-MSK-P-0000232	GENIE-MSK-P-0000232-T01-IM3	40	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0051	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000253	GENIE-MSK-P-0000253-T02-IM5	34	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0615	1	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0000379	GENIE-MSK-P-0000379-T02-IM3	65	Bone Cancer	Myxoid Chondrosarcoma	MSK	Unknown	0.0464	1	MYCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000710	GENIE-MSK-P-0000710-T01-IM3	54	Bone Cancer	Chondroblastoma	MSK	Unknown	0.0137	2	CHBL	Black	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0000718	GENIE-MSK-P-0000718-T01-IM3	71	Bone Cancer	Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1021	NA	MYCHS	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000719	GENIE-MSK-P-0000719-T01-IM3	79	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0003	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0000723	GENIE-MSK-P-0000723-T01-IM3	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0049	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0000815	GENIE-MSK-P-0000815-T01-IM3	40	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6224	4	CHOS	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000848	GENIE-MSK-P-0000848-T01-IM3	28	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0006	NA	CHS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000857	GENIE-MSK-P-0000857-T01-IM3	58	Bone Cancer	Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4435	NA	MYCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000937	GENIE-MSK-P-0000937-T01-IM3	68	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.6766	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0000972	GENIE-MSK-P-0000972-T01-IM3	39	Bone Cancer	Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3558	NA	MYCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001026	GENIE-MSK-P-0001026-T01-IM3	73	Bone Cancer	Small Cell Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0056	NA	SCOS	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001111	GENIE-MSK-P-0001111-T01-IM3	31	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0952	3	CHOS	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0001129	GENIE-MSK-P-0001129-T01-IM3	79	Bone Cancer	Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1576	1	MYCHS	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001233	GENIE-MSK-P-0001233-T01-IM3	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1030	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0001288	GENIE-MSK-P-0001288-T01-IM3	60	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2936	2	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001377	GENIE-MSK-P-0001377-T01-IM3	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0061	NA	ES	White	2	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001377	GENIE-MSK-P-0001377-T02-IM5	18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0024	NA	ES	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0001436	GENIE-MSK-P-0001436-T01-IM3	47	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0904	NA	OSOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001436	GENIE-MSK-P-0001436-T02-IM3	47	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0210	NA	OSOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001482	GENIE-MSK-P-0001482-T01-IM3	39	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2740	1	EMCHS	Black	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001540	GENIE-MSK-P-0001540-T01-IM3	60	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1420	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0001725	GENIE-MSK-P-0001725-T01-IM3	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.5188	5	ES	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0001727	GENIE-MSK-P-0001727-T01-IM3	62	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2775	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001827	GENIE-MSK-P-0001827-T01-IM3	58	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.5610	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0001896	GENIE-MSK-P-0001896-T01-IM3	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1167	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0001982	GENIE-MSK-P-0001982-T01-IM3	38	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4575	5	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002084	GENIE-MSK-P-0002084-T01-IM3	<18	Bone Cancer	Ewing Sarcoma	MSK	Unknown	0.3691	1	ES	Unknown	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002170	GENIE-MSK-P-0002170-T01-IM3	28	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2234	6	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002190	GENIE-MSK-P-0002190-T01-IM3	26	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1339	2	OSOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002190	GENIE-MSK-P-0002190-T02-IM5	28	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3749	1	OS	White	2	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0002240	GENIE-MSK-P-0002240-T01-IM3	44	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3856	1	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0002259	GENIE-MSK-P-0002259-T01-IM3	58	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2203	1	CHDM	Black	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002269	GENIE-MSK-P-0002269-T01-IM3	19	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5034	1	CHOS	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0002448	GENIE-MSK-P-0002448-T02-IM3	58	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4658	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002641	GENIE-MSK-P-0002641-T01-IM3	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6975	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002701	GENIE-MSK-P-0002701-T01-IM3	60	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.4880	1	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0002720	GENIE-MSK-P-0002720-T01-IM3	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.6038	2	OS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0002764	GENIE-MSK-P-0002764-T01-IM3	51	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.9351	NA	CHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0002851	GENIE-MSK-P-0002851-T01-IM3	40	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2447	3	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0002863	GENIE-MSK-P-0002863-T01-IM3	51	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2160	2	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0002952	GENIE-MSK-P-0002952-T01-IM3	72	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3254	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0003164	GENIE-MSK-P-0003164-T01-IM5	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5210	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0003290	GENIE-MSK-P-0003290-T01-IM5	46	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.4075	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0003486	GENIE-MSK-P-0003486-T01-IM5	25	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0045	NA	ES	Pacific Islander	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0003494	GENIE-MSK-P-0003494-T01-IM5	<18	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0778	1	MCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0003545	GENIE-MSK-P-0003545-T01-IM5	52	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0649	2	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0003554	GENIE-MSK-P-0003554-T01-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0249	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0003949	GENIE-MSK-P-0003949-T01-IM5	51	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1071	1	CHDM	Black	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004041	GENIE-MSK-P-0004041-T01-IM5	48	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1685	3	CHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004097	GENIE-MSK-P-0004097-T01-IM5	27	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0008	8	CHOS	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004145	GENIE-MSK-P-0004145-T01-IM5	44	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2971	NA	CHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004145	GENIE-MSK-P-0004145-T02-IM5	44	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3257	NA	CHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004200	GENIE-MSK-P-0004200-T01-IM5	19	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	CHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004306	GENIE-MSK-P-0004306-T01-IM5	64	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2561	1	EMCHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004351	GENIE-MSK-P-0004351-T01-IM5	32	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0021	2	OS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004498	GENIE-MSK-P-0004498-T01-IM5	40	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0600	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004505	GENIE-MSK-P-0004505-T01-IM5	51	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2798	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004590	GENIE-MSK-P-0004590-T01-IM5	27	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1661	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004685	GENIE-MSK-P-0004685-T02-IM5	59	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.1986	3	CHS	Other	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004772	GENIE-MSK-P-0004772-T01-IM5	18	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0647	NA	ES	Black	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004854	GENIE-MSK-P-0004854-T01-IM5	22	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Spanish/Hispanic	0.2503	2	MCHS	Black	2	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004854	GENIE-MSK-P-0004854-T02-IM6	24	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Spanish/Hispanic	0.1755	2	MCHS	Black	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0004931	GENIE-MSK-P-0004931-T02-IM5	19	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1305	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0004969	GENIE-MSK-P-0004969-T01-IM5	60	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0671	5	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0005028	GENIE-MSK-P-0005028-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1801	3	OS	Black	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005049	GENIE-MSK-P-0005049-T01-IM5	26	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	CHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005101	GENIE-MSK-P-0005101-T01-IM5	69	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0813	2	ES	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005119	GENIE-MSK-P-0005119-T02-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0407	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005297	GENIE-MSK-P-0005297-T01-IM5	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1260	NA	ES	White	2	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0005297	GENIE-MSK-P-0005297-T02-IM6	27	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2183	1	ES	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0005442	GENIE-MSK-P-0005442-T01-IM5	22	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1504	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005465	GENIE-MSK-P-0005465-T01-IM5	47	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1508	1	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0005485	GENIE-MSK-P-0005485-T01-IM5	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0003	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005517	GENIE-MSK-P-0005517-T01-IM5	<18	Bone Cancer	Secondary Osteosarcoma	MSK	Spanish/Hispanic	0.5529	1	SECOS	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005607	GENIE-MSK-P-0005607-T01-IM5	62	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0027	1	EMCHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0005607	GENIE-MSK-P-0005607-T02-IM6	64	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0060	1	EMCHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0005614	GENIE-MSK-P-0005614-T01-IM5	60	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0744	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005648	GENIE-MSK-P-0005648-T01-IM5	24	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1719	7	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005648	GENIE-MSK-P-0005648-T02-IM5	25	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3709	4	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005716	GENIE-MSK-P-0005716-T01-IM5	32	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2045	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0005841	GENIE-MSK-P-0005841-T01-IM5	23	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0612	4	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0005969	GENIE-MSK-P-0005969-T01-IM5	59	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1037	2	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005977	GENIE-MSK-P-0005977-T01-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1037	NA	ES	Asian	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0006024	GENIE-MSK-P-0006024-T01-IM5	31	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3204	NA	CHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0006040	GENIE-MSK-P-0006040-T01-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0019	NA	ES	Other	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0006159	GENIE-MSK-P-0006159-T01-IM5	67	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1030	NA	EMCHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0006204	GENIE-MSK-P-0006204-T01-IM5	40	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.5212	3	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0006301	GENIE-MSK-P-0006301-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0040	NA	OS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0006323	GENIE-MSK-P-0006323-T01-IM5	77	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.4156	2	CHDM	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0006985	GENIE-MSK-P-0006985-T01-IM5	31	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3959	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0007301	GENIE-MSK-P-0007301-T01-IM5	59	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3574	2	DDCHS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0007585	GENIE-MSK-P-0007585-T01-IM5	48	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.4849	NA	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0007660	GENIE-MSK-P-0007660-T01-IM5	73	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4294	4	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0007743	GENIE-MSK-P-0007743-T01-IM5	50	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0640	NA	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008008	GENIE-MSK-P-0008008-T01-IM5	28	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0557	2	OS	White	3	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008008	GENIE-MSK-P-0008008-T02-IM5	29	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3367	1	OS	White	3	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008008	GENIE-MSK-P-0008008-T05-IM6	32	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1528	3	OS	White	3	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0008030	GENIE-MSK-P-0008030-T01-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0032	NA	ES	Asian	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008102	GENIE-MSK-P-0008102-T01-IM5	25	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0332	3	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008230	GENIE-MSK-P-0008230-T01-IM5	67	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0316	NA	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008266	GENIE-MSK-P-0008266-T01-IM5	55	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Spanish/Hispanic	0.1970	1	DDCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008320	GENIE-MSK-P-0008320-T01-IM5	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0371	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008352	GENIE-MSK-P-0008352-T01-IM5	30	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0759	3	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008355	GENIE-MSK-P-0008355-T01-IM5	23	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1119	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008376	GENIE-MSK-P-0008376-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.0638	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008432	GENIE-MSK-P-0008432-T01-IM5	29	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0074	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008462	GENIE-MSK-P-0008462-T02-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4759	3	OS	White	1	Metastasis	Local recurrence	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0008517	GENIE-MSK-P-0008517-T01-IM5	27	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1229	1	MCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008526	GENIE-MSK-P-0008526-T01-IM5	59	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0327	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008663	GENIE-MSK-P-0008663-T01-IM5	36	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4888	4	OS	Asian	3	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008663	GENIE-MSK-P-0008663-T02-IM5	38	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5016	2	OS	Asian	3	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008663	GENIE-MSK-P-0008663-T03-IM5	38	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4423	1	OS	Asian	3	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008695	GENIE-MSK-P-0008695-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4759	3	OS	Asian	4	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008695	GENIE-MSK-P-0008695-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3443	2	OS	Asian	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0008695	GENIE-MSK-P-0008695-T03-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4111	NA	OS	Asian	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0008695	GENIE-MSK-P-0008695-T04-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6101	1	OSOS	Asian	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0008716	GENIE-MSK-P-0008716-T01-IM5	52	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008720	GENIE-MSK-P-0008720-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4148	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008731	GENIE-MSK-P-0008731-T01-IM5	52	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1870	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008749	GENIE-MSK-P-0008749-T01-IM5	21	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0506	3	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0009144	GENIE-MSK-P-0009144-T01-IM5	64	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3150	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0010006	GENIE-MSK-P-0010006-T01-IM5	36	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0842	5	CHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0010206	GENIE-MSK-P-0010206-T01-IM5	50	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3705	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0010301	GENIE-MSK-P-0010301-T01-IM5	18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.6679	1	OS	White	2	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0010301	GENIE-MSK-P-0010301-T02-IM6	19	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.4940	4	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0010356	GENIE-MSK-P-0010356-T01-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Unknown	0.0145	NA	ES	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0010595	GENIE-MSK-P-0010595-T01-IM5	31	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0450	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0010757	GENIE-MSK-P-0010757-T01-IM5	84	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2141	2	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0010819	GENIE-MSK-P-0010819-T01-IM5	36	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.6452	5	CHDM	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0010936	GENIE-MSK-P-0010936-T01-IM5	76	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.1205	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011067	GENIE-MSK-P-0011067-T01-IM5	44	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1341	1	EMCHS	White	2	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011067	GENIE-MSK-P-0011067-T03-IM6	47	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1810	1	EMCHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0011196	GENIE-MSK-P-0011196-T01-IM5	68	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2269	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011220	GENIE-MSK-P-0011220-T01-IM5	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5476	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011256	GENIE-MSK-P-0011256-T01-IM5	36	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.0308	NA	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011256	GENIE-MSK-P-0011256-T02-IM6	36	Bone Cancer	Telangiectatic Osteosarcoma	MSK	Spanish/Hispanic	0.0598	1	TEOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0011358	GENIE-MSK-P-0011358-T01-IM5	64	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0943	6	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011466	GENIE-MSK-P-0011466-T01-IM5	31	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1057	NA	OS	White	3	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011466	GENIE-MSK-P-0011466-T02-IM6	32	Bone Cancer	Parosteal Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3244	2	PAOS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0011466	GENIE-MSK-P-0011466-T03-IM6	34	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0033	1	OS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0011526	GENIE-MSK-P-0011526-T01-IM5	19	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4853	4	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011539	GENIE-MSK-P-0011539-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4698	2	OS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011550	GENIE-MSK-P-0011550-T01-IM5	22	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5390	2	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0011575	GENIE-MSK-P-0011575-T01-IM5	62	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4727	6	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012097	GENIE-MSK-P-0012097-T01-IM5	29	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0034	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012126	GENIE-MSK-P-0012126-T01-IM5	77	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1135	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012131	GENIE-MSK-P-0012131-T01-IM5	29	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0032	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0012191	GENIE-MSK-P-0012191-T01-IM5	55	Bone Cancer	Myxoid Chondrosarcoma	MSK	Spanish/Hispanic	0.0045	3	MYCHS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012264	GENIE-MSK-P-0012264-T01-IM5	19	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3659	7	OS	Other	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0012286	GENIE-MSK-P-0012286-T02-IM6	69	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1890	5	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0012316	GENIE-MSK-P-0012316-T01-IM5	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1893	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0012482	GENIE-MSK-P-0012482-T02-IM5	21	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012552	GENIE-MSK-P-0012552-T01-IM5	26	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0015	1	CHDM	Black	2	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0012552	GENIE-MSK-P-0012552-T02-IM6	27	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1152	3	CHDM	Black	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0012659	GENIE-MSK-P-0012659-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4772	2	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0012776	GENIE-MSK-P-0012776-T01-IM5	56	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0041	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012826	GENIE-MSK-P-0012826-T01-IM5	40	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1482	4	OS	Unknown	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0012927	GENIE-MSK-P-0012927-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0057	2	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013026	GENIE-MSK-P-0013026-T01-IM5	19	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0989	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013102	GENIE-MSK-P-0013102-T01-IM5	71	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.4222	NA	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0013175	GENIE-MSK-P-0013175-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4705	2	OS	Black	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0013177	GENIE-MSK-P-0013177-T01-IM5	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3094	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013209	GENIE-MSK-P-0013209-T01-IM5	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3387	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013436	GENIE-MSK-P-0013436-T01-IM5	62	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0030	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013530	GENIE-MSK-P-0013530-T02-IM6	47	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1387	3	CHOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0013575	GENIE-MSK-P-0013575-T01-IM5	43	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2563	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013601	GENIE-MSK-P-0013601-T01-IM5	35	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.1800	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013637	GENIE-MSK-P-0013637-T01-IM5	72	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3307	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013745	GENIE-MSK-P-0013745-T02-IM6	29	Bone Cancer	Small Cell Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0124	2	SCOS	Asian	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0013745	GENIE-MSK-P-0013745-T05-IM6	31	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0001	4	OS	Asian	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0013746	GENIE-MSK-P-0013746-T02-IM5	18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013874	GENIE-MSK-P-0013874-T01-IM5	40	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1631	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013922	GENIE-MSK-P-0013922-T01-IM5	56	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0006	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013984	GENIE-MSK-P-0013984-T01-IM5	44	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4690	6	OS	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0014043	GENIE-MSK-P-0014043-T01-IM5	34	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0042	2	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0014094	GENIE-MSK-P-0014094-T01-IM5	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0009	1	OS	White	2	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0014094	GENIE-MSK-P-0014094-T02-IM5	<18	Bone Cancer	Low-Grade Central Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0	1	LGCOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0014193	GENIE-MSK-P-0014193-T01-IM6	63	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2525	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0014314	GENIE-MSK-P-0014314-T01-IM6	44	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0120	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0014545	GENIE-MSK-P-0014545-T01-IM6	60	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3273	1	CHDM	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0014545	GENIE-MSK-P-0014545-T02-IM6	63	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.4630	2	CHDM	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0014655	GENIE-MSK-P-0014655-T01-IM6	46	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3564	7	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0014984	GENIE-MSK-P-0014984-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.5785	2	ES	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0015458	GENIE-MSK-P-0015458-T01-IM6	42	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0012	1	DDCHS	Asian	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0015458	GENIE-MSK-P-0015458-T02-IM6	43	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0266	1	CHS	Asian	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0015517	GENIE-MSK-P-0015517-T01-IM6	28	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2877	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0015619	GENIE-MSK-P-0015619-T03-IM6	48	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0	4	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0015637	GENIE-MSK-P-0015637-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.2672	1	OS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0015963	GENIE-MSK-P-0015963-T01-IM6	77	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3784	2	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0015994	GENIE-MSK-P-0015994-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.6067	2	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0016055	GENIE-MSK-P-0016055-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2565	1	OS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016055	GENIE-MSK-P-0016055-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4789	3	OS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016055	GENIE-MSK-P-0016055-T04-IM6	19	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3061	3	OS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016097	GENIE-MSK-P-0016097-T01-IM6	32	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0010	2	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0016346	GENIE-MSK-P-0016346-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0505	NA	ES	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016354	GENIE-MSK-P-0016354-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3172	4	OS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0016406	GENIE-MSK-P-0016406-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Unknown	0.4990	3	OS	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Unknown
+genie_public	GENIE-MSK-P-0016595	GENIE-MSK-P-0016595-T01-IM6	<18	Bone Cancer	Fibroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4998	1	FIOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0016645	GENIE-MSK-P-0016645-T01-IM6	27	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1307	4	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016871	GENIE-MSK-P-0016871-T01-IM6	80	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3761	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016922	GENIE-MSK-P-0016922-T01-IM6	80	Bone Cancer	Conventional Type Chordoma	MSK	Non-Spanish/non-Hispanic	0.0102	2	CCHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0016944	GENIE-MSK-P-0016944-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1420	3	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0016977	GENIE-MSK-P-0016977-T01-IM6	71	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3490	1	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017027	GENIE-MSK-P-0017027-T01-IM6	29	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2196	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0017165	GENIE-MSK-P-0017165-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2621	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017178	GENIE-MSK-P-0017178-T01-IM6	77	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0001	2	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017211	GENIE-MSK-P-0017211-T01-IM6	73	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4272	3	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017225	GENIE-MSK-P-0017225-T01-IM6	31	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0610	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017250	GENIE-MSK-P-0017250-T01-IM6	19	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Unknown	0.5792	3	CHOS	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017254	GENIE-MSK-P-0017254-T01-IM6	<18	Bone Cancer	Fibroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3495	1	FIOS	Asian	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017254	GENIE-MSK-P-0017254-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5170	2	OS	Asian	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017427	GENIE-MSK-P-0017427-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0019	1	ES	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0017450	GENIE-MSK-P-0017450-T01-IM6	76	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5543	6	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0017638	GENIE-MSK-P-0017638-T05-IM6	72	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0001	3	CHS	Other	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0017837	GENIE-MSK-P-0017837-T01-IM6	<18	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	CHDM	Black	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0018083	GENIE-MSK-P-0018083-T01-IM6	60	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0595	2	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0018228	GENIE-MSK-P-0018228-T01-IM6	39	Bone Cancer	Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0044	NA	MYCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0018318	GENIE-MSK-P-0018318-T01-IM6	<18	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2482	7	CHOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0018508	GENIE-MSK-P-0018508-T01-IM6	21	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0004	1	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0018512	GENIE-MSK-P-0018512-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2627	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0018519	GENIE-MSK-P-0018519-T01-IM6	69	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6023	3	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0018530	GENIE-MSK-P-0018530-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3697	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0018597	GENIE-MSK-P-0018597-T01-IM6	26	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5167	4	OSOS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0018663	GENIE-MSK-P-0018663-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0649	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0018718	GENIE-MSK-P-0018718-T01-IM6	<18	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Spanish/Hispanic	0.3901	1	CHOS	Other	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0018718	GENIE-MSK-P-0018718-T04-IM6	<18	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Spanish/Hispanic	0.5115	1	CHOS	Other	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019053	GENIE-MSK-P-0019053-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.0000	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019080	GENIE-MSK-P-0019080-T02-IM6	68	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1105	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019140	GENIE-MSK-P-0019140-T01-IM6	29	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3599	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019327	GENIE-MSK-P-0019327-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2050	1	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0019327	GENIE-MSK-P-0019327-T03-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6080	2	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0019470	GENIE-MSK-P-0019470-T01-IM6	36	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1971	NA	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019494	GENIE-MSK-P-0019494-T01-IM6	39	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.7733	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019511	GENIE-MSK-P-0019511-T01-IM6	65	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2395	4	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019604	GENIE-MSK-P-0019604-T01-IM6	19	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.5027	15	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019634	GENIE-MSK-P-0019634-T01-IM6	19	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5190	2	OS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0019689	GENIE-MSK-P-0019689-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0229	2	OS	Black	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0019689	GENIE-MSK-P-0019689-T02-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3032	4	OS	Black	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0019756	GENIE-MSK-P-0019756-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0028	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019866	GENIE-MSK-P-0019866-T01-IM6	35	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0544	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0020296	GENIE-MSK-P-0020296-T01-IM6	84	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2699	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0020463	GENIE-MSK-P-0020463-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0837	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0020606	GENIE-MSK-P-0020606-T01-IM6	<18	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6795	NA	CHOS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0020740	GENIE-MSK-P-0020740-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6440	1	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0020798	GENIE-MSK-P-0020798-T01-IM6	28	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0162	2	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0020798	GENIE-MSK-P-0020798-T02-IM6	28	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2028	4	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021068	GENIE-MSK-P-0021068-T01-IM6	29	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2196	NA	ES	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021265	GENIE-MSK-P-0021265-T01-IM6	69	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3545	4	CHDM	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0021358	GENIE-MSK-P-0021358-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2149	3	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0021358	GENIE-MSK-P-0021358-T03-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5347	4	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0021410	GENIE-MSK-P-0021410-T01-IM6	35	Bone Cancer	Giant Cell Tumor of Bone	MSK	Non-Spanish/non-Hispanic	0.0052	7	GCTB	Black	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021410	GENIE-MSK-P-0021410-T02-IM6	35	Bone Cancer	Giant Cell Tumor of Bone	MSK	Non-Spanish/non-Hispanic	0.0122	8	GCTB	Black	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021755	GENIE-MSK-P-0021755-T01-IM6	60	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2994	3	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021850	GENIE-MSK-P-0021850-T01-IM6	79	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.7838	7	DDCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0021869	GENIE-MSK-P-0021869-T01-IM6	56	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0009	2	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021880	GENIE-MSK-P-0021880-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3086	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0021892	GENIE-MSK-P-0021892-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1443	NA	OS	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021902	GENIE-MSK-P-0021902-T02-IM6	24	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0565	4	MCHS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0021939	GENIE-MSK-P-0021939-T01-IM6	23	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1419	3	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021981	GENIE-MSK-P-0021981-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0128	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022108	GENIE-MSK-P-0022108-T01-IM6	73	Bone Cancer	Osteosarcoma	MSK	Unknown	0.3448	4	OS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022183	GENIE-MSK-P-0022183-T01-IM6	65	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2128	1	CHDM	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022183	GENIE-MSK-P-0022183-T02-IM6	65	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0684	3	CHDM	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022234	GENIE-MSK-P-0022234-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1124	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022396	GENIE-MSK-P-0022396-T01-IM6	23	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3684	3	OSOS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022396	GENIE-MSK-P-0022396-T02-IM6	25	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0336	1	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022452	GENIE-MSK-P-0022452-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2483	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022485	GENIE-MSK-P-0022485-T01-IM6	56	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0269	NA	EMCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0022585	GENIE-MSK-P-0022585-T01-IM6	22	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.4839	4	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0022676	GENIE-MSK-P-0022676-T01-IM6	72	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4086	7	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022690	GENIE-MSK-P-0022690-T01-IM6	39	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2701	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0022721	GENIE-MSK-P-0022721-T01-IM6	<18	Bone Cancer	High-Grade Surface Osteosarcoma	MSK	Unknown	0.4599	1	HGSOS	Unknown	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0022721	GENIE-MSK-P-0022721-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Unknown	0.0780	1	OS	Unknown	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0022975	GENIE-MSK-P-0022975-T01-IM6	32	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4206	3	OS	Black	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022975	GENIE-MSK-P-0022975-T02-IM6	34	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0019	2	OS	Black	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0022999	GENIE-MSK-P-0022999-T01-IM6	55	Bone Cancer	Chondrosarcoma	MSK	Unknown	0.0054	4	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023399	GENIE-MSK-P-0023399-T02-IM6	63	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5985	4	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023479	GENIE-MSK-P-0023479-T01-IM6	51	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0890	32	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023520	GENIE-MSK-P-0023520-T01-IM6	32	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0142	3	CHS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023578	GENIE-MSK-P-0023578-T01-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Unknown	0.6088	NA	OSOS	Unknown	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023578	GENIE-MSK-P-0023578-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Unknown	0.0000	NA	OS	Unknown	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023607	GENIE-MSK-P-0023607-T01-IM6	60	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	NA	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0023766	GENIE-MSK-P-0023766-T01-IM6	46	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0909	3	CHOS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0023939	GENIE-MSK-P-0023939-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.3437	3	OS	Native American	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024067	GENIE-MSK-P-0024067-T01-IM6	21	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0001	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024152	GENIE-MSK-P-0024152-T01-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1998	NA	OSOS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024152	GENIE-MSK-P-0024152-T02-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0275	1	OSOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024165	GENIE-MSK-P-0024165-T01-IM6	79	Bone Cancer	Adamantinoma	MSK	Non-Spanish/non-Hispanic	0.3804	1	ADMA	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0024634	GENIE-MSK-P-0024634-T01-IM6	<18	Bone Cancer	Chondroblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2669	2	CHOS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024634	GENIE-MSK-P-0024634-T02-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2853	2	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024805	GENIE-MSK-P-0024805-T01-IM6	48	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3858	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024807	GENIE-MSK-P-0024807-T01-IM6	42	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1421	3	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024846	GENIE-MSK-P-0024846-T02-IM6	40	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0996	3	ES	Other	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0024945	GENIE-MSK-P-0024945-T01-IM6	20	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0397	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0025004	GENIE-MSK-P-0025004-T01-IM6	27	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0082	NA	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0025147	GENIE-MSK-P-0025147-T01-IM6	65	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3829	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0025172	GENIE-MSK-P-0025172-T01-IM6	39	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0185	NA	CHDM	Other	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0025251	GENIE-MSK-P-0025251-T01-IM6	39	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0258	1	ES	Asian	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0025384	GENIE-MSK-P-0025384-T01-IM6	39	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0388	NA	OS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0025706	GENIE-MSK-P-0025706-T01-IM6	<18	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1321	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0026215	GENIE-MSK-P-0026215-T01-IM6	22	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0799	1	CHDM	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026236	GENIE-MSK-P-0026236-T01-IM6	51	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.4739	NA	OS	Other	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0026404	GENIE-MSK-P-0026404-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0716	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026469	GENIE-MSK-P-0026469-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2369	1	OS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0026482	GENIE-MSK-P-0026482-T02-IM6	21	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.2391	NA	OS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0026712	GENIE-MSK-P-0026712-T01-IM6	26	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4763	2	OSOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026832	GENIE-MSK-P-0026832-T01-IM6	59	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4704	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026837	GENIE-MSK-P-0026837-T01-IM6	46	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4721	2	CHS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0027573	GENIE-MSK-P-0027573-T02-IM6	55	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0595	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0027729	GENIE-MSK-P-0027729-T01-IM6	47	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.0166	2	CHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0027729	GENIE-MSK-P-0027729-T02-IM6	47	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.8940	3	CHS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0027826	GENIE-MSK-P-0027826-T02-IM6	68	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4481	4	OS	White	3	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0027826	GENIE-MSK-P-0027826-T03-IM6	68	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5827	4	OS	White	3	Metastasis	Local recurrence	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0027956	GENIE-MSK-P-0027956-T01-IM6	43	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5353	4	OS	Asian	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0027956	GENIE-MSK-P-0027956-T02-IM6	43	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6085	3	OSOS	Asian	3	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0027956	GENIE-MSK-P-0027956-T03-IM6	44	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.7088	4	OS	Asian	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028050	GENIE-MSK-P-0028050-T02-IM6	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0731	3	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028058	GENIE-MSK-P-0028058-T01-IM6	64	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0516	NA	CHDM	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028058	GENIE-MSK-P-0028058-T02-IM6	64	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2814	1	CHDM	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028301	GENIE-MSK-P-0028301-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4131	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028424	GENIE-MSK-P-0028424-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Unknown	0.4499	3	OS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028435	GENIE-MSK-P-0028435-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Unknown	0.4139	2	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028484	GENIE-MSK-P-0028484-T01-IM6	40	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0072	NA	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028484	GENIE-MSK-P-0028484-T02-IM6	42	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1347	8	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028602	GENIE-MSK-P-0028602-T01-IM6	63	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.9887	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028882	GENIE-MSK-P-0028882-T01-IM6	60	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	CHDM	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028882	GENIE-MSK-P-0028882-T02-IM6	60	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.7789	1	CHDM	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028884	GENIE-MSK-P-0028884-T01-IM6	64	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.6367	2	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029239	GENIE-MSK-P-0029239-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0372	NA	OS	White	4	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029239	GENIE-MSK-P-0029239-T02-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0017	NA	OS	White	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029239	GENIE-MSK-P-0029239-T03-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0698	NA	OS	White	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029239	GENIE-MSK-P-0029239-T04-IM6	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6327	3	OS	White	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029258	GENIE-MSK-P-0029258-T01-IM6	63	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0876	3	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029448	GENIE-MSK-P-0029448-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Unknown	0.0958	NA	ES	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Unknown
+genie_public	GENIE-MSK-P-0029601	GENIE-MSK-P-0029601-T01-IM6	76	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2284	17	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0029619	GENIE-MSK-P-0029619-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1228	1	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030044	GENIE-MSK-P-0030044-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0075	1	ES	Other	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0030093	GENIE-MSK-P-0030093-T01-IM6	77	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4678	4	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030220	GENIE-MSK-P-0030220-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.1232	1	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030279	GENIE-MSK-P-0030279-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0362	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0030349	GENIE-MSK-P-0030349-T03-IM6	40	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1845	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0030574	GENIE-MSK-P-0030574-T01-IM6	64	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0008	NA	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030613	GENIE-MSK-P-0030613-T01-IM6	36	Bone Cancer	Parosteal Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0044	NA	PAOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030711	GENIE-MSK-P-0030711-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5325	NA	OS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030758	GENIE-MSK-P-0030758-T01-IM6	42	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0106	3	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030911	GENIE-MSK-P-0030911-T01-IM6	51	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1484	1	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0031194	GENIE-MSK-P-0031194-T02-IM6	76	Bone Cancer	Giant Cell Tumor of Bone	MSK	Non-Spanish/non-Hispanic	0.0000	NA	GCTB	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0031313	GENIE-MSK-P-0031313-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1122	NA	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0031435	GENIE-MSK-P-0031435-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0203	NA	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0031448	GENIE-MSK-P-0031448-T01-IM6	52	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0004	1	CHDM	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0031543	GENIE-MSK-P-0031543-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2955	1	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0031543	GENIE-MSK-P-0031543-T03-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5923	NA	OSOS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0031635	GENIE-MSK-P-0031635-T01-IM6	<18	Bone Cancer	Adamantinoma	MSK	Non-Spanish/non-Hispanic	0.0001	NA	ADMA	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0031644	GENIE-MSK-P-0031644-T01-IM6	56	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3046	3	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0032062	GENIE-MSK-P-0032062-T01-IM6	56	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0771	3	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0032119	GENIE-MSK-P-0032119-T01-IM6	19	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0067	9	ES	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0032316	GENIE-MSK-P-0032316-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2181	1	OS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0032382	GENIE-MSK-P-0032382-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1176	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0032610	GENIE-MSK-P-0032610-T01-IM6	59	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3509	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0032731	GENIE-MSK-P-0032731-T02-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3802	2	OSOS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0032731	GENIE-MSK-P-0032731-T03-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0716	3	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0033015	GENIE-MSK-P-0033015-T03-IM6	<18	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.2879	2	CHS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0033059	GENIE-MSK-P-0033059-T01-IM6	22	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4784	4	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0033177	GENIE-MSK-P-0033177-T01-IM6	30	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0335	4	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0033505	GENIE-MSK-P-0033505-T01-IM6	27	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2157	1	OSOS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0033507	GENIE-MSK-P-0033507-T01-IM6	35	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6079	3	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0033537	GENIE-MSK-P-0033537-T02-IM6	75	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0257	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0034035	GENIE-MSK-P-0034035-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.8304	2	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0034089	GENIE-MSK-P-0034089-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3261	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0034216	GENIE-MSK-P-0034216-T01-IM6	46	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3922	2	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0034435	GENIE-MSK-P-0034435-T02-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3597	1	OSOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0034440	GENIE-MSK-P-0034440-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.4753	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0034612	GENIE-MSK-P-0034612-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0896	NA	ES	Asian	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0035335	GENIE-MSK-P-0035335-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0181	5	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0035763	GENIE-MSK-P-0035763-T01-IM6	75	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1213	1	EMCHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0035846	GENIE-MSK-P-0035846-T01-IM6	31	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5494	NA	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0035846	GENIE-MSK-P-0035846-T02-IM6	31	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3878	NA	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0036118	GENIE-MSK-P-0036118-T01-IM6	46	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0111	NA	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0036245	GENIE-MSK-P-0036245-T01-IM6	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1114	1	ES	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0036424	GENIE-MSK-P-0036424-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.4998	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0036601	GENIE-MSK-P-0036601-T02-IM6	18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0677	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0036683	GENIE-MSK-P-0036683-T01-IM6	25	Bone Cancer	Myxoid Chondrosarcoma	MSK	Unknown	0.0021	1	MYCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0036688	GENIE-MSK-P-0036688-T01-IM6	22	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1130	1	MCHS	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0036715	GENIE-MSK-P-0036715-T01-IM6	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3242	4	OS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0036851	GENIE-MSK-P-0036851-T01-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1445	4	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0036851	GENIE-MSK-P-0036851-T02-IM6	19	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6724	1	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0037150	GENIE-MSK-P-0037150-T01-IM6	64	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.3566	4	OS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0037173	GENIE-MSK-P-0037173-T01-IM6	24	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0978	2	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0037190	GENIE-MSK-P-0037190-T01-IM6	31	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.5021	2	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0037267	GENIE-MSK-P-0037267-T01-IM6	63	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1466	2	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0037301	GENIE-MSK-P-0037301-T01-IM6	25	Bone Cancer	Periosteal Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4572	NA	PEOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0037436	GENIE-MSK-P-0037436-T03-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0	1	ES	Black	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0037506	GENIE-MSK-P-0037506-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5596	5	OS	White	1	Metastasis	Local recurrence	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0037619	GENIE-MSK-P-0037619-T01-IM6	55	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0144	2	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0037757	GENIE-MSK-P-0037757-T01-IM6	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6057	6	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0038127	GENIE-MSK-P-0038127-T01-IM6	42	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0923	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0038131	GENIE-MSK-P-0038131-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2891	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0038480	GENIE-MSK-P-0038480-T01-IM6	69	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.9771	2	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0038561	GENIE-MSK-P-0038561-T01-IM6	20	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0119	NA	OS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0038677	GENIE-MSK-P-0038677-T01-IM6	21	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0207	1	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0039362	GENIE-MSK-P-0039362-T01-IM6	72	Bone Cancer	Chondrosarcoma	MSK	Unknown	0.9307	9	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0039688	GENIE-MSK-P-0039688-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0083	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0039757	GENIE-MSK-P-0039757-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2623	7	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0039996	GENIE-MSK-P-0039996-T01-IM6	43	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4488	2	CHS	White	2	Metastasis	Local recurrence	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0039996	GENIE-MSK-P-0039996-T02-IM6	43	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3818	2	CHS	White	2	Metastasis	Local recurrence	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040063	GENIE-MSK-P-0040063-T01-IM6	64	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1802	2	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0040148	GENIE-MSK-P-0040148-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3101	NA	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040254	GENIE-MSK-P-0040254-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0010	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040333	GENIE-MSK-P-0040333-T01-IM6	30	Bone Cancer	Chordoma	MSK	Unknown	0.1323	NA	CHDM	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040442	GENIE-MSK-P-0040442-T01-IM6	31	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3650	2	ES	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040442	GENIE-MSK-P-0040442-T02-IM6	31	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1997	2	ES	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040863	GENIE-MSK-P-0040863-T01-IM6	35	Bone Cancer	Giant Cell Tumor of Bone	MSK	Non-Spanish/non-Hispanic	0.0477	1	GCTB	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0040863	GENIE-MSK-P-0040863-T03-IM6	35	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0575	1	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0041093	GENIE-MSK-P-0041093-T01-IM6	60	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4029	4	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0041892	GENIE-MSK-P-0041892-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2845	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0041950	GENIE-MSK-P-0041950-T01-IM6	60	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4156	6	OS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042242	GENIE-MSK-P-0042242-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2488	4	OS	White	1	Metastasis	Local recurrence	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042293	GENIE-MSK-P-0042293-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5883	1	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0042392	GENIE-MSK-P-0042392-T01-IM6	71	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042438	GENIE-MSK-P-0042438-T01-IM6	34	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0022	1	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0042440	GENIE-MSK-P-0042440-T02-IM6	56	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1619	2	DDCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042513	GENIE-MSK-P-0042513-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5272	3	OS	White	3	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042513	GENIE-MSK-P-0042513-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0002	2	OS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042513	GENIE-MSK-P-0042513-T03-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	NA	OS	White	3	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042637	GENIE-MSK-P-0042637-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6602	NA	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042789	GENIE-MSK-P-0042789-T01-IM6	48	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.6651	3	OS	Other	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0042789	GENIE-MSK-P-0042789-T02-IM6	48	Bone Cancer	Osteosarcoma	MSK	Spanish/Hispanic	0.6600	5	OS	Other	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0042798	GENIE-MSK-P-0042798-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0036	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0042913	GENIE-MSK-P-0042913-T01-IM6	50	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0043282	GENIE-MSK-P-0043282-T02-IM6	47	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.1847	1	CHS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0043486	GENIE-MSK-P-0043486-T01-IM6	40	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2447	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0043526	GENIE-MSK-P-0043526-T01-IM6	20	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0597	2	ES	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0043526	GENIE-MSK-P-0043526-T03-IM6	21	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0812	4	ES	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0043778	GENIE-MSK-P-0043778-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2827	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0043858	GENIE-MSK-P-0043858-T01-IM6	58	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.3377	2	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0043958	GENIE-MSK-P-0043958-T01-IM6	27	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1250	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0044027	GENIE-MSK-P-0044027-T01-IM6	34	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.0030	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0044126	GENIE-MSK-P-0044126-T01-IM6	55	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2788	3	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044233	GENIE-MSK-P-0044233-T02-IM6	71	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	NA	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0044294	GENIE-MSK-P-0044294-T01-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Unknown	0.2631	1	OSOS	Unknown	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044294	GENIE-MSK-P-0044294-T02-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Unknown	0.2664	1	OSOS	Unknown	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044295	GENIE-MSK-P-0044295-T01-IM6	69	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.4735	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044523	GENIE-MSK-P-0044523-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0039	NA	ES	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0044551	GENIE-MSK-P-0044551-T01-IM6	28	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3537	2	ES	White	1	Metastasis	Local recurrence	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044587	GENIE-MSK-P-0044587-T01-IM6	30	Bone Cancer	Giant Cell Tumor of Bone	MSK	Non-Spanish/non-Hispanic	0.0007	1	GCTB	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044837	GENIE-MSK-P-0044837-T02-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4226	1	OSOS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044837	GENIE-MSK-P-0044837-T03-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0006	1	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044896	GENIE-MSK-P-0044896-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0583	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0044917	GENIE-MSK-P-0044917-T01-IM6	72	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1287	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0045043	GENIE-MSK-P-0045043-T01-IM6	39	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0023	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0045323	GENIE-MSK-P-0045323-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3311	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0045639	GENIE-MSK-P-0045639-T02-IM6	68	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0080	NA	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0045707	GENIE-MSK-P-0045707-T01-IM6	47	Bone Cancer	Osteosarcoma	MSK	Unknown	0.1210	NA	OS	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0045903	GENIE-MSK-P-0045903-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6616	1	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0046113	GENIE-MSK-P-0046113-T01-IM6	44	Bone Cancer	Chondrosarcoma	MSK	Unknown	0.8432	5	CHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0046196	GENIE-MSK-P-0046196-T01-IM6	64	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1504	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0046341	GENIE-MSK-P-0046341-T01-IM6	52	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.2428	NA	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0046667	GENIE-MSK-P-0046667-T01-IM6	87	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.0915	5	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0046858	GENIE-MSK-P-0046858-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.7561	1	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0047109	GENIE-MSK-P-0047109-T02-IM6	36	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0505	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0047424	GENIE-MSK-P-0047424-T01-IM6	60	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5182	3	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0047587	GENIE-MSK-P-0047587-T02-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0134	NA	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0047625	GENIE-MSK-P-0047625-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0023	2	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048156	GENIE-MSK-P-0048156-T01-IM6	50	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.0002	2	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0048282	GENIE-MSK-P-0048282-T01-IM6	81	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2333	5	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048294	GENIE-MSK-P-0048294-T01-IM6	52	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2272	2	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0048339	GENIE-MSK-P-0048339-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3733	1	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048417	GENIE-MSK-P-0048417-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.3139	4	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048577	GENIE-MSK-P-0048577-T03-IM6	19	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2860	NA	ES	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048579	GENIE-MSK-P-0048579-T02-IM6	56	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4150	1	CHS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048734	GENIE-MSK-P-0048734-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1374	NA	ES	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048743	GENIE-MSK-P-0048743-T01-IM6	18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5715	2	OSOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048760	GENIE-MSK-P-0048760-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4393	7	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0048973	GENIE-MSK-P-0048973-T01-IM6	22	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1018	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049225	GENIE-MSK-P-0049225-T01-IM6	52	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1351	1	CHDM	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049452	GENIE-MSK-P-0049452-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6585	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049540	GENIE-MSK-P-0049540-T03-IM6	25	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049592	GENIE-MSK-P-0049592-T01-IM6	69	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.5252	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0049616	GENIE-MSK-P-0049616-T01-IM6	27	Bone Cancer	Osteosarcoma	MSK	Unknown	0.3668	NA	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0049833	GENIE-MSK-P-0049833-T02-IM6	34	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2235	1	OS	Black	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049833	GENIE-MSK-P-0049833-T03-IM6	35	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2964	2	OS	Black	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049947	GENIE-MSK-P-0049947-T01-IM6	<18	Bone Cancer	Adamantinoma	MSK	Non-Spanish/non-Hispanic	0.0508	NA	ADMA	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049955	GENIE-MSK-P-0049955-T01-IM6	63	Bone Cancer	Chondrosarcoma	MSK	Spanish/Hispanic	0.2343	5	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0049989	GENIE-MSK-P-0049989-T01-IM6	71	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.3305	1	CHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0049994	GENIE-MSK-P-0049994-T01-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Spanish/Hispanic	0.5682	3	OSOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050027	GENIE-MSK-P-0050027-T02-IM6	36	Bone Cancer	Ewing Sarcoma	MSK	Spanish/Hispanic	0.0942	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0050144	GENIE-MSK-P-0050144-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3920	2	OS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050144	GENIE-MSK-P-0050144-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4330	2	OS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050299	GENIE-MSK-P-0050299-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.4114	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050393	GENIE-MSK-P-0050393-T01-IM6	<18	Bone Cancer	Telangiectatic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1488	4	TEOS	Other	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050393	GENIE-MSK-P-0050393-T02-IM6	<18	Bone Cancer	High-Grade Surface Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1381	1	HGSOS	Other	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050416	GENIE-MSK-P-0050416-T01-IM6	18	Bone Cancer	High-Grade Surface Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0518	2	HGSOS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0050733	GENIE-MSK-P-0050733-T01-IM6	48	Bone Cancer	Giant Cell Tumor of Bone	MSK	Unknown	0.0504	3	GCTB	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0050799	GENIE-MSK-P-0050799-T02-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Unknown	0.5310	1	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0051027	GENIE-MSK-P-0051027-T01-IM6	59	Bone Cancer	Chordoma	MSK	Non-Spanish/non-Hispanic	0.1728	1	CHDM	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0051333	GENIE-MSK-P-0051333-T01-IM6	36	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.4431	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0051478	GENIE-MSK-P-0051478-T01-IM6	<18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5241	1	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0051569	GENIE-MSK-P-0051569-T01-IM6	40	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0016	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0051607	GENIE-MSK-P-0051607-T02-IM6	18	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.6332	2	OS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0051803	GENIE-MSK-P-0051803-T01-IM6	72	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	16	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0052277	GENIE-MSK-P-0052277-T01-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0928	2	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0052380	GENIE-MSK-P-0052380-T01-IM6	<18	Bone Cancer	Osteoblastic Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1706	1	OSOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0052635	GENIE-MSK-P-0052635-T01-IM6	36	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0007	NA	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0052745	GENIE-MSK-P-0052745-T02-IM6	64	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0256	5	ES	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0052753	GENIE-MSK-P-0052753-T02-IM6	28	Bone Cancer	Mesenchymal Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0654	2	MCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0053036	GENIE-MSK-P-0053036-T01-IM6	44	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.9307	NA	CHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0053040	GENIE-MSK-P-0053040-T01-IM6	34	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.1888	4	OS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0053145	GENIE-MSK-P-0053145-T01-IM6	26	Bone Cancer	Parosteal Osteosarcoma	MSK	Spanish/Hispanic	0.0218	1	PAOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0053476	GENIE-MSK-P-0053476-T01-IM6	27	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.4493	NA	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0053735	GENIE-MSK-P-0053735-T01-IM6	80	Bone Cancer	Conventional Type Chordoma	MSK	Non-Spanish/non-Hispanic	0.0021	NA	CCHDM	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0053879	GENIE-MSK-P-0053879-T02-IM6	<18	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0993	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0053905	GENIE-MSK-P-0053905-T01-IM6	79	Bone Cancer	Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.6800	1	CHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0053910	GENIE-MSK-P-0053910-T01-IM6	48	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Unknown	0.0000	NA	EMCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0053991	GENIE-MSK-P-0053991-T01-IM6	62	Bone Cancer	Ewing Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1081	1	ES	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0054159	GENIE-MSK-P-0054159-T01-IM6	44	Bone Cancer	Extraskeletal Myxoid Chondrosarcoma	MSK	Non-Spanish/non-Hispanic	0.0079	2	EMCHS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0054312	GENIE-MSK-P-0054312-T01-IM6	54	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.2045	2	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0054317	GENIE-MSK-P-0054317-T01-IM6	32	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.5079	4	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0055012	GENIE-MSK-P-0055012-T02-IM6	21	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.3822	4	OS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0055531	GENIE-MSK-P-0055531-T01-IM6	71	Bone Cancer	Chondrosarcoma	MSK	Unknown	0.0054	1	CHS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0055717	GENIE-MSK-P-0055717-T01-IM6	26	Bone Cancer	Osteosarcoma	MSK	Non-Spanish/non-Hispanic	0.0118	NA	OS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0055779	GENIE-MSK-P-0055779-T01-IM6	<18	Bone Cancer	Chondrosarcoma	MSK	Unknown	0.0187	2	CHS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Unknown
+genie_public	GENIE-NKI-JQV3	GENIE-NKI-JQV3-EZVB	59	Bone Cancer	Chondrosarcoma	NKI	Not Collected	NA	NA	CHS	Not collected	1	Metastasis	Local recurrence	NKI-CHPV2-SOCV2-NGS	Male
+genie_public	GENIE-NKI-UKOK	GENIE-NKI-UKOK-6KKE	44	Bone Cancer	Ewing Sarcoma	NKI	Not Collected	NA	NA	ES	Not collected	1	Metastasis	Distant organ metastasis	NKI-TSACP-MISEQ-NGS	Female
+genie_public	GENIE-UCSF-1005	GENIE-UCSF-1005-1172T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.2637	4	ES	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-10497	GENIE-UCSF-10497-5526T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Spanish/Hispanic	0.8705	NA	OSOS	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-10497	GENIE-UCSF-10497-5789T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Spanish/Hispanic	0.3446	2	OSOS	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-10757	GENIE-UCSF-10757-9397T	28	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.3370	12	OS	Asian	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-10888	GENIE-UCSF-10888-0201T	<18	Bone Cancer	Osteosarcoma	UCSF	Spanish/Hispanic	0.7466	3	OS	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-10907	GENIE-UCSF-10907-0734T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Unknown	0.3408	1	ES	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-1091	GENIE-UCSF-1091-1247T	<18	Bone Cancer	Chondroblastic Osteosarcoma	UCSF	Unknown	0.7535	15	CHOS	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11042	GENIE-UCSF-11042-8477T	<18	Bone Cancer	Giant Cell Tumor of Bone	UCSF	Non-Spanish/non-Hispanic	0.2700	2	GCTB	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-11043	GENIE-UCSF-11043-3915T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.7275	2	OSOS	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-11116	GENIE-UCSF-11116-9540T	<18	Bone Cancer	Osteosarcoma	UCSF	Unknown	0.6880	5	OS	Not collected	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11136	GENIE-UCSF-11136-5913T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Spanish/Hispanic	0.6101	1	OSOS	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11394	GENIE-UCSF-11394-7654T	<18	Bone Cancer	Chondroblastic Osteosarcoma	UCSF	Unknown	0.8135	5	CHOS	Not collected	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11449	GENIE-UCSF-11449-9815T	28	Bone Cancer	Periosteal Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.1098	1	PEOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11524	GENIE-UCSF-11524-9687T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.3390	1	OSOS	Asian	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11743	GENIE-UCSF-11743-2647T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Spanish/Hispanic	0.3372	1	ES	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-11811	GENIE-UCSF-11811-6388T	20	Bone Cancer	Ewing Sarcoma	UCSF	Unknown	0.5100	3	ES	Not collected	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-11843	GENIE-UCSF-11843-5422T	63	Bone Cancer	Chondrosarcoma	UCSF	Non-Spanish/non-Hispanic	0.9967	5	CHS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-1191	GENIE-UCSF-1191-1362T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.6052	2	OSOS	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-1191	GENIE-UCSF-1191-1907T	<18	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.6679	4	OS	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-11933	GENIE-UCSF-11933-5966T	<18	Bone Cancer	Osteosarcoma	UCSF	Unknown	0.8630	1	OS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-11955	GENIE-UCSF-11955-6280T	46	Bone Cancer	Chondrosarcoma	UCSF	Non-Spanish/non-Hispanic	0.4171	12	CHS	Asian	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-1378	GENIE-UCSF-1378-1547T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.8636	2	OSOS	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1378	GENIE-UCSF-1378-2192T	<18	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.8937	6	OS	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1404	GENIE-UCSF-1404-1580T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Spanish/Hispanic	0.7243	4	OSOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1594	GENIE-UCSF-1594-1755T	59	Bone Cancer	Conventional Type Chordoma	UCSF	Non-Spanish/non-Hispanic	0.3903	NA	CCHDM	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-1671	GENIE-UCSF-1671-1829T	<18	Bone Cancer	Periosteal Osteosarcoma	UCSF	Spanish/Hispanic	0.4041	1	PEOS	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-1931	GENIE-UCSF-1931-2112T	21	Bone Cancer	Ewing Sarcoma	UCSF	Spanish/Hispanic	0.8944	2	ES	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1931	GENIE-UCSF-1931-4862T	22	Bone Cancer	Ewing Sarcoma	UCSF	Spanish/Hispanic	0.5307	3	ES	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1933	GENIE-UCSF-1933-2111T	19	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Spanish/Hispanic	0.7833	1	OSOS	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1933	GENIE-UCSF-1933-8583T	20	Bone Cancer	Osteosarcoma	UCSF	Spanish/Hispanic	0.9005	1	OS	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-1935	GENIE-UCSF-1935-2127T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.5021	13	OSOS	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-1935	GENIE-UCSF-1935-4064T	<18	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.4616	8	OS	Other	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-2098	GENIE-UCSF-2098-2291T	<18	Bone Cancer	High-Grade Surface Osteosarcoma	UCSF	Spanish/Hispanic	0.7332	NA	HGSOS	Native American	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-2098	GENIE-UCSF-2098-2421T	<18	Bone Cancer	Osteosarcoma	UCSF	Spanish/Hispanic	0.9121	1	OS	Native American	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-2147	GENIE-UCSF-2147-2371T	20	Bone Cancer	Ewing Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.6523	1	ES	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-2178	GENIE-UCSF-2178-2377T	18	Bone Cancer	High-Grade Surface Osteosarcoma	UCSF	Unknown	0.9841	11	HGSOS	Black	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-2197	GENIE-UCSF-2197-2399T	<18	Bone Cancer	Chondrosarcoma	UCSF	Unknown	0.1723	1	CHS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-2380	GENIE-UCSF-2380-0060T	<18	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.6809	4	OS	White	3	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-2380	GENIE-UCSF-2380-5834T	<18	Bone Cancer	High-Grade Surface Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.8032	3	HGSOS	White	3	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-2380	GENIE-UCSF-2380-6848T	<18	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.7284	6	OS	White	3	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-2401	GENIE-UCSF-2401-8889T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Unknown	0.5979	1	ES	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-2583	GENIE-UCSF-2583-6034T	65	Bone Cancer	Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.8019	4	OS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-2727	GENIE-UCSF-2727-9707T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.9854	3	OSOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-2802	GENIE-UCSF-2802-0381T	42	Bone Cancer	Ewing Sarcoma	UCSF	Spanish/Hispanic	0.0879	1	ES	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-3009	GENIE-UCSF-3009-8251T	<18	Bone Cancer	Osteosarcoma	UCSF	Unknown	0.7259	34	OS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3011	GENIE-UCSF-3011-9374T	58	Bone Cancer	Chondrosarcoma	UCSF	Spanish/Hispanic	0.7453	1	CHS	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3194	GENIE-UCSF-3194-6171T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.1733	1	ES	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-3227	GENIE-UCSF-3227-8846T	76	Bone Cancer	Conventional Type Chordoma	UCSF	Non-Spanish/non-Hispanic	0.5986	7	CCHDM	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-3236	GENIE-UCSF-3236-9709T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Unknown	0.1048	NA	ES	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3254	GENIE-UCSF-3254-4556T	20	Bone Cancer	Ewing Sarcoma	UCSF	Unknown	0.8930	4	ES	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3255	GENIE-UCSF-3255-0213T	<18	Bone Cancer	Osteosarcoma	UCSF	Unknown	0.7728	6	OS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-3360	GENIE-UCSF-3360-9596T	<18	Bone Cancer	High-Grade Surface Osteosarcoma	UCSF	Non-Spanish/non-Hispanic	0.6539	2	HGSOS	Black	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Female
+genie_public	GENIE-UCSF-3499	GENIE-UCSF-3499-7273T	29	Bone Cancer	Osteosarcoma	UCSF	Unknown	0.7465	1	OS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3569	GENIE-UCSF-3569-3700T	61	Bone Cancer	Giant Cell Tumor of Bone	UCSF	Non-Spanish/non-Hispanic	0.2926	3	GCTB	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-3664	GENIE-UCSF-3664-3837T	20	Bone Cancer	Chondroblastic Osteosarcoma	UCSF	Unknown	0.8834	3	CHOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3742	GENIE-UCSF-3742-7038T	<18	Bone Cancer	Osteoblastic Osteosarcoma	UCSF	Spanish/Hispanic	0.6950	7	OSOS	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-3765	GENIE-UCSF-3765-4368T	24	Bone Cancer	Ewing Sarcoma	UCSF	Spanish/Hispanic	0.2959	11	ES	Other	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-462	GENIE-UCSF-462-5628T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.2443	3	ES	White	2	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-462	GENIE-UCSF-462-609T	<18	Bone Cancer	Ewing Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.6229	1	ES	White	2	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-515	GENIE-UCSF-515-9742T	42	Bone Cancer	Conventional Type Chordoma	UCSF	Non-Spanish/non-Hispanic	0.3535	7	CCHDM	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-764	GENIE-UCSF-764-914T	42	Bone Cancer	Ewing Sarcoma	UCSF	Unknown	0.1101	1	ES	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-969	GENIE-UCSF-969-1132T	20	Bone Cancer	Ewing Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.9964	11	ES	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UHN-067089	GENIE-UHN-067089-ARC1	73	Bone Cancer	Mesenchymal Chondrosarcoma	UHN	Not Collected	NA	NA	MCHS	White	1	Primary	Primary tumor	UHN-48-V1	Male
+genie_public	GENIE-UHN-200230	GENIE-UHN-200230-ARC1	33	Bone Cancer	Osteosarcoma	UHN	Not Collected	NA	NA	OS	White	1	Metastasis	Metastasis site unspecified	UHN-48-V1	Female
+genie_public	GENIE-UHN-240303	GENIE-UHN-240303-ARC1	25	Bone Cancer	Ewing Sarcoma	UHN	Not Collected	NA	1	ES	White	1	Metastasis	Metastasis site unspecified	UHN-48-V1	Female
+genie_public	GENIE-UHN-752527	GENIE-UHN-752527-ARC1	48	Bone Cancer	Ewing Sarcoma	UHN	Not Collected	NA	NA	ES	White	1	Metastasis	Metastasis site unspecified	UHN-48-V1	Female
+genie_public	GENIE-UHN-906407	GENIE-UHN-906407-ARC1	52	Bone Cancer	Osteosarcoma	UHN	Not Collected	NA	NA	OS	Asian	1	Metastasis	Metastasis site unspecified	UHN-48-V1	Female
+genie_public	GENIE-UHN-OCT242927	GENIE-UHN-OCT242927-ARC1	29	Bone Cancer	Ewing Sarcoma	UHN	Not Collected	NA	NA	ES	White	1	Metastasis	Metastasis site unspecified	UHN-OCA-V3	Female
+genie_public	GENIE-UHN-OCT572627	GENIE-UHN-OCT572627-ARC1	61	Bone Cancer	Chondrosarcoma	UHN	Not Collected	NA	NA	CHS	Asian	1	Metastasis	Metastasis site unspecified	UHN-OCA-V3	Female
+genie_public	GENIE-UHN-OCT773758	GENIE-UHN-OCT773758-ARC1	50	Bone Cancer	Chondrosarcoma	UHN	Not Collected	NA	1	CHS	White	1	Metastasis	Metastasis site unspecified	UHN-OCA-V3	Male
+genie_public	GENIE-VHIO-493	GENIE-VHIO-493-001	30	Bone Cancer	Osteosarcoma	VHIO	Spanish/Hispanic	NA	NA	OS	White	1	Primary	Primary tumor	VHIO-GENERAL-V01	Male
+genie_public	GENIE-VICC-100597	GENIE-VICC-100597-unk-1	51	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	8	OSOS	White	1	Primary	Primary tumor	VICC-01-D2	Male
+genie_public	GENIE-VICC-102751	GENIE-VICC-102751-unk-1	42	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	4	OSOS	White	1	Metastasis	Metastasis site unspecified	VICC-01-R2	Male
+genie_public	GENIE-VICC-103029	GENIE-VICC-103029-unk-1	43	Bone Cancer	Dedifferentiated Chondrosarcoma	VICC	Non-Spanish/non-Hispanic	NA	3	DDCHS	White	1	Primary	Primary tumor	VICC-01-D2	Male
+genie_public	GENIE-VICC-118542	GENIE-VICC-118542-unk-1	<18	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Spanish/Hispanic	NA	7	OSOS	White	1	Metastasis	Local recurrence	VICC-01-D2	Male
+genie_public	GENIE-VICC-123492	GENIE-VICC-123492-unk-1	50	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	4	OSOS	White	1	Metastasis	Metastasis site unspecified	VICC-01-D2	Female
+genie_public	GENIE-VICC-268188	GENIE-VICC-268188-unk-1	20	Bone Cancer	Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	10	OS	White	1	Metastasis	Metastasis site unspecified	VICC-01-D2	Male
+genie_public	GENIE-VICC-353486	GENIE-VICC-353486-unk-1	51	Bone Cancer	Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	2	OS	Black	1	Metastasis	Local recurrence	VICC-01-R2	Male
+genie_public	GENIE-VICC-382512	GENIE-VICC-382512-unk-1	57	Bone Cancer	Chordoma	VICC	Non-Spanish/non-Hispanic	NA	2	CHDM	White	1	Metastasis	Metastasis site unspecified	VICC-01-D2	Female
+genie_public	GENIE-VICC-436962	GENIE-VICC-436962-unk-1	<18	Bone Cancer	Ewing Sarcoma	VICC	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	VICC-01-R2	Male
+genie_public	GENIE-VICC-488717	GENIE-VICC-488717-unk-1	55	Bone Cancer	Chondroblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	3	CHOS	White	1	Primary	Primary tumor	VICC-01-D2	Female
+genie_public	GENIE-VICC-522975	GENIE-VICC-522975-unk-1	56	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	1	OSOS	White	1	Primary	Primary tumor	VICC-01-R2	Female
+genie_public	GENIE-VICC-543210	GENIE-VICC-543210-unk-1	54	Bone Cancer	Mesenchymal Chondrosarcoma	VICC	Non-Spanish/non-Hispanic	NA	4	MCHS	White	2	Metastasis	Metastasis site unspecified	VICC-01-R2	Female
+genie_public	GENIE-VICC-543210	GENIE-VICC-543210-unk-2	55	Bone Cancer	Mesenchymal Chondrosarcoma	VICC	Non-Spanish/non-Hispanic	NA	3	MCHS	White	2	Metastasis	Metastasis site unspecified	VICC-01-T7	Female
+genie_public	GENIE-VICC-653909	GENIE-VICC-653909-unk-1	62	Bone Cancer	Dedifferentiated Chondrosarcoma	VICC	Non-Spanish/non-Hispanic	NA	5	DDCHS	White	1	Primary	Primary tumor	VICC-01-D2	Male
+genie_public	GENIE-VICC-677037	GENIE-VICC-677037-unk-1	39	Bone Cancer	Chondrosarcoma	VICC	Non-Spanish/non-Hispanic	NA	2	CHS	White	1	Metastasis	Metastasis site unspecified	VICC-01-D2	Male
+genie_public	GENIE-VICC-800825	GENIE-VICC-800825-unk-1	25	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	2	OSOS	White	1	Primary	Primary tumor	VICC-01-R2	Male
+genie_public	GENIE-VICC-844262	GENIE-VICC-844262-unk-1	27	Bone Cancer	Osteoblastic Osteosarcoma	VICC	Non-Spanish/non-Hispanic	NA	2	OSOS	White	1	Primary	Primary tumor	VICC-01-R2	Female
+genie_public	GENIE-VICC-862343	GENIE-VICC-862343-unk-1	37	Bone Cancer	Chondrosarcoma	VICC	Non-Spanish/non-Hispanic	NA	2	CHS	White	1	Metastasis	Local recurrence	VICC-01-R2	Male
+genie_public	GENIE-VICC-915932	GENIE-VICC-915932-unk-1	20	Bone Cancer	Ewing Sarcoma	VICC	Non-Spanish/non-Hispanic	NA	6	ES	White	2	Primary	Primary tumor	VICC-01-D2	Male
+genie_public	GENIE-VICC-915932	GENIE-VICC-915932-unk-2	20	Bone Cancer	Ewing Sarcoma	VICC	Non-Spanish/non-Hispanic	NA	5	ES	White	2	Metastasis	Metastasis site unspecified	VICC-01-D2	Male
+genie_public	GENIE-VICC-943652	GENIE-VICC-943652-unk-1	59	Bone Cancer	Chordoma	VICC	Non-Spanish/non-Hispanic	NA	1	CHDM	White	1	Metastasis	Local recurrence	VICC-01-T4B	Male
+genie_public	GENIE-WAKE-C1080	GENIE-WAKE-C1080-01	75	Bone Cancer	Myxoid Chondrosarcoma	WAKE	Non-Spanish/non-Hispanic	NA	NA	MYCHS	Not Collected	1	Unspecified	Not otherwise specified	WAKE-CA-01	Female
+genie_public	GENIE-YALE-TPL1065	GENIE-YALE-TPL1065-1	<18	Bone Cancer	Chondroblastic Osteosarcoma	YALE	Spanish/Hispanic	NA	NA	CHOS	Other	1	Metastasis	Distant organ metastasis	YALE-OCP-V3	Female
+genie_public	GENIE-YALE-TPL195	GENIE-YALE-TPL195-1	28	Bone Cancer	Chondrosarcoma	YALE	Non-Spanish/non-Hispanic	NA	1	CHS	White	1	Primary	Primary tumor	YALE-OCP-V3	Male
+genie_public	GENIE-YALE-TPL505	GENIE-YALE-TPL505-1	64	Bone Cancer	Osteoblastic Osteosarcoma	YALE	Non-Spanish/non-Hispanic	NA	1	OSOS	White	1	Metastasis	Local recurrence	YALE-OCP-V3	Male
+genie_public	GENIE-YALE-TPL747	GENIE-YALE-TPL747-1	<18	Bone Cancer	Ewing Sarcoma	YALE	Non-Spanish/non-Hispanic	NA	2	ES	White	1	Primary	Primary tumor	YALE-OCP-V3	Male
+genie_public	GENIE-YALE-TPL798	GENIE-YALE-TPL798-1	34	Bone Cancer	Ewing Sarcoma	YALE	Non-Spanish/non-Hispanic	NA	1	ES	White	1	Primary	Primary tumor	YALE-OCP-V3	Male
+genie_public	GENIE-YALE-TPL93	GENIE-YALE-TPL93-1	<18	Bone Cancer	Osteosarcoma	YALE	Spanish/Hispanic	NA	NA	OS	White	1	Primary	Primary tumor	YALE-OCP-V3	Female

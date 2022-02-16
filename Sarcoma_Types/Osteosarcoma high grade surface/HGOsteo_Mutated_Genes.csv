@@ -1,0 +1,22 @@
+Gene,MutSig(Q-value),# Mut,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+WRN,,1,1,5,20.00%,Yes
+KMT2A,,1,1,8,12.50%,Yes
+KAT6A,,1,1,4,25.00%,Yes
+TSHZ2,,1,1,4,25.00%,No
+PDGFRA,,1,1,8,12.50%,Yes
+TMPRSS2,,1,1,7,14.30%,Yes
+TP53,,2,2,8,25.00%,Yes
+RICTOR,,1,1,7,14.30%,Yes
+EWSR1,,1,1,5,20.00%,Yes
+FGFR3,,1,1,8,12.50%,Yes
+IGF2R,,1,1,4,25.00%,No
+PIK3CA,,1,1,8,12.50%,Yes
+ERCC3,,1,1,4,25.00%,Yes
+MLH1,,1,1,8,12.50%,Yes
+KMT2D,,1,1,8,12.50%,Yes
+ZFHX4,,1,1,4,25.00%,No
+FLT3,,1,1,8,12.50%,Yes
+ATRX,,1,1,8,12.50%,Yes
+TSC2,,1,1,8,12.50%,Yes
+RET,,1,1,8,12.50%,Yes
+RB1,,2,2,8,25.00%,Yes

@@ -1,0 +1,3 @@
+Gene	Gistic(Q-value)	Cytoband	CNA	Profiled Samples	#	Freq	Is Cancer Gene (source: OncoKB)
+CDKN2A		9p21.3	HOMDEL	1	4	25.0%	Yes
+CDKN2B		9p21.3	HOMDEL	1	4	25.0%	Yes

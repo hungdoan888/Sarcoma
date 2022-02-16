@@ -1,0 +1,5 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+WRN,1,1,5,20.00%,Yes
+TP53,3,3,8,37.50%,Yes
+NCOA2,1,1,4,25.00%,Yes
+TRABD2A,1,1,8,12.50%,No

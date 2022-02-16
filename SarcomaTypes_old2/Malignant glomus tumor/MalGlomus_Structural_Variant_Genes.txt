@@ -1,0 +1,2 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+NOTCH2	1	1	1	100.0%	Yes

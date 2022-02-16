@@ -1,0 +1,6 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+RUNX2,1,1,1,100.00%,Yes
+HEY2,1,1,13,7.70%,No
+HEY1,2,2,1,200.00%,Yes
+SPEN,1,1,8,12.50%,Yes
+NCOA2,3,3,1,300.00%,Yes

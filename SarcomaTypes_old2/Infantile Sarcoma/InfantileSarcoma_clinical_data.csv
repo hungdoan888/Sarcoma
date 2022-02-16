@@ -1,0 +1,5 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-CHOP-C2828016,GENIE-CHOP-C2828016-BS6KY32S0B,genie_public,Infantile Fibrosarcoma,Infantile Fibrosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,IFS,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2829000,GENIE-CHOP-C2829000-BSB64F42JZ,genie_public,Infantile Fibrosarcoma,Infantile Fibrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,IFS,Unknown,Not otherwise specified,CHOP-STNGS
+GENIE-UCSF-1288,GENIE-UCSF-1288-3214T,genie_public,Infantile Fibrosarcoma,Infantile Fibrosarcoma,1,5,0.4086,Male,Unknown,Not Collected,<18,UCSF,IFS,Unknown,Not Collected,UCSF-NIMV4-TO
+GENIE-UCSF-2182,GENIE-UCSF-2182-9853T,genie_public,Infantile Fibrosarcoma,Infantile Fibrosarcoma,1,6,0.4081,Male,Non-Spanish/non-Hispanic,Not Collected,<18,UCSF,IFS,White,Not Collected,UCSF-NIMV4-TO

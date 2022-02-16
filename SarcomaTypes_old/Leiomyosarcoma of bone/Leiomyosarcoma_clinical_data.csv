@@ -1,0 +1,509 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-COLU-00023,GENIE-COLU-00023-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Female,Non-Spanish/non-Hispanic,Metastasis,71,COLU,LMS,Black,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-00041,GENIE-COLU-00041-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Unknown,Primary,61,COLU,LMS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-00051,GENIE-COLU-00051-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Unknown,Primary,59,COLU,LMS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-00062,GENIE-COLU-00062-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Non-Spanish/non-Hispanic,Primary,41,COLU,LMS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-00075,GENIE-COLU-00075-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Unknown,Primary,64,COLU,LMS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-00087,GENIE-COLU-00087-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,14,,Male,Non-Spanish/non-Hispanic,Unspecified,50,COLU,LMS,Black,Not otherwise specified,COLU-CCCP-V1
+GENIE-COLU-00129,GENIE-COLU-00129-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Male,Unknown,Unspecified,49,COLU,LMS,Unknown,Not otherwise specified,COLU-CCCP-V1
+GENIE-COLU-00343,GENIE-COLU-00343-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,59,COLU,LMS,Asian,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-00383,GENIE-COLU-00383-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Unknown,Metastasis,58,COLU,LMS,Asian,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-1083,GENIE-COLU-1083-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Non-Spanish/non-Hispanic,Primary,57,COLU,LMS,White,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1260,GENIE-COLU-1260-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,14,,Female,Non-Spanish/non-Hispanic,Metastasis,65,COLU,LMS,White,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-1291,GENIE-COLU-1291-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,75,COLU,LMS,Asian,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1298,GENIE-COLU-1298-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Spanish/Hispanic,Primary,61,COLU,LMS,Other,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1384,GENIE-COLU-1384-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Spanish/Hispanic,Primary,49,COLU,LMS,White,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1721,GENIE-COLU-1721-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,47,COLU,LMS,Unknown,Primary tumor,COLU-CSTP-V1
+GENIE-COLU-1758,GENIE-COLU-1758-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Unknown,Primary,51,COLU,LMS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1843,GENIE-COLU-1843-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Female,Non-Spanish/non-Hispanic,Metastasis,48,COLU,LMS,White,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-1852,GENIE-COLU-1852-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Female,Non-Spanish/non-Hispanic,Primary,33,COLU,LMS,White,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1860,GENIE-COLU-1860-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,15,,Female,Non-Spanish/non-Hispanic,Primary,66,COLU,LMS,Black,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1873,GENIE-COLU-1873-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,66,COLU,LMS,White,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-1884,GENIE-COLU-1884-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,24,,Female,Non-Spanish/non-Hispanic,Primary,43,COLU,LMS,Asian,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1890,GENIE-COLU-1890-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Male,Non-Spanish/non-Hispanic,Primary,35,COLU,LMS,Black,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-1912,GENIE-COLU-1912-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,14,,Female,Unknown,Primary,59,COLU,LMS,Black,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-718,GENIE-COLU-718-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Male,Spanish/Hispanic,Metastasis,67,COLU,LMS,Pacific Islander,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-790,GENIE-COLU-790-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,53,COLU,LMS,Asian,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-813,GENIE-COLU-813-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Metastasis,53,COLU,LMS,Asian,Distant organ metastasis,COLU-CCCP-V1
+GENIE-COLU-872,GENIE-COLU-872-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Unknown,Primary,49,COLU,LMS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-DFCI-000301,GENIE-DFCI-000301-3676056,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,11,,Female,Non-Spanish/non-Hispanic,Metastasis,71,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-000476,GENIE-DFCI-000476-10220,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Primary,70,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-000812,GENIE-DFCI-000812-6333,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Spanish/Hispanic,Metastasis,51,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-001189,GENIE-DFCI-001189-2179,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Female,Non-Spanish/non-Hispanic,Primary,>89,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-001231,GENIE-DFCI-001231-2902615,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,2,,Female,Non-Spanish/non-Hispanic,Metastasis,71,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-001362,GENIE-DFCI-001362-6192,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,14,,Female,Non-Spanish/non-Hispanic,Metastasis,68,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-001633,GENIE-DFCI-001633-6009,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,62,DFCI,LMS,Unknown,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-001896,GENIE-DFCI-001896-128,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,42,DFCI,LMS,Asian,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-002068,GENIE-DFCI-002068-294,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,70,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-002141,GENIE-DFCI-002141-520,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,63,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-002290,GENIE-DFCI-002290-319,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Metastasis,62,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-002318,GENIE-DFCI-002318-4105,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,76,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-002345,GENIE-DFCI-002345-621,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Metastasis,62,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-002516,GENIE-DFCI-002516-350558,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,16,,Female,Non-Spanish/non-Hispanic,Primary,57,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-002952,GENIE-DFCI-002952-10208,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,17,,Female,Non-Spanish/non-Hispanic,Metastasis,58,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-003110,GENIE-DFCI-003110-2210527,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,5,,Female,Non-Spanish/non-Hispanic,Metastasis,32,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-003110,GENIE-DFCI-003110-5043,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,2,,Female,Non-Spanish/non-Hispanic,Metastasis,32,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-003258,GENIE-DFCI-003258-5660,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,68,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-003278,GENIE-DFCI-003278-1690,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,54,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-003402,GENIE-DFCI-003402-3332,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Primary,56,DFCI,LMS,Unknown,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-003450,GENIE-DFCI-003450-1852,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Metastasis,75,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-003655,GENIE-DFCI-003655-10579,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,60,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-2
+GENIE-DFCI-003720,GENIE-DFCI-003720-4925,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,48,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-2
+GENIE-DFCI-004010,GENIE-DFCI-004010-402,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,66,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-004135,GENIE-DFCI-004135-613,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Primary,74,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-004156,GENIE-DFCI-004156-2056,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,43,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-004188,GENIE-DFCI-004188-560,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,51,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-004442,GENIE-DFCI-004442-193,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,61,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-004743,GENIE-DFCI-004743-2097,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Primary,72,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-004842,GENIE-DFCI-004842-5854,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,35,DFCI,LMS,Black,Local recurrence,DFCI-ONCOPANEL-2
+GENIE-DFCI-005035,GENIE-DFCI-005035-921,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,40,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005106,GENIE-DFCI-005106-1341,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,58,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005314,GENIE-DFCI-005314-1073,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,37,DFCI,LMS,Black,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-005370,GENIE-DFCI-005370-2640,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Metastasis,76,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-1
+GENIE-DFCI-005496,GENIE-DFCI-005496-3268,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,72,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005546,GENIE-DFCI-005546-2406,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Primary,57,DFCI,LMS,Black,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005642,GENIE-DFCI-005642-3339,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,80,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005644,GENIE-DFCI-005644-2324,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,51,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005766,GENIE-DFCI-005766-10521,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Metastasis,54,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-006130,GENIE-DFCI-006130-2513,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,24,,Male,Non-Spanish/non-Hispanic,Primary,59,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-006259,GENIE-DFCI-006259-4332,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Male,Non-Spanish/non-Hispanic,Primary,69,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-006501,GENIE-DFCI-006501-3917,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Metastasis,39,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-006613,GENIE-DFCI-006613-11766,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,66,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-006739,GENIE-DFCI-006739-7009,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Male,Non-Spanish/non-Hispanic,Primary,72,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-007284,GENIE-DFCI-007284-5170,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Female,Non-Spanish/non-Hispanic,Primary,60,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-007574,GENIE-DFCI-007574-4285,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,16,,Female,Non-Spanish/non-Hispanic,Metastasis,45,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-007638,GENIE-DFCI-007638-3982,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,66,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-007723,GENIE-DFCI-007723-4007,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,43,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-007842,GENIE-DFCI-007842-5549,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,56,DFCI,LMS,Unknown,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-007965,GENIE-DFCI-007965-10274,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Primary,63,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-008116,GENIE-DFCI-008116-5838,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,44,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-008171,GENIE-DFCI-008171-4984,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,53,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-008223,GENIE-DFCI-008223-5504,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Metastasis,44,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-2
+GENIE-DFCI-008552,GENIE-DFCI-008552-6551,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Metastasis,38,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-008621,GENIE-DFCI-008621-6501,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,65,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-008654,GENIE-DFCI-008654-6550,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Primary,45,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-008720,GENIE-DFCI-008720-10518,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Primary,72,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-008784,GENIE-DFCI-008784-11283,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Spanish/Hispanic,Not Applicable or Heme,65,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-2
+GENIE-DFCI-009069,GENIE-DFCI-009069-6021,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Metastasis,35,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-009293,GENIE-DFCI-009293-6403,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Metastasis,55,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-009317,GENIE-DFCI-009317-6585,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Primary,68,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-009339,GENIE-DFCI-009339-7070,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,49,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-010175,GENIE-DFCI-010175-9715,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,67,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-010181,GENIE-DFCI-010181-9749,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,54,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-010556,GENIE-DFCI-010556-10226,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Primary,57,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-010847,GENIE-DFCI-010847-9440,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,82,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-011085,GENIE-DFCI-011085-11280,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Primary,69,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-011087,GENIE-DFCI-011087-11398,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,52,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-011217,GENIE-DFCI-011217-11787,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Primary,81,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-011324,GENIE-DFCI-011324-11812,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,45,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-011348,GENIE-DFCI-011348-11296,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,63,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-011592,GENIE-DFCI-011592-10852,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,46,DFCI,LMS,Black,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-023610,GENIE-DFCI-023610-23488,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Primary,62,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-023616,GENIE-DFCI-023616-23761,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,67,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-025012,GENIE-DFCI-025012-35995,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,53,DFCI,LMS,Asian,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-025993,GENIE-DFCI-025993-48560,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Metastasis,78,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-026489,GENIE-DFCI-026489-130373,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,64,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-028598,GENIE-DFCI-028598-74975,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,50,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-032974,GENIE-DFCI-032974-116059,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Metastasis,44,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-033929,GENIE-DFCI-033929-130457,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Primary,21,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-034002,GENIE-DFCI-034002-158628,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Primary,61,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-036599,GENIE-DFCI-036599-74678,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Metastasis,69,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-036771,GENIE-DFCI-036771-116360,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,63,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-037615,GENIE-DFCI-037615-36170,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,52,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-037940,GENIE-DFCI-037940-48506,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,57,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-040207,GENIE-DFCI-040207-234065,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,66,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-041093,GENIE-DFCI-041093-173781,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Metastasis,72,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-046733,GENIE-DFCI-046733-233795,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Metastasis,59,DFCI,LMS,Unknown,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-047640,GENIE-DFCI-047640-234374,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,72,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-048641,GENIE-DFCI-048641-250095,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Metastasis,33,DFCI,LMS,Black,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-050932,GENIE-DFCI-050932-234162,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,60,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-050948,GENIE-DFCI-050948-203616,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,18,,Female,Non-Spanish/non-Hispanic,Primary,73,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-050964,GENIE-DFCI-050964-233951,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,53,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-051252,GENIE-DFCI-051252-234463,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,65,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-052056,GENIE-DFCI-052056-203249,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Metastasis,53,DFCI,LMS,Asian,Local recurrence,DFCI-ONCOPANEL-3
+GENIE-DFCI-052949,GENIE-DFCI-052949-249779,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Metastasis,51,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-3
+GENIE-DFCI-053450,GENIE-DFCI-053450-188434,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-076629,GENIE-DFCI-076629-266375,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Non-Spanish/non-Hispanic,Primary,74,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-077519,GENIE-DFCI-077519-350679,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,48,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-080805,GENIE-DFCI-080805-332951,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,60,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-085735,GENIE-DFCI-085735-315796,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,49,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-088901,GENIE-DFCI-088901-266166,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,31,DFCI,LMS,Black,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-089197,GENIE-DFCI-089197-266081,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,64,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-089503,GENIE-DFCI-089503-349409,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Male,Non-Spanish/non-Hispanic,Primary,33,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-089807,GENIE-DFCI-089807-350396,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,54,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3
+GENIE-DFCI-090142,GENIE-DFCI-090142-350158,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,83,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-090508,GENIE-DFCI-090508-332812,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,41,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-090524,GENIE-DFCI-090524-332756,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,79,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-091556,GENIE-DFCI-091556-350944,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Primary,69,DFCI,LMS,Black,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-091830,GENIE-DFCI-091830-350179,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,51,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-091905,GENIE-DFCI-091905-350561,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,62,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-092047,GENIE-DFCI-092047-266294,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Metastasis,70,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-092160,GENIE-DFCI-092160-350420,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Metastasis,65,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-092425,GENIE-DFCI-092425-350678,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Metastasis,50,DFCI,LMS,Asian,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-093091,GENIE-DFCI-093091-266326,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Primary,77,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-094135,GENIE-DFCI-094135-805396,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Metastasis,67,DFCI,LMS,Black,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-094772,GENIE-DFCI-094772-805313,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,65,DFCI,LMS,Unknown,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-095171,GENIE-DFCI-095171-664221,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Primary,64,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-095392,GENIE-DFCI-095392-757493,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,75,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-095661,GENIE-DFCI-095661-805387,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Spanish/Hispanic,Metastasis,77,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-095678,GENIE-DFCI-095678-664165,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Primary,54,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-099250,GENIE-DFCI-099250-710598,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,16,,Female,Non-Spanish/non-Hispanic,Metastasis,60,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-099345,GENIE-DFCI-099345-710710,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Metastasis,59,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-099670,GENIE-DFCI-099670-437006,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Primary,24,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-100422,GENIE-DFCI-100422-436180,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,76,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-105451,GENIE-DFCI-105451-617815,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Primary,51,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-106612,GENIE-DFCI-106612-853365,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,44,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-108458,GENIE-DFCI-108458-526499,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,21,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3
+GENIE-DFCI-108785,GENIE-DFCI-108785-950631,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Not Applicable or Heme,43,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3
+GENIE-DFCI-108833,GENIE-DFCI-108833-571746,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,47,DFCI,LMS,Black,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-108852,GENIE-DFCI-108852-571485,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Primary,66,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-108855,GENIE-DFCI-108855-571783,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,52,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-109269,GENIE-DFCI-109269-664005,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,66,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-109306,GENIE-DFCI-109306-436678,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Primary,68,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-109700,GENIE-DFCI-109700-526446,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,55,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-109739,GENIE-DFCI-109739-710767,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,50,DFCI,LMS,Asian,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-110171,GENIE-DFCI-110171-950567,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Male,Non-Spanish/non-Hispanic,Metastasis,60,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-110585,GENIE-DFCI-110585-525682,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Non-Spanish/non-Hispanic,Primary,56,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-110641,GENIE-DFCI-110641-481334,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,52,DFCI,LMS,Black,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-111120,GENIE-DFCI-111120-664219,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Metastasis,56,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-111465,GENIE-DFCI-111465-617885,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,72,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-112213,GENIE-DFCI-112213-757709,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Male,Non-Spanish/non-Hispanic,Metastasis,61,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-118367,GENIE-DFCI-118367-853257,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,72,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3
+GENIE-DFCI-118390,GENIE-DFCI-118390-901944,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,13,,Male,Non-Spanish/non-Hispanic,Primary,60,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-118408,GENIE-DFCI-118408-805331,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,67,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3
+GENIE-DFCI-118413,GENIE-DFCI-118413-805325,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,43,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-129882,GENIE-DFCI-129882-1301979,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,38,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3
+GENIE-DFCI-134683,GENIE-DFCI-134683-1303390,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,49,DFCI,LMS,Asian,Metastasis site unspecified,DFCI-ONCOPANEL-3
+GENIE-DFCI-135622,GENIE-DFCI-135622-1000067,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Female,Non-Spanish/non-Hispanic,Primary,74,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-136461,GENIE-DFCI-136461-1469602,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Metastasis,50,DFCI,LMS,Unknown,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-136930,GENIE-DFCI-136930-1150083,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Metastasis,51,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-141188,GENIE-DFCI-141188-1358592,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,5,,Female,Non-Spanish/non-Hispanic,Primary,<18,DFCI,LMS,Unknown,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-141188,GENIE-DFCI-141188-2839013,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,5,,Female,Non-Spanish/non-Hispanic,Primary,<18,DFCI,LMS,Unknown,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-149660,GENIE-DFCI-149660-2210094,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,54,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-152339,GENIE-DFCI-152339-2271333,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Metastasis,75,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-166054,GENIE-DFCI-166054-2089953,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,52,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-167520,GENIE-DFCI-167520-2332058,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,40,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-167975,GENIE-DFCI-167975-2332119,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Not Applicable or Heme,62,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-168915,GENIE-DFCI-168915-2393568,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,14,,Female,Non-Spanish/non-Hispanic,Metastasis,43,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-171559,GENIE-DFCI-171559-2394073,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,63,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-172286,GENIE-DFCI-172286-1672194,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Primary,62,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-182367,GENIE-DFCI-182367-2710253,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Spanish/Hispanic,Primary,40,DFCI,LMS,Black,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-185253,GENIE-DFCI-185253-2708456,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Unspecified,34,DFCI,LMS,White,Not otherwise specified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-199775,GENIE-DFCI-199775-2774489,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,34,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-201002,GENIE-DFCI-201002-3036340,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Female,Non-Spanish/non-Hispanic,Metastasis,66,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-201955,GENIE-DFCI-201955-2774655,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Non-Spanish/non-Hispanic,Metastasis,74,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-221811,GENIE-DFCI-221811-3238965,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Metastasis,68,DFCI,LMS,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-234133,GENIE-DFCI-234133-3377313,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Female,Non-Spanish/non-Hispanic,Primary,55,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-234823,GENIE-DFCI-234823-3103175,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,14,,Male,Non-Spanish/non-Hispanic,Not Applicable or Heme,67,DFCI,LMS,Unknown,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-236749,GENIE-DFCI-236749-3171212,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,71,DFCI,LMS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-241471,GENIE-DFCI-241471-3474721,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,39,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-247185,GENIE-DFCI-247185-3588742,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,9,,Female,Non-Spanish/non-Hispanic,Primary,61,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-247307,GENIE-DFCI-247307-3474608,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,56,DFCI,LMS,White,Local recurrence,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-268659,GENIE-DFCI-268659-3502445,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Female,Non-Spanish/non-Hispanic,Primary,56,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-268770,GENIE-DFCI-268770-3646711,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,55,DFCI,LMS,Asian,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-269004,GENIE-DFCI-269004-3531096,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,,Male,Non-Spanish/non-Hispanic,Primary,64,DFCI,LMS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-GRCC-024aaa1e,GENIE-GRCC-024aaa1e-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.4722,Female,Not Collected,Metastasis,67,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-0a27c512,GENIE-GRCC-0a27c512-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.7057,Female,Not Collected,Metastasis,59,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-145h2gkp,GENIE-GRCC-145h2gkp-sample-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Not Collected,Metastasis,36,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC4
+GENIE-GRCC-2e3429e8,GENIE-GRCC-2e3429e8-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.76,Female,Not Collected,Metastasis,56,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-308b787d,GENIE-GRCC-308b787d-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.5606,Female,Not Collected,Metastasis,71,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-6724a455,GENIE-GRCC-6724a455-sample-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Not Collected,Primary,72,GRCC,LMS,Not collected,Primary tumor,GRCC-CHP2
+GENIE-GRCC-6cc785ed,GENIE-GRCC-6cc785ed-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.1439,Female,Not Collected,Metastasis,33,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-87d299ab,GENIE-GRCC-87d299ab-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Not Collected,Metastasis,Unknown,GRCC,LMS,Not collected,Metastasis site unspecified,GRCC-MOSC3
+GENIE-GRCC-95bbc84b,GENIE-GRCC-95bbc84b-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Metastasis,59,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-adbddac4,GENIE-GRCC-adbddac4-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Not Collected,Metastasis,65,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-ba44b21a,GENIE-GRCC-ba44b21a-sample-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Not Collected,Metastasis,48,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-c0e0b1ba,GENIE-GRCC-c0e0b1ba-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Not Collected,Metastasis,62,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-c38ae055,GENIE-GRCC-c38ae055-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Metastasis,56,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-CHP2
+GENIE-GRCC-c69bc896,GENIE-GRCC-c69bc896-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Not Collected,Metastasis,55,GRCC,LMS,Not collected,Metastasis site unspecified,GRCC-MOSC3
+GENIE-GRCC-cac551cf,GENIE-GRCC-cac551cf-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Not Collected,Metastasis,64,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-CHP2
+GENIE-GRCC-ce4dccff,GENIE-GRCC-ce4dccff-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Not Collected,Metastasis,47,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-d69eec5d,GENIE-GRCC-d69eec5d-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Not Collected,Metastasis,44,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-d91654fe,GENIE-GRCC-d91654fe-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Not Collected,Metastasis,60,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-dbe52837,GENIE-GRCC-dbe52837-sample-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Primary,64,GRCC,LMS,Not collected,Primary tumor,GRCC-CHP2
+GENIE-GRCC-e7e7e3d0,GENIE-GRCC-e7e7e3d0-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Not Collected,Metastasis,53,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-GRCC-f0af0f17,GENIE-GRCC-f0af0f17-metastasis-a,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Not Collected,Metastasis,65,GRCC,LMS,Not collected,Distant organ metastasis,GRCC-MOSC3
+GENIE-JHU-00456,GENIE-JHU-00456-00003,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,53,JHU,LMS,Unknown,Primary tumor,JHU-50GP
+GENIE-JHU-05275,GENIE-JHU-05275-06122,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Metastasis,51,JHU,LMS,Other,Distant organ metastasis,JHU-50GP
+GENIE-JHU-06588,GENIE-JHU-06588-07548,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Primary,51,JHU,LMS,Other,Primary tumor,JHU-500STP
+GENIE-JHU-07018,GENIE-JHU-07018-07999,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,59,JHU,LMS,Black,Primary tumor,JHU-500STP
+GENIE-MDA-1240,GENIE-MDA-1240-2701,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,49,MDA,LMS,White,Distant organ metastasis,MDA-46-V1
+GENIE-MDA-1316,GENIE-MDA-1316-2859,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,58,MDA,LMS,White,Distant organ metastasis,MDA-46-V1
+GENIE-MDA-1380,GENIE-MDA-1380-2968,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Unknown,Primary,56,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1471,GENIE-MDA-1471-3120,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,66,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1502,GENIE-MDA-1502-3166,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Unknown,Primary,69,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1504,GENIE-MDA-1504-3168,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,60,MDA,LMS,Black,Primary tumor,MDA-46-V1
+GENIE-MDA-1536,GENIE-MDA-1536-3225,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,51,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1624,GENIE-MDA-1624-3349,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,52,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2112,GENIE-MDA-2112-4158,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,60,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2225,GENIE-MDA-2225-4343,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,56,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2249,GENIE-MDA-2249-4381,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,52,MDA,LMS,White,Distant organ metastasis,MDA-46-V1
+GENIE-MDA-2250,GENIE-MDA-2250-4383,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,59,MDA,LMS,White,Distant organ metastasis,MDA-46-V1
+GENIE-MDA-2329,GENIE-MDA-2329-4500,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Male,Unknown,Primary,39,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2365,GENIE-MDA-2365-4570,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Primary,57,MDA,LMS,Other,Primary tumor,MDA-46-V1
+GENIE-MDA-2391,GENIE-MDA-2391-4618,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,61,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2394,GENIE-MDA-2394-4623,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Unknown,Primary,66,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2435,GENIE-MDA-2435-4684,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Primary,66,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2438,GENIE-MDA-2438-4687,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,56,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2441,GENIE-MDA-2441-4689,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Spanish/Hispanic,Primary,43,MDA,LMS,Unknown,Primary tumor,MDA-46-V1
+GENIE-MDA-2487,GENIE-MDA-2487-4746,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,65,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2583,GENIE-MDA-2583-4895,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,48,MDA,LMS,Black,Primary tumor,MDA-46-V1
+GENIE-MDA-2611,GENIE-MDA-2611-4937,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,37,MDA,LMS,Other,Primary tumor,MDA-46-V1
+GENIE-MDA-2642,GENIE-MDA-2642-4962,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Unknown,Metastasis,64,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-2716,GENIE-MDA-2716-5059,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,69,MDA,LMS,Black,Primary tumor,MDA-46-V1
+GENIE-MDA-2782,GENIE-MDA-2782-5157,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Spanish/Hispanic,Primary,52,MDA,LMS,Unknown,Primary tumor,MDA-46-V1
+GENIE-MDA-2808,GENIE-MDA-2808-5188,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,64,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2876,GENIE-MDA-2876-5285,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Unknown,Primary,64,MDA,LMS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2976,GENIE-MDA-2976-5445,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,56,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3021,GENIE-MDA-3021-5505,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Unknown,Primary,61,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3279,GENIE-MDA-3279-17563,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Unknown,Metastasis,48,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-3390,GENIE-MDA-3390-6010,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Unknown,Primary,54,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3412,GENIE-MDA-3412-6043,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,71,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3504,GENIE-MDA-3504-6165,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,49,MDA,LMS,Black,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-3555,GENIE-MDA-3555-6210,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,55,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-3668,GENIE-MDA-3668-6367,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Unknown,Metastasis,50,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-3690,GENIE-MDA-3690-17798,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Unknown,Metastasis,59,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-3703,GENIE-MDA-3703-6417,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Spanish/Hispanic,Primary,58,MDA,LMS,Unknown,Primary tumor,MDA-50-V1
+GENIE-MDA-3713,GENIE-MDA-3713-6427,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Unknown,Primary,49,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3735,GENIE-MDA-3735-6457,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,30,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-3860,GENIE-MDA-3860-6680,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,65,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3996,GENIE-MDA-3996-6944,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Primary,45,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-4066,GENIE-MDA-4066-6996,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,61,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-4102,GENIE-MDA-4102-7056,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,54,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-4142,GENIE-MDA-4142-7074,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Spanish/Hispanic,Primary,56,MDA,LMS,Unknown,Primary tumor,MDA-50-V1
+GENIE-MDA-4207,GENIE-MDA-4207-7196,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,63,MDA,LMS,White,Local recurrence,MDA-50-V1
+GENIE-MDA-4697,GENIE-MDA-4697-11692,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,59,MDA,LMS,Other,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-4706,GENIE-MDA-4706-11732,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,65,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-4865,GENIE-MDA-4865-15873,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Unknown,Metastasis,71,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-4879,GENIE-MDA-4879-16956,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Unknown,Metastasis,72,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-4996,GENIE-MDA-4996-16037,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Unknown,Metastasis,50,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-5046,GENIE-MDA-5046-16187,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,77,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-5225,GENIE-MDA-5225-16954,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,51,MDA,LMS,White,Primary tumor,MDA-409-V1
+GENIE-MDA-5307,GENIE-MDA-5307-16424,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,65,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-5861,GENIE-MDA-5861-16828,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Unknown,Primary,50,MDA,LMS,Black,Primary tumor,MDA-50-V1
+GENIE-MDA-5920,GENIE-MDA-5920-17088,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Spanish/Hispanic,Metastasis,54,MDA,LMS,Other,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-5943,GENIE-MDA-5943-16877,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Metastasis,49,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-5974,GENIE-MDA-5974-17543,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,,Male,Non-Spanish/non-Hispanic,Primary,49,MDA,LMS,Black,Primary tumor,MDA-409-V1
+GENIE-MDA-6043,GENIE-MDA-6043-17142,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Metastasis,45,MDA,LMS,Asian,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-6072,GENIE-MDA-6072-17058,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,53,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6091,GENIE-MDA-6091-17106,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,44,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6212,GENIE-MDA-6212-17803,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Metastasis,70,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6243,GENIE-MDA-6243-17267,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Unknown,Primary,69,MDA,LMS,Black,Primary tumor,MDA-50-V1
+GENIE-MDA-6297,GENIE-MDA-6297-17614,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Spanish/Hispanic,Metastasis,36,MDA,LMS,Other,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-6327,GENIE-MDA-6327-17612,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Metastasis,47,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-6363,GENIE-MDA-6363-17656,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Unknown,Primary,65,MDA,LMS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-6455,GENIE-MDA-6455-17597,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Spanish/Hispanic,Metastasis,72,MDA,LMS,Unknown,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6488,GENIE-MDA-6488-17707,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Spanish/Hispanic,Metastasis,40,MDA,LMS,Unknown,Local recurrence,MDA-409-V1
+GENIE-MDA-6517,GENIE-MDA-6517-17690,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,,Female,Unknown,Metastasis,51,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-6534,GENIE-MDA-6534-17949,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,,Female,Unknown,Metastasis,60,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-6540,GENIE-MDA-6540-17900,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,60,MDA,LMS,White,Distant organ metastasis,MDA-409-V1
+GENIE-MDA-6575,GENIE-MDA-6575-17837,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,60,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6733,GENIE-MDA-6733-18548,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,42,MDA,LMS,White,Primary tumor,MDA-409-V1
+GENIE-MDA-6756,GENIE-MDA-6756-18181,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Spanish/Hispanic,Primary,48,MDA,LMS,Other,Primary tumor,MDA-409-V1
+GENIE-MDA-8269,GENIE-MDA-8269-18363,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Metastasis,65,MDA,LMS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MSK-P-0001438,GENIE-MSK-P-0001438-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.0511,Male,Non-Spanish/non-Hispanic,Metastasis,79,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0001711,GENIE-MSK-P-0001711-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,1,0.2569,Male,Non-Spanish/non-Hispanic,Metastasis,54,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0001711,GENIE-MSK-P-0001711-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,,0.6265,Male,Non-Spanish/non-Hispanic,Metastasis,56,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0001878,GENIE-MSK-P-0001878-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,28,0.1632,Male,Non-Spanish/non-Hispanic,Metastasis,46,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0002020,GENIE-MSK-P-0002020-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.5695,Male,Non-Spanish/non-Hispanic,Primary,60,MSK,LMS,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002195,GENIE-MSK-P-0002195-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.5187,Male,Non-Spanish/non-Hispanic,Metastasis,62,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0002231,GENIE-MSK-P-0002231-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.1244,Female,Non-Spanish/non-Hispanic,Metastasis,76,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0002318,GENIE-MSK-P-0002318-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.2786,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0002819,GENIE-MSK-P-0002819-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.092,Male,Non-Spanish/non-Hispanic,Primary,52,MSK,LMS,Black,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0003043,GENIE-MSK-P-0003043-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.4566,Female,Non-Spanish/non-Hispanic,Metastasis,71,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0003180,GENIE-MSK-P-0003180-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.7372,Male,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0003217,GENIE-MSK-P-0003217-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.3047,Female,Non-Spanish/non-Hispanic,Metastasis,64,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0003496,GENIE-MSK-P-0003496-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.4096,Female,Non-Spanish/non-Hispanic,Metastasis,44,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0003948,GENIE-MSK-P-0003948-T01-IM3,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.5135,Male,Non-Spanish/non-Hispanic,Primary,52,MSK,LMS,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0004107,GENIE-MSK-P-0004107-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.4724,Female,Non-Spanish/non-Hispanic,Metastasis,64,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004112,GENIE-MSK-P-0004112-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2804,Male,Non-Spanish/non-Hispanic,Metastasis,73,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004411,GENIE-MSK-P-0004411-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.0204,Female,Non-Spanish/non-Hispanic,Metastasis,64,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004499,GENIE-MSK-P-0004499-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.7288,Female,Spanish/Hispanic,Metastasis,23,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004512,GENIE-MSK-P-0004512-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.587,Female,Non-Spanish/non-Hispanic,Metastasis,62,MSK,LMS,Unknown,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004745,GENIE-MSK-P-0004745-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.0001,Female,Non-Spanish/non-Hispanic,Primary,48,MSK,LMS,Asian,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0005301,GENIE-MSK-P-0005301-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.3283,Female,Non-Spanish/non-Hispanic,Primary,46,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0006736,GENIE-MSK-P-0006736-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.0094,Female,Non-Spanish/non-Hispanic,Metastasis,54,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0006975,GENIE-MSK-P-0006975-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.489,Female,Non-Spanish/non-Hispanic,Primary,48,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0007651,GENIE-MSK-P-0007651-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2733,Male,Non-Spanish/non-Hispanic,Metastasis,72,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0007871,GENIE-MSK-P-0007871-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,0.653,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0008241,GENIE-MSK-P-0008241-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.4342,Male,Non-Spanish/non-Hispanic,Metastasis,68,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0008455,GENIE-MSK-P-0008455-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.6239,Female,Unknown,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0008596,GENIE-MSK-P-0008596-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.4411,Female,Non-Spanish/non-Hispanic,Primary,52,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0008752,GENIE-MSK-P-0008752-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.3815,Male,Non-Spanish/non-Hispanic,Primary,39,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0008877,GENIE-MSK-P-0008877-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.1357,Male,Non-Spanish/non-Hispanic,Primary,56,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0008918,GENIE-MSK-P-0008918-T03-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.2113,Male,Non-Spanish/non-Hispanic,Metastasis,62,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0008971,GENIE-MSK-P-0008971-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.167,Female,Non-Spanish/non-Hispanic,Primary,56,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0009360,GENIE-MSK-P-0009360-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.1356,Female,Non-Spanish/non-Hispanic,Metastasis,31,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0009525,GENIE-MSK-P-0009525-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.7496,Female,Non-Spanish/non-Hispanic,Metastasis,25,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0009547,GENIE-MSK-P-0009547-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2183,Female,Non-Spanish/non-Hispanic,Metastasis,72,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0010023,GENIE-MSK-P-0010023-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.4799,Male,Non-Spanish/non-Hispanic,Primary,58,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010224,GENIE-MSK-P-0010224-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.146,Male,Non-Spanish/non-Hispanic,Primary,56,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010323,GENIE-MSK-P-0010323-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.371,Male,Non-Spanish/non-Hispanic,Primary,64,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0010676,GENIE-MSK-P-0010676-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.2279,Female,Spanish/Hispanic,Primary,46,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010718,GENIE-MSK-P-0010718-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.5987,Female,Non-Spanish/non-Hispanic,Primary,48,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010991,GENIE-MSK-P-0010991-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3533,Male,Non-Spanish/non-Hispanic,Primary,65,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012377,GENIE-MSK-P-0012377-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.2639,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0012842,GENIE-MSK-P-0012842-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,0.3445,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0012892,GENIE-MSK-P-0012892-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,3,1,0.0989,Female,Non-Spanish/non-Hispanic,Primary,52,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012917,GENIE-MSK-P-0012917-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.1782,Male,Non-Spanish/non-Hispanic,Primary,52,MSK,LMS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0013614,GENIE-MSK-P-0013614-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.2145,Female,Spanish/Hispanic,Metastasis,62,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0013730,GENIE-MSK-P-0013730-T01-IM5,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2966,Female,Non-Spanish/non-Hispanic,Metastasis,63,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0014201,GENIE-MSK-P-0014201-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2789,Male,Non-Spanish/non-Hispanic,Primary,73,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0014505,GENIE-MSK-P-0014505-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1105,Male,Non-Spanish/non-Hispanic,Metastasis,46,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0014665,GENIE-MSK-P-0014665-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.4521,Male,Non-Spanish/non-Hispanic,Primary,56,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0015109,GENIE-MSK-P-0015109-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2981,Male,Non-Spanish/non-Hispanic,Metastasis,67,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0015337,GENIE-MSK-P-0015337-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.1558,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0015483,GENIE-MSK-P-0015483-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,0.2969,Female,Non-Spanish/non-Hispanic,Primary,39,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0015814,GENIE-MSK-P-0015814-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,3,1,0.459,Male,Non-Spanish/non-Hispanic,Primary,42,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0015814,GENIE-MSK-P-0015814-T03-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,3,,0,Male,Non-Spanish/non-Hispanic,Metastasis,42,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0015814,GENIE-MSK-P-0015814-T04-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,3,1,0.4525,Male,Non-Spanish/non-Hispanic,Metastasis,44,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0015922,GENIE-MSK-P-0015922-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.4573,Female,Non-Spanish/non-Hispanic,Metastasis,55,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0016777,GENIE-MSK-P-0016777-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.2399,Female,Non-Spanish/non-Hispanic,Primary,64,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0017521,GENIE-MSK-P-0017521-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.2962,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0018041,GENIE-MSK-P-0018041-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3675,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0018206,GENIE-MSK-P-0018206-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.5105,Female,Non-Spanish/non-Hispanic,Primary,64,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0019195,GENIE-MSK-P-0019195-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.3067,Male,Non-Spanish/non-Hispanic,Metastasis,65,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019424,GENIE-MSK-P-0019424-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,8,0.3649,Female,Non-Spanish/non-Hispanic,Metastasis,76,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019424,GENIE-MSK-P-0019424-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,6,0.6094,Female,Non-Spanish/non-Hispanic,Primary,77,MSK,LMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0019693,GENIE-MSK-P-0019693-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.2227,Female,Non-Spanish/non-Hispanic,Metastasis,80,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019715,GENIE-MSK-P-0019715-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,3,1,0.2125,Unknown,Unknown,Metastasis,<18,MSK,LMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019715,GENIE-MSK-P-0019715-T03-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,3,2,0.2267,Unknown,Unknown,Metastasis,<18,MSK,LMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0020126,GENIE-MSK-P-0020126-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.4265,Female,Non-Spanish/non-Hispanic,Primary,35,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0020139,GENIE-MSK-P-0020139-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.2049,Male,Non-Spanish/non-Hispanic,Primary,64,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0020141,GENIE-MSK-P-0020141-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2713,Female,Non-Spanish/non-Hispanic,Primary,48,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0020229,GENIE-MSK-P-0020229-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.8269,Female,Non-Spanish/non-Hispanic,Primary,60,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0020425,GENIE-MSK-P-0020425-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.5377,Female,Non-Spanish/non-Hispanic,Metastasis,36,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0021028,GENIE-MSK-P-0021028-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2419,Female,Non-Spanish/non-Hispanic,Metastasis,36,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0021407,GENIE-MSK-P-0021407-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.3648,Female,Non-Spanish/non-Hispanic,Primary,58,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0022538,GENIE-MSK-P-0022538-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.3432,Male,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0022706,GENIE-MSK-P-0022706-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.6751,Male,Non-Spanish/non-Hispanic,Metastasis,55,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0023459,GENIE-MSK-P-0023459-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3566,Female,Non-Spanish/non-Hispanic,Metastasis,71,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0024363,GENIE-MSK-P-0024363-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.511,Female,Non-Spanish/non-Hispanic,Metastasis,55,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0024848,GENIE-MSK-P-0024848-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.9197,Male,Non-Spanish/non-Hispanic,Metastasis,62,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0025477,GENIE-MSK-P-0025477-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.1612,Female,Non-Spanish/non-Hispanic,Metastasis,67,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0025756,GENIE-MSK-P-0025756-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,,0.0521,Male,Non-Spanish/non-Hispanic,Metastasis,80,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0025756,GENIE-MSK-P-0025756-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,1,0.0243,Male,Non-Spanish/non-Hispanic,Metastasis,81,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0026362,GENIE-MSK-P-0026362-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.706,Female,Non-Spanish/non-Hispanic,Metastasis,72,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0027015,GENIE-MSK-P-0027015-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.0851,Male,Non-Spanish/non-Hispanic,Primary,63,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0027275,GENIE-MSK-P-0027275-T03-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,10,0.6627,Female,Spanish/Hispanic,Primary,69,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0028898,GENIE-MSK-P-0028898-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1895,Male,Non-Spanish/non-Hispanic,Primary,72,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0028968,GENIE-MSK-P-0028968-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.0123,Female,Unknown,Metastasis,56,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0029299,GENIE-MSK-P-0029299-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.2586,Male,Non-Spanish/non-Hispanic,Primary,75,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0029368,GENIE-MSK-P-0029368-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3241,Female,Non-Spanish/non-Hispanic,Metastasis,62,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0029453,GENIE-MSK-P-0029453-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.2235,Female,Non-Spanish/non-Hispanic,Primary,44,MSK,LMS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0029468,GENIE-MSK-P-0029468-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3471,Female,Non-Spanish/non-Hispanic,Metastasis,52,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0029622,GENIE-MSK-P-0029622-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.1191,Female,Spanish/Hispanic,Metastasis,68,MSK,LMS,Black,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0030058,GENIE-MSK-P-0030058-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.1477,Male,Spanish/Hispanic,Primary,34,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0030151,GENIE-MSK-P-0030151-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,2,0.4616,Female,Non-Spanish/non-Hispanic,Unspecified,46,MSK,LMS,Other,Not otherwise specified,MSK-IMPACT468
+GENIE-MSK-P-0030151,GENIE-MSK-P-0030151-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,,0.4646,Female,Non-Spanish/non-Hispanic,Metastasis,47,MSK,LMS,Other,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0030153,GENIE-MSK-P-0030153-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,,0,Male,Non-Spanish/non-Hispanic,Metastasis,71,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0030172,GENIE-MSK-P-0030172-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,11,0.2324,Female,Non-Spanish/non-Hispanic,Metastasis,75,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0030573,GENIE-MSK-P-0030573-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.5242,Female,Non-Spanish/non-Hispanic,Metastasis,64,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0030693,GENIE-MSK-P-0030693-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.0402,Male,Non-Spanish/non-Hispanic,Metastasis,59,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0031483,GENIE-MSK-P-0031483-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.5246,Female,Non-Spanish/non-Hispanic,Metastasis,31,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0031673,GENIE-MSK-P-0031673-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.4169,Female,Non-Spanish/non-Hispanic,Metastasis,36,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0032932,GENIE-MSK-P-0032932-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.6371,Male,Spanish/Hispanic,Metastasis,25,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0032998,GENIE-MSK-P-0032998-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.4704,Male,Non-Spanish/non-Hispanic,Primary,69,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0033179,GENIE-MSK-P-0033179-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.0648,Female,Non-Spanish/non-Hispanic,Metastasis,76,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0033423,GENIE-MSK-P-0033423-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0,Male,Non-Spanish/non-Hispanic,Primary,36,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0033710,GENIE-MSK-P-0033710-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.6809,Female,Non-Spanish/non-Hispanic,Metastasis,68,MSK,LMS,White,Local recurrence,MSK-IMPACT468
+GENIE-MSK-P-0033714,GENIE-MSK-P-0033714-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.6428,Female,Non-Spanish/non-Hispanic,Primary,75,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0034258,GENIE-MSK-P-0034258-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2236,Male,Unknown,Primary,68,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0034291,GENIE-MSK-P-0034291-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.1578,Female,Non-Spanish/non-Hispanic,Metastasis,47,MSK,LMS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0034991,GENIE-MSK-P-0034991-T03-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,,0,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,LMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0035720,GENIE-MSK-P-0035720-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.2733,Male,Spanish/Hispanic,Metastasis,31,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0036175,GENIE-MSK-P-0036175-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.1514,Female,Non-Spanish/non-Hispanic,Metastasis,32,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0037109,GENIE-MSK-P-0037109-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.5721,Female,Non-Spanish/non-Hispanic,Primary,60,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0037289,GENIE-MSK-P-0037289-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.3863,Male,Unknown,Metastasis,72,MSK,LMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0037858,GENIE-MSK-P-0037858-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.3949,Female,Spanish/Hispanic,Primary,36,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0038223,GENIE-MSK-P-0038223-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.1546,Female,Non-Spanish/non-Hispanic,Primary,60,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0038314,GENIE-MSK-P-0038314-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.2875,Male,Non-Spanish/non-Hispanic,Primary,55,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0038587,GENIE-MSK-P-0038587-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.3628,Female,Non-Spanish/non-Hispanic,Primary,71,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0038959,GENIE-MSK-P-0038959-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2877,Female,Unknown,Primary,31,MSK,LMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0039011,GENIE-MSK-P-0039011-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.4552,Male,Non-Spanish/non-Hispanic,Metastasis,76,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0039199,GENIE-MSK-P-0039199-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,4,0.0037,Male,Non-Spanish/non-Hispanic,Metastasis,71,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0039750,GENIE-MSK-P-0039750-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.4959,Female,Non-Spanish/non-Hispanic,Metastasis,79,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0039830,GENIE-MSK-P-0039830-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.4613,Female,Non-Spanish/non-Hispanic,Primary,56,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0039971,GENIE-MSK-P-0039971-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.231,Female,Spanish/Hispanic,Primary,58,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0040224,GENIE-MSK-P-0040224-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.4217,Female,Non-Spanish/non-Hispanic,Metastasis,72,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0040312,GENIE-MSK-P-0040312-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.5247,Female,Non-Spanish/non-Hispanic,Metastasis,32,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0040780,GENIE-MSK-P-0040780-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3215,Male,Non-Spanish/non-Hispanic,Primary,71,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0041458,GENIE-MSK-P-0041458-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,2,,0,Male,Spanish/Hispanic,Primary,<18,MSK,LMS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0042008,GENIE-MSK-P-0042008-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.5236,Female,Unknown,Primary,46,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0043199,GENIE-MSK-P-0043199-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.4925,Female,Non-Spanish/non-Hispanic,Metastasis,52,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0043365,GENIE-MSK-P-0043365-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.5716,Female,Non-Spanish/non-Hispanic,Metastasis,32,MSK,LMS,White,Local recurrence,MSK-IMPACT468
+GENIE-MSK-P-0043417,GENIE-MSK-P-0043417-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2426,Female,Non-Spanish/non-Hispanic,Primary,75,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0043623,GENIE-MSK-P-0043623-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0,Male,Non-Spanish/non-Hispanic,Primary,80,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0043798,GENIE-MSK-P-0043798-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.1275,Male,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0044053,GENIE-MSK-P-0044053-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.4014,Female,Non-Spanish/non-Hispanic,Metastasis,64,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0044176,GENIE-MSK-P-0044176-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1974,Female,Non-Spanish/non-Hispanic,Primary,68,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0044377,GENIE-MSK-P-0044377-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.6772,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0044542,GENIE-MSK-P-0044542-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1592,Female,Spanish/Hispanic,Primary,83,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0044928,GENIE-MSK-P-0044928-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.3788,Female,Non-Spanish/non-Hispanic,Primary,62,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0045315,GENIE-MSK-P-0045315-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.5621,Male,Unknown,Metastasis,52,MSK,LMS,Unknown,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0045699,GENIE-MSK-P-0045699-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.4095,Female,Non-Spanish/non-Hispanic,Primary,52,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0045730,GENIE-MSK-P-0045730-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.6038,Male,Non-Spanish/non-Hispanic,Primary,76,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0045831,GENIE-MSK-P-0045831-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.2625,Male,Non-Spanish/non-Hispanic,Primary,72,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0046988,GENIE-MSK-P-0046988-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.435,Male,Non-Spanish/non-Hispanic,Primary,69,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0047114,GENIE-MSK-P-0047114-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2868,Female,Non-Spanish/non-Hispanic,Primary,62,MSK,LMS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0047209,GENIE-MSK-P-0047209-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.5567,Female,Spanish/Hispanic,Metastasis,72,MSK,LMS,Other,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0047556,GENIE-MSK-P-0047556-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.242,Female,Non-Spanish/non-Hispanic,Metastasis,36,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0047560,GENIE-MSK-P-0047560-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.2231,Female,Non-Spanish/non-Hispanic,Primary,68,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0047735,GENIE-MSK-P-0047735-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.1294,Female,Non-Spanish/non-Hispanic,Metastasis,79,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0048281,GENIE-MSK-P-0048281-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.3792,Female,Spanish/Hispanic,Primary,52,MSK,LMS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0048544,GENIE-MSK-P-0048544-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.7032,Male,Non-Spanish/non-Hispanic,Metastasis,55,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0048843,GENIE-MSK-P-0048843-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1234,Female,Spanish/Hispanic,Primary,32,MSK,LMS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0048936,GENIE-MSK-P-0048936-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.226,Female,Non-Spanish/non-Hispanic,Primary,64,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0049012,GENIE-MSK-P-0049012-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.3505,Female,Spanish/Hispanic,Primary,55,MSK,LMS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0049226,GENIE-MSK-P-0049226-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.0908,Female,Non-Spanish/non-Hispanic,Metastasis,68,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0049352,GENIE-MSK-P-0049352-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.3771,Female,Non-Spanish/non-Hispanic,Primary,71,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0050466,GENIE-MSK-P-0050466-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.2369,Female,Non-Spanish/non-Hispanic,Primary,44,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0050759,GENIE-MSK-P-0050759-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,3,0.2376,Male,Non-Spanish/non-Hispanic,Primary,40,MSK,LMS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0050836,GENIE-MSK-P-0050836-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1848,Male,Non-Spanish/non-Hispanic,Primary,63,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0051348,GENIE-MSK-P-0051348-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1136,Female,Non-Spanish/non-Hispanic,Primary,76,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0052000,GENIE-MSK-P-0052000-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,0.6314,Male,Non-Spanish/non-Hispanic,Metastasis,88,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0052569,GENIE-MSK-P-0052569-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1247,Male,Non-Spanish/non-Hispanic,Primary,48,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0052607,GENIE-MSK-P-0052607-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.0929,Female,Non-Spanish/non-Hispanic,Primary,63,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0053073,GENIE-MSK-P-0053073-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3892,Female,Non-Spanish/non-Hispanic,Primary,64,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0053384,GENIE-MSK-P-0053384-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.2156,Female,Non-Spanish/non-Hispanic,Primary,56,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0053457,GENIE-MSK-P-0053457-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.1884,Male,Non-Spanish/non-Hispanic,Primary,58,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0053731,GENIE-MSK-P-0053731-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.2505,Female,Non-Spanish/non-Hispanic,Metastasis,73,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0053889,GENIE-MSK-P-0053889-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,4,0.0052,Male,Non-Spanish/non-Hispanic,Metastasis,55,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0054149,GENIE-MSK-P-0054149-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,0.2688,Female,Non-Spanish/non-Hispanic,Primary,48,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0054268,GENIE-MSK-P-0054268-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.3277,Female,Non-Spanish/non-Hispanic,Metastasis,56,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0054771,GENIE-MSK-P-0054771-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.1414,Male,Non-Spanish/non-Hispanic,Primary,72,MSK,LMS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0054819,GENIE-MSK-P-0054819-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.2295,Male,Non-Spanish/non-Hispanic,Primary,65,MSK,LMS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0054878,GENIE-MSK-P-0054878-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,0.6025,Male,Non-Spanish/non-Hispanic,Metastasis,56,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0055170,GENIE-MSK-P-0055170-T02-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,0.2584,Female,Non-Spanish/non-Hispanic,Metastasis,72,MSK,LMS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0055230,GENIE-MSK-P-0055230-T01-IM6,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,0.5889,Female,Unknown,Primary,51,MSK,LMS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-NKI-01E4,GENIE-NKI-01E4-IP8E,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Primary,75,NKI,LMS,Not collected,Primary tumor,NKI-CHPV2-NGS
+GENIE-NKI-CCR2,GENIE-NKI-CCR2-8YRH,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Primary,68,NKI,LMS,Not collected,Primary tumor,NKI-TSACP-MISEQ-NGS
+GENIE-NKI-IGSB,GENIE-NKI-IGSB-MEA7,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Not Collected,Primary,52,NKI,LMS,Not collected,Primary tumor,NKI-TSACP-MISEQ-NGS
+GENIE-NKI-TLJW,GENIE-NKI-TLJW-AG1A,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Not Collected,Primary,>89,NKI,LMS,Not collected,Primary tumor,NKI-TSACP-MISEQ-NGS
+GENIE-PHS-010c7f55,GENIE-PHS-010c7f55-TST170-V1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,87,PHS,LMS,White,Primary tumor,PHS-TST170-V1
+GENIE-PHS-5343984b,GENIE-PHS-5343984b-TST170-V1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,64,PHS,LMS,White,Primary tumor,PHS-TST170-V1
+GENIE-PHS-dd8a7082,GENIE-PHS-dd8a7082-TST170-V1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,61,PHS,LMS,White,Primary tumor,PHS-TST170-V1
+GENIE-SCI-8749272662,GENIE-SCI-8749272662-U0845296_R2,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,42,SCI,LMS,White,Primary tumor,SCI-PMP68-V1
+GENIE-SCI-9204022662,GENIE-SCI-9204022662-U32465672R7,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Metastasis,68,SCI,LMS,White,Distant organ metastasis,SCI-PMP68-V1
+GENIE-UCSF-11192,GENIE-UCSF-11192-3617T,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,27,0.6008,Female,Non-Spanish/non-Hispanic,Not Collected,63,UCSF,LMS,White,Not Collected,UCSF-NIMV4-TO
+GENIE-UCSF-1299,GENIE-UCSF-1299-1465T,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,0.9479,Female,Non-Spanish/non-Hispanic,Not Collected,41,UCSF,LMS,Asian,Not Collected,UCSF-NIMV4-TN
+GENIE-UHN-172788,GENIE-UHN-172788-ARC1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Primary,33,UHN,LMS,White,Primary tumor,UHN-48-V1
+GENIE-UHN-281767,GENIE-UHN-281767-ARC1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Not Collected,Metastasis,51,UHN,LMS,White,Metastasis site unspecified,UHN-48-V1
+GENIE-UHN-699406,GENIE-UHN-699406-ARC1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Not Collected,Primary,63,UHN,LMS,White,Primary tumor,UHN-50-V2
+GENIE-UHN-756528,GENIE-UHN-756528-ARC1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Not Collected,Primary,43,UHN,LMS,Other,Primary tumor,UHN-48-V1
+GENIE-UHN-OCT973301,GENIE-UHN-OCT973301-ARC1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,1,Female,Not Collected,Metastasis,66,UHN,LMS,Other,Metastasis site unspecified,UHN-OCA-V3
+GENIE-VHIO-093,GENIE-VHIO-093-001,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Spanish/Hispanic,Primary,53,VHIO,LMS,White,Primary tumor,VHIO-KIDNEY-V01
+GENIE-VICC-103759,GENIE-VICC-103759-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,39,VICC,LMS,White,Metastasis site unspecified,VICC-01-D2
+GENIE-VICC-114548,GENIE-VICC-114548-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,12,,Male,Non-Spanish/non-Hispanic,Primary,65,VICC,LMS,White,Primary tumor,VICC-01-D2
+GENIE-VICC-116586,GENIE-VICC-116586-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Female,Non-Spanish/non-Hispanic,Metastasis,74,VICC,LMS,White,Metastasis site unspecified,VICC-01-D2
+GENIE-VICC-144368,GENIE-VICC-144368-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,6,,Male,Unknown,Primary,67,VICC,LMS,Unknown,Primary tumor,VICC-01-T6B
+GENIE-VICC-257795,GENIE-VICC-257795-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Primary,45,VICC,LMS,Black,Primary tumor,VICC-01-D2
+GENIE-VICC-259765,GENIE-VICC-259765-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Metastasis,70,VICC,LMS,White,Metastasis site unspecified,VICC-01-SOLIDTUMOR
+GENIE-VICC-429794,GENIE-VICC-429794-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,51,VICC,LMS,Black,Primary tumor,VICC-01-D2
+GENIE-VICC-439861,GENIE-VICC-439861-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Primary,71,VICC,LMS,White,Primary tumor,VICC-01-D2
+GENIE-VICC-548543,GENIE-VICC-548543-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,66,VICC,LMS,Unknown,Metastasis site unspecified,VICC-01-D2
+GENIE-VICC-574047,GENIE-VICC-574047-unk-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,65,VICC,LMS,White,Metastasis site unspecified,VICC-01-T5A
+GENIE-WAKE-C1258,GENIE-WAKE-C1258-01,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Unspecified,48,WAKE,LMS,Not Collected,Not otherwise specified,WAKE-CA-01
+GENIE-YALE-TPL553,GENIE-YALE-TPL553-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Metastasis,72,YALE,LMS,White,Local recurrence,YALE-OCP-V3
+GENIE-YALE-TPL696,GENIE-YALE-TPL696-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Metastasis,78,YALE,LMS,White,Distant organ metastasis,YALE-OCP-V3
+GENIE-YALE-TPL734,GENIE-YALE-TPL734-1,genie_public,Soft Tissue Sarcoma,Leiomyosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Metastasis,57,YALE,LMS,White,Distant organ metastasis,YALE-OCP-V3

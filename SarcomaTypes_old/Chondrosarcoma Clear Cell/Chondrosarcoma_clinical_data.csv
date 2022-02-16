@@ -1,0 +1,127 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-COLU-815,GENIE-COLU-815-1,genie_public,Bone Cancer,Chondrosarcoma,1,7,,Female,Unknown,Primary,55,COLU,CHS,White,Primary tumor,COLU-CCCP-V1
+GENIE-COLU-891,GENIE-COLU-891-1,genie_public,Bone Cancer,Chondrosarcoma,1,3,,Female,Unknown,Metastasis,64,COLU,CHS,Unknown,Distant organ metastasis,COLU-CCCP-V1
+GENIE-DFCI-000289,GENIE-DFCI-000289-2266,genie_public,Bone Cancer,Chondrosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,33,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-001676,GENIE-DFCI-001676-2445,genie_public,Bone Cancer,Chondrosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Metastasis,51,DFCI,CHS,White,Local recurrence,DFCI-ONCOPANEL-1
+GENIE-DFCI-003678,GENIE-DFCI-003678-4830,genie_public,Bone Cancer,Chondrosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Primary,61,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-003779,GENIE-DFCI-003779-4899,genie_public,Bone Cancer,Chondrosarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Primary,39,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-004006,GENIE-DFCI-004006-398,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Primary,47,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-1
+GENIE-DFCI-005368,GENIE-DFCI-005368-7436,genie_public,Bone Cancer,Chondrosarcoma,1,14,,Male,Spanish/Hispanic,Primary,61,DFCI,CHS,Other,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-008837,GENIE-DFCI-008837-7655,genie_public,Bone Cancer,Chondrosarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Primary,66,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-009610,GENIE-DFCI-009610-8310,genie_public,Bone Cancer,Chondrosarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Metastasis,67,DFCI,CHS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-009797,GENIE-DFCI-009797-7884,genie_public,Bone Cancer,Chondrosarcoma,1,3,,Male,Non-Spanish/non-Hispanic,Primary,61,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-010277,GENIE-DFCI-010277-11217,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Metastasis,28,DFCI,CHS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-010637,GENIE-DFCI-010637-8980,genie_public,Bone Cancer,Chondrosarcoma,1,3,,Female,Non-Spanish/non-Hispanic,Primary,65,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-2
+GENIE-DFCI-026752,GENIE-DFCI-026752-116427,genie_public,Bone Cancer,Chondrosarcoma,1,7,,Female,Non-Spanish/non-Hispanic,Metastasis,51,DFCI,CHS,White,Local recurrence,DFCI-ONCOPANEL-3
+GENIE-DFCI-036447,GENIE-DFCI-036447-74183,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Primary,62,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-037105,GENIE-DFCI-037105-61456,genie_public,Bone Cancer,Chondrosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Metastasis,52,DFCI,CHS,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-053455,GENIE-DFCI-053455-250059,genie_public,Bone Cancer,Chondrosarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Primary,<18,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-092018,GENIE-DFCI-092018-296747,genie_public,Bone Cancer,Chondrosarcoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,<18,DFCI,CHS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-154554,GENIE-DFCI-154554-2271410,genie_public,Bone Cancer,Chondrosarcoma,1,5,,Male,Non-Spanish/non-Hispanic,Metastasis,66,DFCI,CHS,White,Local recurrence,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-183200,GENIE-DFCI-183200-2839185,genie_public,Bone Cancer,Chondrosarcoma,3,6,,Male,Non-Spanish/non-Hispanic,Metastasis,<18,DFCI,CHS,White,Local recurrence,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-183200,GENIE-DFCI-183200-2839230,genie_public,Bone Cancer,Chondrosarcoma,3,6,,Male,Non-Spanish/non-Hispanic,Metastasis,<18,DFCI,CHS,White,Local recurrence,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-204507,GENIE-DFCI-204507-2774315,genie_public,Bone Cancer,Chondrosarcoma,1,4,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,<18,DFCI,CHS,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3.1
+GENIE-JHU-01011,GENIE-JHU-01011-01164,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Female,Unknown,Metastasis,55,JHU,CHS,White,Metastasis site unspecified,JHU-50GP
+GENIE-JHU-01301,GENIE-JHU-01301-01653,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Metastasis,50,JHU,CHS,Black,Metastasis site unspecified,JHU-50GP
+GENIE-JHU-01751,GENIE-JHU-01751-02154,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Female,Non-Spanish/non-Hispanic,Primary,49,JHU,CHS,White,Primary tumor,JHU-50GP
+GENIE-JHU-01912,GENIE-JHU-01912-02333,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Primary,63,JHU,CHS,White,Primary tumor,JHU-50GP
+GENIE-JHU-01946,GENIE-JHU-01946-02369,genie_public,Bone Cancer,Chondrosarcoma,1,,,Female,Unknown,Primary,46,JHU,CHS,White,Primary tumor,JHU-50GP
+GENIE-JHU-03939,GENIE-JHU-03939-04600,genie_public,Bone Cancer,Chondrosarcoma,2,,,Male,Unknown,Primary,29,JHU,CHS,Black,Primary tumor,JHU-50GP
+GENIE-JHU-03939,GENIE-JHU-03939-04675,genie_public,Bone Cancer,Chondrosarcoma,2,,,Male,Unknown,Metastasis,29,JHU,CHS,Black,Distant organ metastasis,JHU-50GP
+GENIE-JHU-04454,GENIE-JHU-04454-05197,genie_public,Bone Cancer,Chondrosarcoma,2,,,Female,Non-Spanish/non-Hispanic,Primary,71,JHU,CHS,White,Primary tumor,JHU-50GP
+GENIE-JHU-04454,GENIE-JHU-04454-05202,genie_public,Bone Cancer,Chondrosarcoma,2,,,Female,Non-Spanish/non-Hispanic,Primary,71,JHU,CHS,White,Primary tumor,JHU-50GP
+GENIE-JHU-04501,GENIE-JHU-04501-05247,genie_public,Bone Cancer,Chondrosarcoma,1,7,,Male,Non-Spanish/non-Hispanic,Primary,70,JHU,CHS,White,Primary tumor,JHU-50GP
+GENIE-JHU-04522,GENIE-JHU-04522-05270,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Female,Non-Spanish/non-Hispanic,Primary,41,JHU,CHS,Other,Primary tumor,JHU-50GP
+GENIE-MDA-1494,GENIE-MDA-1494-3154,genie_public,Bone Cancer,Chondrosarcoma,1,,,Female,Spanish/Hispanic,Primary,46,MDA,CHS,Other,Primary tumor,MDA-46-V1
+GENIE-MDA-1540,GENIE-MDA-1540-3229,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Unknown,Primary,62,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1595,GENIE-MDA-1595-3308,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Primary,34,MDA,CHS,Asian,Primary tumor,MDA-46-V1
+GENIE-MDA-1645,GENIE-MDA-1645-3375,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Unknown,Primary,50,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1788,GENIE-MDA-1788-3629,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Female,Spanish/Hispanic,Primary,50,MDA,CHS,Unknown,Primary tumor,MDA-46-V1
+GENIE-MDA-1835,GENIE-MDA-1835-3698,genie_public,Bone Cancer,Chondrosarcoma,1,,,Female,Unknown,Primary,63,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-1886,GENIE-MDA-1886-3783,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Primary,54,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2656,GENIE-MDA-2656-17827,genie_public,Bone Cancer,Chondrosarcoma,1,3,,Female,Spanish/Hispanic,Primary,21,MDA,CHS,Other,Primary tumor,MDA-409-V1
+GENIE-MDA-2734,GENIE-MDA-2734-5076,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Primary,56,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-2760,GENIE-MDA-2760-5107,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Unknown,Metastasis,21,MDA,CHS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-3044,GENIE-MDA-3044-5541,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Unknown,Primary,38,MDA,CHS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3466,GENIE-MDA-3466-6112,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Unknown,Primary,49,MDA,CHS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-3697,GENIE-MDA-3697-6412,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Female,Unknown,Primary,22,MDA,CHS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-55419,GENIE-MDA-55419-391421,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Primary,64,MDA,CHS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-5905,GENIE-MDA-5905-16942,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Female,Unknown,Primary,78,MDA,CHS,Other,Primary tumor,MDA-50-V1
+GENIE-MDA-6338,GENIE-MDA-6338-17403,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Non-Spanish/non-Hispanic,Metastasis,45,MDA,CHS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6724,GENIE-MDA-6724-17921,genie_public,Bone Cancer,Chondrosarcoma,1,3,,Female,Unknown,Primary,46,MDA,CHS,White,Primary tumor,MDA-50-V1
+GENIE-MDA-735,GENIE-MDA-735-1668,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Male,Unknown,Primary,56,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MDA-8260,GENIE-MDA-8260-18371,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Female,Spanish/Hispanic,Primary,32,MDA,CHS,Unknown,Primary tumor,MDA-409-V1
+GENIE-MDA-8326,GENIE-MDA-8326-18459,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Female,Unknown,Metastasis,44,MDA,CHS,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-849,GENIE-MDA-849-1923,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Unknown,Primary,68,MDA,CHS,White,Primary tumor,MDA-46-V1
+GENIE-MSK-P-0000848,GENIE-MSK-P-0000848-T01-IM3,genie_public,Bone Cancer,Chondrosarcoma,1,,0.0006,Male,Non-Spanish/non-Hispanic,Metastasis,28,MSK,CHS,Asian,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0001827,GENIE-MSK-P-0001827-T01-IM3,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.561,Female,Non-Spanish/non-Hispanic,Primary,58,MSK,CHS,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002764,GENIE-MSK-P-0002764-T01-IM3,genie_public,Bone Cancer,Chondrosarcoma,1,,0.9351,Male,Non-Spanish/non-Hispanic,Primary,51,MSK,CHS,Unknown,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002851,GENIE-MSK-P-0002851-T01-IM3,genie_public,Bone Cancer,Chondrosarcoma,1,3,0.2447,Female,Non-Spanish/non-Hispanic,Metastasis,40,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0004041,GENIE-MSK-P-0004041-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,3,0.1685,Male,Non-Spanish/non-Hispanic,Primary,48,MSK,CHS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0004145,GENIE-MSK-P-0004145-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,2,,0.2971,Female,Non-Spanish/non-Hispanic,Metastasis,44,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004145,GENIE-MSK-P-0004145-T02-IM5,genie_public,Bone Cancer,Chondrosarcoma,2,,0.3257,Female,Non-Spanish/non-Hispanic,Metastasis,44,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0004200,GENIE-MSK-P-0004200-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,1,0,Male,Non-Spanish/non-Hispanic,Primary,19,MSK,CHS,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0004685,GENIE-MSK-P-0004685-T02-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,3,0.1986,Male,Spanish/Hispanic,Primary,59,MSK,CHS,Other,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0004969,GENIE-MSK-P-0004969-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,5,0.0671,Male,Non-Spanish/non-Hispanic,Metastasis,60,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0005049,GENIE-MSK-P-0005049-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,1,0,Female,Non-Spanish/non-Hispanic,Primary,26,MSK,CHS,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0005465,GENIE-MSK-P-0005465-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.1508,Male,Non-Spanish/non-Hispanic,Metastasis,47,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0005969,GENIE-MSK-P-0005969-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.1037,Female,Non-Spanish/non-Hispanic,Metastasis,59,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0006024,GENIE-MSK-P-0006024-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,,0.3204,Female,Non-Spanish/non-Hispanic,Primary,31,MSK,CHS,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0007743,GENIE-MSK-P-0007743-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,,0.064,Male,Non-Spanish/non-Hispanic,Metastasis,50,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0008230,GENIE-MSK-P-0008230-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,,0.0316,Male,Non-Spanish/non-Hispanic,Metastasis,67,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0008716,GENIE-MSK-P-0008716-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,,0,Male,Non-Spanish/non-Hispanic,Primary,52,MSK,CHS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0009144,GENIE-MSK-P-0009144-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,,0.315,Male,Non-Spanish/non-Hispanic,Primary,64,MSK,CHS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010006,GENIE-MSK-P-0010006-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,5,0.0842,Male,Non-Spanish/non-Hispanic,Primary,36,MSK,CHS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010595,GENIE-MSK-P-0010595-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,,0.045,Male,Non-Spanish/non-Hispanic,Primary,31,MSK,CHS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010936,GENIE-MSK-P-0010936-T01-IM5,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.1205,Male,Spanish/Hispanic,Primary,76,MSK,CHS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0014193,GENIE-MSK-P-0014193-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.2525,Male,Non-Spanish/non-Hispanic,Primary,63,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0015458,GENIE-MSK-P-0015458-T02-IM6,genie_public,Bone Cancer,Chondrosarcoma,2,1,0.0266,Female,Non-Spanish/non-Hispanic,Metastasis,43,MSK,CHS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0016097,GENIE-MSK-P-0016097-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.001,Female,Non-Spanish/non-Hispanic,Metastasis,32,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0017178,GENIE-MSK-P-0017178-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.0001,Male,Non-Spanish/non-Hispanic,Primary,77,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0017638,GENIE-MSK-P-0017638-T05-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,3,0.0001,Male,Non-Spanish/non-Hispanic,Metastasis,72,MSK,CHS,Other,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0021869,GENIE-MSK-P-0021869-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.0009,Male,Non-Spanish/non-Hispanic,Metastasis,56,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0022585,GENIE-MSK-P-0022585-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,4,0.4839,Male,Spanish/Hispanic,Primary,22,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0022999,GENIE-MSK-P-0022999-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,4,0.0054,Male,Unknown,Metastasis,55,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0023520,GENIE-MSK-P-0023520-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,3,0.0142,Male,Non-Spanish/non-Hispanic,Primary,32,MSK,CHS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0023607,GENIE-MSK-P-0023607-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0024805,GENIE-MSK-P-0024805-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.3858,Male,Non-Spanish/non-Hispanic,Primary,48,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0026837,GENIE-MSK-P-0026837-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.4721,Female,Non-Spanish/non-Hispanic,Metastasis,46,MSK,CHS,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0027729,GENIE-MSK-P-0027729-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,2,2,0.0166,Male,Spanish/Hispanic,Metastasis,47,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0027729,GENIE-MSK-P-0027729-T02-IM6,genie_public,Bone Cancer,Chondrosarcoma,2,3,0.894,Male,Spanish/Hispanic,Metastasis,47,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0028602,GENIE-MSK-P-0028602-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0.9887,Male,Non-Spanish/non-Hispanic,Primary,63,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0029601,GENIE-MSK-P-0029601-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,17,0.2284,Male,Non-Spanish/non-Hispanic,Primary,76,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0030093,GENIE-MSK-P-0030093-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,4,0.4678,Female,Non-Spanish/non-Hispanic,Metastasis,77,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0030574,GENIE-MSK-P-0030574-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0.0008,Female,Non-Spanish/non-Hispanic,Metastasis,64,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0033015,GENIE-MSK-P-0033015-T03-IM6,genie_public,Bone Cancer,Chondrosarcoma,2,2,0.2879,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0033537,GENIE-MSK-P-0033537-T02-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0.0257,Female,Non-Spanish/non-Hispanic,Primary,75,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0036118,GENIE-MSK-P-0036118-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0.0111,Female,Non-Spanish/non-Hispanic,Metastasis,46,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0038480,GENIE-MSK-P-0038480-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.9771,Male,Non-Spanish/non-Hispanic,Metastasis,69,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0039362,GENIE-MSK-P-0039362-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,9,0.9307,Female,Unknown,Metastasis,72,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0039996,GENIE-MSK-P-0039996-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,2,2,0.4488,Male,Non-Spanish/non-Hispanic,Metastasis,43,MSK,CHS,White,Local recurrence,MSK-IMPACT468
+GENIE-MSK-P-0039996,GENIE-MSK-P-0039996-T02-IM6,genie_public,Bone Cancer,Chondrosarcoma,2,2,0.3818,Male,Non-Spanish/non-Hispanic,Metastasis,43,MSK,CHS,White,Local recurrence,MSK-IMPACT468
+GENIE-MSK-P-0042392,GENIE-MSK-P-0042392-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0,Female,Non-Spanish/non-Hispanic,Primary,71,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0043282,GENIE-MSK-P-0043282-T02-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.1847,Female,Non-Spanish/non-Hispanic,Primary,47,MSK,CHS,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0043858,GENIE-MSK-P-0043858-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.3377,Female,Non-Spanish/non-Hispanic,Primary,58,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0044027,GENIE-MSK-P-0044027-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.003,Male,Spanish/Hispanic,Primary,34,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0045043,GENIE-MSK-P-0045043-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.0023,Female,Non-Spanish/non-Hispanic,Primary,39,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0046113,GENIE-MSK-P-0046113-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,5,0.8432,Male,Unknown,Primary,44,MSK,CHS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0048156,GENIE-MSK-P-0048156-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.0002,Female,Spanish/Hispanic,Metastasis,50,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0048579,GENIE-MSK-P-0048579-T02-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.415,Male,Non-Spanish/non-Hispanic,Primary,56,MSK,CHS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0049540,GENIE-MSK-P-0049540-T03-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0,Male,Non-Spanish/non-Hispanic,Primary,25,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0049955,GENIE-MSK-P-0049955-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,5,0.2343,Female,Spanish/Hispanic,Primary,63,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0051803,GENIE-MSK-P-0051803-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,16,0,Male,Non-Spanish/non-Hispanic,Metastasis,72,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0053036,GENIE-MSK-P-0053036-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0.9307,Male,Non-Spanish/non-Hispanic,Metastasis,44,MSK,CHS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0053476,GENIE-MSK-P-0053476-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,,0.4493,Male,Non-Spanish/non-Hispanic,Primary,27,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0053905,GENIE-MSK-P-0053905-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.68,Male,Non-Spanish/non-Hispanic,Primary,79,MSK,CHS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0055531,GENIE-MSK-P-0055531-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.0054,Male,Unknown,Primary,71,MSK,CHS,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0055779,GENIE-MSK-P-0055779-T01-IM6,genie_public,Bone Cancer,Chondrosarcoma,1,2,0.0187,Unknown,Unknown,Primary,<18,MSK,CHS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-NKI-JQV3,GENIE-NKI-JQV3-EZVB,genie_public,Bone Cancer,Chondrosarcoma,1,,,Male,Not Collected,Metastasis,59,NKI,CHS,Not collected,Local recurrence,NKI-CHPV2-SOCV2-NGS
+GENIE-UCSF-11843,GENIE-UCSF-11843-5422T,genie_public,Bone Cancer,Chondrosarcoma,1,5,0.9967,Female,Non-Spanish/non-Hispanic,Not Collected,63,UCSF,CHS,White,Not Collected,UCSF-NIMV4-TO
+GENIE-UCSF-11955,GENIE-UCSF-11955-6280T,genie_public,Bone Cancer,Chondrosarcoma,1,12,0.4171,Female,Non-Spanish/non-Hispanic,Not Collected,46,UCSF,CHS,Asian,Not Collected,UCSF-NIMV4-TO
+GENIE-UCSF-2197,GENIE-UCSF-2197-2399T,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.1723,Male,Unknown,Not Collected,<18,UCSF,CHS,Unknown,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-3011,GENIE-UCSF-3011-9374T,genie_public,Bone Cancer,Chondrosarcoma,1,1,0.7453,Male,Spanish/Hispanic,Not Collected,58,UCSF,CHS,Other,Not Collected,UCSF-NIMV4-TN
+GENIE-UHN-OCT572627,GENIE-UHN-OCT572627-ARC1,genie_public,Bone Cancer,Chondrosarcoma,1,,,Female,Not Collected,Metastasis,61,UHN,CHS,Asian,Metastasis site unspecified,UHN-OCA-V3
+GENIE-UHN-OCT773758,GENIE-UHN-OCT773758-ARC1,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Male,Not Collected,Metastasis,50,UHN,CHS,White,Metastasis site unspecified,UHN-OCA-V3
+GENIE-VICC-677037,GENIE-VICC-677037-unk-1,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Metastasis,39,VICC,CHS,White,Metastasis site unspecified,VICC-01-D2
+GENIE-VICC-862343,GENIE-VICC-862343-unk-1,genie_public,Bone Cancer,Chondrosarcoma,1,2,,Male,Non-Spanish/non-Hispanic,Metastasis,37,VICC,CHS,White,Local recurrence,VICC-01-R2
+GENIE-YALE-TPL195,GENIE-YALE-TPL195-1,genie_public,Bone Cancer,Chondrosarcoma,1,1,,Male,Non-Spanish/non-Hispanic,Primary,28,YALE,CHS,White,Primary tumor,YALE-OCP-V3

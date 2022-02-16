@@ -1,0 +1,5 @@
+Gene	MutSig(Q-value)	# Mut	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+HIST1H1E		1	1	1	100.0%	Yes
+NSD2		1	1	2	50.0%	Yes
+RPTOR		1	1	4	25.0%	Yes
+CD36		1	1	1	100.0%	Yes

@@ -1,0 +1,30 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-COLU-00387,GENIE-COLU-00387-01,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,16,,Female,Spanish/Hispanic,Primary,58,COLU,INTS,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-DFCI-003157,GENIE-DFCI-003157-11773,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,8,,Male,Non-Spanish/non-Hispanic,Metastasis,26,DFCI,INTS,Asian,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-111029,GENIE-DFCI-111029-664141,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,4,,Male,Non-Spanish/non-Hispanic,Primary,20,DFCI,INTS,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-169356,GENIE-DFCI-169356-2210327,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,12,,Male,Non-Spanish/non-Hispanic,Primary,45,DFCI,INTS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-268980,GENIE-DFCI-268980-3530797,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,5,,Female,Non-Spanish/non-Hispanic,Primary,45,DFCI,INTS,White,Primary tumor,DFCI-ONCOPANEL-3.1
+GENIE-JHU-06229,GENIE-JHU-06229-07167,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,,Female,Unknown,Metastasis,74,JHU,INTS,Other,Lymph node metastasis,JHU-500STP
+GENIE-MSK-P-0000733,GENIE-MSK-P-0000733-T01-IM3,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,1,0.1051,Male,Non-Spanish/non-Hispanic,Metastasis,43,MSK,INTS,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0001173,GENIE-MSK-P-0001173-T01-IM3,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,0.5504,Female,Non-Spanish/non-Hispanic,Primary,48,MSK,INTS,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002757,GENIE-MSK-P-0002757-T01-IM3,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,5,0.3591,Female,Non-Spanish/non-Hispanic,Primary,46,MSK,INTS,Asian,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0003123,GENIE-MSK-P-0003123-T01-IM5,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,0.4961,Female,Spanish/Hispanic,Primary,19,MSK,INTS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0003249,GENIE-MSK-P-0003249-T01-IM5,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,6,0.4812,Male,Non-Spanish/non-Hispanic,Primary,35,MSK,INTS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0003415,GENIE-MSK-P-0003415-T01-IM5,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,7,0.3992,Female,Non-Spanish/non-Hispanic,Primary,71,MSK,INTS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0004128,GENIE-MSK-P-0004128-T01-IM5,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,0.0524,Female,Non-Spanish/non-Hispanic,Metastasis,76,MSK,INTS,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0011148,GENIE-MSK-P-0011148-T01-IM5,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,1,0.0697,Female,Non-Spanish/non-Hispanic,Primary,56,MSK,INTS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0011304,GENIE-MSK-P-0011304-T01-IM5,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,5,0.5092,Male,Non-Spanish/non-Hispanic,Primary,47,MSK,INTS,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0017700,GENIE-MSK-P-0017700-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,2,0.4493,Female,Non-Spanish/non-Hispanic,Primary,72,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018057,GENIE-MSK-P-0018057-T02-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,2,9,0.5392,Male,Non-Spanish/non-Hispanic,Metastasis,52,MSK,INTS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0028556,GENIE-MSK-P-0028556-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,0,Female,Non-Spanish/non-Hispanic,Primary,30,MSK,INTS,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0033983,GENIE-MSK-P-0033983-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,2,0.5597,Female,Unknown,Primary,47,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0037649,GENIE-MSK-P-0037649-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,2,0.4833,Female,Non-Spanish/non-Hispanic,Primary,59,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0040268,GENIE-MSK-P-0040268-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,2,0.5026,Male,Non-Spanish/non-Hispanic,Primary,54,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0040581,GENIE-MSK-P-0040581-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,1,0.4675,Female,Non-Spanish/non-Hispanic,Metastasis,39,MSK,INTS,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0042740,GENIE-MSK-P-0042740-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,5,0.5063,Male,Non-Spanish/non-Hispanic,Primary,26,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0045117,GENIE-MSK-P-0045117-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,3,0.4784,Female,Non-Spanish/non-Hispanic,Primary,83,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0048948,GENIE-MSK-P-0048948-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,3,0.0279,Male,Non-Spanish/non-Hispanic,Primary,62,MSK,INTS,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0051810,GENIE-MSK-P-0051810-T01-IM6,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,1,0.3817,Male,Non-Spanish/non-Hispanic,Primary,43,MSK,INTS,Asian,Primary tumor,MSK-IMPACT468
+GENIE-NKI-B64D,GENIE-NKI-B64D-Y2ZZ,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,1,,Female,Not Collected,Primary,58,NKI,INTS,Not collected,Primary tumor,NKI-CHPV2-NGS
+GENIE-UHN-276895,GENIE-UHN-276895-ARC1,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,,Female,Not Collected,Primary,49,UHN,INTS,Asian,Primary tumor,UHN-48-V1
+GENIE-UHN-OCT249840,GENIE-UHN-OCT249840-ARC1,genie_public,Soft Tissue Sarcoma,Intimal Sarcoma,1,,1,Male,Not Collected,Primary,52,UHN,INTS,Other,Primary tumor,UHN-OCA-V3

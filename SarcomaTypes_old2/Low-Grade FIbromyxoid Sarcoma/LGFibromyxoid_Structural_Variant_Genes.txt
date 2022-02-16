@@ -1,0 +1,4 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+FUS	5	5	3	166.7%	Yes
+CREB3L2	7	7	16	43.8%	Yes
+EWSR1	2	2	3	66.7%	Yes

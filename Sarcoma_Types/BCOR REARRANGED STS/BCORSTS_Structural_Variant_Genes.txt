@@ -1,0 +1,8 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+BCOR	10	10	10	100.0%	Yes
+ARF3	1	1	10	10.0%	No
+CCNB3	2	2	10	20.0%	Yes
+CHD9	1	1	10	10.0%	No
+ZC3H7B	1	1	10	10.0%	No
+KMT2D	2	1	10	10.0%	Yes
+CD276	2	2	7	28.6%	Yes

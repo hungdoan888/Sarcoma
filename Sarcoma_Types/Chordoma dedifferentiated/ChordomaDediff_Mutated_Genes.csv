@@ -1,0 +1,9 @@
+Gene,MutSig(Q-value),# Mut,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+ABL1,,1,1,1,100.00%,Yes
+MPL,,1,1,1,100.00%,Yes
+TP53,,1,1,1,100.00%,Yes
+WAS,,1,1,1,100.00%,Yes
+STAT5B,,1,1,1,100.00%,Yes
+EP300,,1,1,1,100.00%,Yes
+ERBB3,,1,1,1,100.00%,Yes
+CD276,,2,1,1,100.00%,Yes

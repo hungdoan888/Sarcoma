@@ -1,0 +1,17 @@
+Gene,MutSig(Q-value),# Mut,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+SMARCA4,,1,1,9,11.10%,Yes
+SDHA,,1,1,9,11.10%,Yes
+SMARCB1,,1,1,13,7.70%,Yes
+EP300,,2,2,10,20.00%,Yes
+MAP3K13,,1,1,8,12.50%,Yes
+TCF3,,2,1,9,11.10%,Yes
+AR,,3,3,10,30.00%,Yes
+EZH2,,1,1,11,9.10%,Yes
+ATRX,,3,3,9,33.30%,Yes
+UIMC1,,1,1,1,100.00%,No
+INSR,,2,2,9,22.20%,Yes
+SRSF2,,1,1,8,12.50%,Yes
+NOTCH3,,1,1,9,11.10%,Yes
+POLH,,1,1,1,100.00%,No
+AMER1,,1,1,8,12.50%,Yes
+PTCH1,,1,1,10,10.00%,Yes

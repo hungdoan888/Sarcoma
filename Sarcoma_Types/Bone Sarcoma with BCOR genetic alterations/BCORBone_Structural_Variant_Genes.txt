@@ -1,0 +1,5 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+MANBAL	1	1	1	100.0%	No
+BCOR	1	1	1	100.0%	Yes
+DDX3X	1	1	1	100.0%	Yes
+SRC	1	1	1	100.0%	Yes

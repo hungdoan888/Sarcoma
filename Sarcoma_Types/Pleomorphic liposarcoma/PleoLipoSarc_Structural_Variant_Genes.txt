@@ -1,0 +1,26 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+ADAM12	1	1	51	2.0%	No
+FARSA	1	1	51	2.0%	No
+DNAH2	1	1	51	2.0%	No
+BRCA1	1	1	50	2.0%	Yes
+STAG2	1	1	49	2.0%	Yes
+PIK3R6	1	1	51	2.0%	No
+SACS	1	1	51	2.0%	No
+RPTOR	1	1	44	2.3%	Yes
+NF1	2	2	50	4.0%	Yes
+PRPF8	1	1	7	14.3%	No
+RARA	2	2	49	4.1%	Yes
+PRKDC	1	1	20	5.0%	Yes
+TMPRSS2	1	1	44	2.3%	Yes
+TP53	4	4	51	7.8%	Yes
+ERBB4	1	1	50	2.0%	Yes
+FGFR2	1	1	51	2.0%	Yes
+ALOX12B	1	1	38	2.6%	Yes
+WRAP53	1	1	51	2.0%	No
+BCAN	1	1	51	2.0%	No
+DNMT1	1	1	30	3.3%	Yes
+CIC	1	1	44	2.3%	Yes
+CSF3R	1	1	46	2.2%	Yes
+PALB2	1	1	50	2.0%	Yes
+DSCAM	1	1	51	2.0%	No
+RB1	1	1	51	2.0%	Yes

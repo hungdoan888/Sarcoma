@@ -1,0 +1,2 @@
+Gene	MutSig(Q-value)	# Mut	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+LATS1		1	1	1	100.0%	Yes

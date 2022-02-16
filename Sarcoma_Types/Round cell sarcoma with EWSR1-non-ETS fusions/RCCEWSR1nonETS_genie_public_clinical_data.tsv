@@ -1,0 +1,6 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-MSK-P-0015217	GENIE-MSK-P-0015217-T01-IM6	28	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.1855	1	RCSNOS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-UCSF-10541	GENIE-UCSF-10541-5954T	62	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Non-Spanish/non-Hispanic	0.4748	6	RCSNOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-1153	GENIE-UCSF-1153-1310T	42	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Spanish/Hispanic	0.1231	8	RCSNOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-3689	GENIE-UCSF-3689-0929T	52	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Non-Spanish/non-Hispanic	0.1191	NA	RCSNOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-923	GENIE-UCSF-923-1082T	24	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Unknown	0.0947	11	RCSNOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female

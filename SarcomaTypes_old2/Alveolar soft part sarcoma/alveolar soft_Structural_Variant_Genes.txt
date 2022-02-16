@@ -1,0 +1,5 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+ASPSCR1	15	15	32	46.9%	Yes
+TP53	1	1	32	3.1%	Yes
+DVL2	1	1	32	3.1%	No
+TFE3	15	15	6	250.0%	Yes

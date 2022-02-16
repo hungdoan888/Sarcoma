@@ -1,0 +1,8 @@
+Gene	Gistic(Q-value)	Cytoband	CNA	Profiled Samples	#	Freq	Is Cancer Gene (source: OncoKB)
+RTEL1		20q13.33	AMP	1	28	3.6%	Yes
+CDKN2A		9p21.3	HOMDEL	3	46	6.5%	Yes
+GNAS		20q13.32	AMP	1	46	2.2%	Yes
+CDKN2B		9p21.3	HOMDEL	3	46	6.5%	Yes
+AURKA		20q13.2	AMP	1	45	2.2%	Yes
+NCOA3		20q13.12	AMP	1	35	2.9%	Yes
+TNFRSF14		1p36.32	HOMDEL	1	35	2.9%	Yes

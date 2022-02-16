@@ -1,0 +1,7 @@
+Gene,Gistic(Q-value),Cytoband,CNA,Profiled Samples,#,Freq,Is Cancer Gene (source: OncoKB)
+GLI1,,12q13.3,AMP,2,3,66.70%,Yes
+CDK4,,12q14.1,AMP,3,3,100.00%,Yes
+ERBB3,,12q13.2,AMP,1,3,33.30%,Yes
+MDM2,,12q15,AMP,3,3,100.00%,Yes
+SDHC,,1q23.3,AMP,1,3,33.30%,Yes
+MCL1,,1q21.2,AMP,1,3,33.30%,Yes

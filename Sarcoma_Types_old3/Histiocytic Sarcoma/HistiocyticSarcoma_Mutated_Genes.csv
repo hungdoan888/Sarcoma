@@ -1,0 +1,16 @@
+Gene,MutSig(Q-value),# Mut,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+PTPN11,,1,1,7,14.30%,Yes
+PAX5,,1,1,7,14.30%,Yes
+TP53,,1,1,7,14.30%,Yes
+MPEG1,,1,1,6,16.70%,Yes
+NRAS,,1,1,7,14.30%,Yes
+EP300,,1,1,7,14.30%,Yes
+CSF1R,,3,1,7,14.30%,Yes
+DNMT3A,,2,2,7,28.60%,Yes
+BRAF,,1,1,7,14.30%,Yes
+GATA1,,1,1,7,14.30%,Yes
+BCOR,,3,3,7,42.90%,Yes
+NOTCH1,,1,1,7,14.30%,Yes
+MED12,,1,1,7,14.30%,Yes
+RARA,,1,1,7,14.30%,Yes
+SETD2,,2,1,7,14.30%,Yes

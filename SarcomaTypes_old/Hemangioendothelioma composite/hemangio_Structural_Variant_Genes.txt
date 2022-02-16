@@ -1,0 +1,7 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+WWTR1	13	13	28	46.4%	Yes
+CAMTA1	12	12	53	22.6%	Yes
+FAT1	1	1	42	2.4%	Yes
+ASXL1	1	1	47	2.1%	Yes
+YAP1	3	3	42	7.1%	Yes
+TFE3	3	3	7	42.9%	Yes

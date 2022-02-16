@@ -1,0 +1,8 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-MSK-P-0020246	GENIE-MSK-P-0020246-T16-IH3	<18	Histiocytosis	Histiocytic Sarcoma	MSK	Unknown	0.0531	4	HS	Unknown	10	Primary	Primary tumor	MSK-IMPACT-HEME-399	Unknown
+genie_public	GENIE-MSK-P-0031977	GENIE-MSK-P-0031977-T01-IH3	<18	Histiocytosis	Histiocytic Sarcoma	MSK	Unknown	0.2482	7	HS	Unknown	1	Primary	Primary tumor	MSK-IMPACT-HEME-399	Unknown
+genie_public	GENIE-MSK-P-0038181	GENIE-MSK-P-0038181-T01-IM6	67	Histiocytosis	Histiocytic Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0024	NA	HS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0038360	GENIE-MSK-P-0038360-T02-IH3	<18	Histiocytosis	Histiocytic Sarcoma	MSK	Unknown	0.1826	7	HS	Unknown	1	Primary	Primary tumor	MSK-IMPACT-HEME-399	Unknown
+genie_public	GENIE-MSK-P-0042727	GENIE-MSK-P-0042727-T04-IH3	<18	Histiocytosis	Histiocytic Sarcoma	MSK	Unknown	0.0002	1	HS	Unknown	3	Metastasis	Metastasis site unspecified	MSK-IMPACT-HEME-399	Unknown
+genie_public	GENIE-MSK-P-0042727	GENIE-MSK-P-0042727-T05-IH3	<18	Histiocytosis	Histiocytic Sarcoma	MSK	Unknown	0.0022	1	HS	Unknown	3	Metastasis	Metastasis site unspecified	MSK-IMPACT-HEME-399	Unknown
+genie_public	GENIE-MSK-P-0050300	GENIE-MSK-P-0050300-T02-IH3	<18	Histiocytosis	Histiocytic Sarcoma	MSK	Unknown	0.0000	1	HS	Unknown	2	Metastasis	Metastasis site unspecified	MSK-IMPACT-HEME-399	Unknown

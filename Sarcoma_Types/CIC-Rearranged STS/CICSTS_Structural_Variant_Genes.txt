@@ -1,0 +1,11 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+NUTM1	2	2	4	50.0%	Yes
+LEUTX	1	1	14	7.1%	No
+GPALPP1	1	1	14	7.1%	No
+FUS	1	1	7	14.3%	Yes
+CIC	15	14	13	107.7%	Yes
+ERG	1	1	13	7.7%	Yes
+AKT2	1	1	14	7.1%	Yes
+CITED1	1	1	14	7.1%	No
+DUX4	7	7	14	50.0%	No
+SNRPB2	1	1	14	7.1%	No

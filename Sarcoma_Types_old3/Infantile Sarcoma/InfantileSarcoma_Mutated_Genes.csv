@@ -1,0 +1,12 @@
+Gene,MutSig(Q-value),# Mut,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+KDM5A,,1,1,4,25.00%,Yes
+JAK3,,1,1,4,25.00%,Yes
+BRCA2,,1,1,4,25.00%,Yes
+IPMK,,1,1,2,50.00%,No
+POLD1,,1,1,2,50.00%,Yes
+PTPRB,,1,1,2,50.00%,Yes
+SPEN,,2,2,4,50.00%,Yes
+PALB2,,1,1,4,25.00%,Yes
+BCL2L12,,1,1,2,50.00%,No
+MGA,,1,1,2,50.00%,Yes
+GLI2,,2,1,2,50.00%,No

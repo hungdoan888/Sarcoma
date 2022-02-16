@@ -1,0 +1,2 @@
+Study ID,Patient ID,Sample ID,Age at Which Sequencing was Reported,Cancer Type,Cancer Type Detailed,Center,Ethnicity Category,Fraction Genome Altered,Mutation Count,Oncotree Code,Primary Race,Number of Samples Per Patient,Sample Type,Sample Type Detailed,Sequence Assay ID,Sex
+genie_public,GENIE-COLU-00061,GENIE-COLU-00061-01,80,Bone Cancer,Dedifferentiated Chordoma,COLU,Spanish/Hispanic,NA,9,DDCHDM,Unknown,1,Primary,Primary tumor,COLU-CCCP-V1,Male

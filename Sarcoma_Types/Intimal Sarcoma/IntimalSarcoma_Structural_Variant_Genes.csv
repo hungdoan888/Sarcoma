@@ -1,0 +1,14 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+SEMA5A,1,1,29,3.40%,No
+TERT,1,1,27,3.70%,Yes
+LRP1,1,1,29,3.40%,No
+SDHA,1,1,26,3.80%,Yes
+HMGA2,1,1,2,50.00%,Yes
+FAT1,1,1,25,4.00%,Yes
+KMT2D,1,1,26,3.80%,Yes
+CEP89,1,1,29,3.40%,No
+ARID2,1,1,26,3.80%,Yes
+NOTCH2,1,1,27,3.70%,Yes
+NOTCH3,1,1,26,3.80%,Yes
+PDE4DIP,1,1,1,100.00%,Yes
+MRPS30,1,1,29,3.40%,No

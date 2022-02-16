@@ -1,0 +1,10 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+IKBKE	1	1	28	3.6%	Yes
+ATF1	23	21	1	2100.0%	Yes
+CDKN1A	1	1	31	3.2%	Yes
+NBN	1	1	34	2.9%	Yes
+CREB1	3	3	1	300.0%	Yes
+C11ORF49	1	1	41	2.4%	No
+EWSR1	31	28	10	280.0%	Yes
+CREM	2	2	41	4.9%	No
+TMPRSS12	1	1	41	2.4%	No

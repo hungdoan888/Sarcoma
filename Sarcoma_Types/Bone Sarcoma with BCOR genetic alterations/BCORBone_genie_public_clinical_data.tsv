@@ -1,0 +1,2 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-MSK-P-0008266	GENIE-MSK-P-0008266-T01-IM5	55	Bone Cancer	Dedifferentiated Chondrosarcoma	MSK	Spanish/Hispanic	0.1970	1	DDCHS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female

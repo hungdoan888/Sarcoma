@@ -1,0 +1,5 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-MSK-P-0000361	GENIE-MSK-P-0000361-T01-IM3	50	Soft Tissue Sarcoma	Ossifying Fibromyxoid Tumor	MSK	Non-Spanish/non-Hispanic	0.3140	NA	OFMT	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001946	GENIE-MSK-P-0001946-T01-IM3	54	Soft Tissue Sarcoma	Ossifying Fibromyxoid Tumor	MSK	Spanish/Hispanic	0.3711	NA	OFMT	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0031631	GENIE-MSK-P-0031631-T01-IM6	63	Soft Tissue Sarcoma	Ossifying Fibromyxoid Tumor	MSK	Spanish/Hispanic	0.5925	NA	OFMT	Other	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-VICC-641567	GENIE-VICC-641567-unk-1	66	Soft Tissue Sarcoma	Ossifying Fibromyxoid Tumor	VICC	Non-Spanish/non-Hispanic	NA	4	OFMT	White	1	Metastasis	Metastasis site unspecified	VICC-01-D2	Male

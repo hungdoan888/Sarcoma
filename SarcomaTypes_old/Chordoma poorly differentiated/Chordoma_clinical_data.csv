@@ -1,0 +1,74 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-CHOP-C182778,GENIE-CHOP-C182778-BSW9N759KV,genie_public,Bone Cancer,Chordoma,1,1,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,CHDM,Unknown,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2440689,GENIE-CHOP-C2440689-BSSXH4WCR5,genie_public,Bone Cancer,Chordoma,1,3,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,CHDM,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2624328,GENIE-CHOP-C2624328-BSGXQV9CXK,genie_public,Bone Cancer,Chordoma,1,1,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,CHDM,Unknown,Not otherwise specified,CHOP-STNGS
+GENIE-COLU-00054,GENIE-COLU-00054-01,genie_public,Bone Cancer,Chordoma,1,1,,Male,Unknown,Primary,43,COLU,CHDM,Unknown,Primary tumor,COLU-CCCP-V1
+GENIE-DFCI-000069,GENIE-DFCI-000069-3170972,genie_public,Bone Cancer,Chordoma,2,4,,Male,Non-Spanish/non-Hispanic,Metastasis,72,DFCI,CHDM,White,Metastasis site unspecified,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-001444,GENIE-DFCI-001444-6461,genie_public,Bone Cancer,Chordoma,1,5,,Female,Non-Spanish/non-Hispanic,Metastasis,82,DFCI,CHDM,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-023086,GENIE-DFCI-023086-23877,genie_public,Bone Cancer,Chordoma,1,3,,Female,Non-Spanish/non-Hispanic,Metastasis,63,DFCI,CHDM,White,Local recurrence,DFCI-ONCOPANEL-2
+GENIE-DFCI-028498,GENIE-DFCI-028498-159177,genie_public,Bone Cancer,Chordoma,1,4,,Male,Non-Spanish/non-Hispanic,Metastasis,58,DFCI,CHDM,White,Local recurrence,DFCI-ONCOPANEL-3
+GENIE-DFCI-029692,GENIE-DFCI-029692-159091,genie_public,Bone Cancer,Chordoma,2,4,,Male,Spanish/Hispanic,Metastasis,45,DFCI,CHDM,Other,Local recurrence,DFCI-ONCOPANEL-3
+GENIE-DFCI-029692,GENIE-DFCI-029692-2970312,genie_public,Bone Cancer,Chordoma,2,4,,Male,Spanish/Hispanic,Not Applicable or Heme,45,DFCI,CHDM,Other,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3.1
+GENIE-DFCI-182884,GENIE-DFCI-182884-2708218,genie_public,Bone Cancer,Chordoma,1,7,,Female,Non-Spanish/non-Hispanic,Not Applicable or Heme,46,DFCI,CHDM,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-3.1
+GENIE-JHU-05807,GENIE-JHU-05807-06714,genie_public,Bone Cancer,Chordoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,53,JHU,CHDM,White,Primary tumor,JHU-500STP
+GENIE-MDA-3879,GENIE-MDA-3879-6694,genie_public,Bone Cancer,Chordoma,1,,,Male,Spanish/Hispanic,Metastasis,36,MDA,CHDM,Unknown,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-4013,GENIE-MDA-4013-6951,genie_public,Bone Cancer,Chordoma,1,,,Male,Non-Spanish/non-Hispanic,Metastasis,60,MDA,CHDM,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-5375,GENIE-MDA-5375-16514,genie_public,Bone Cancer,Chordoma,1,,,Female,Spanish/Hispanic,Primary,61,MDA,CHDM,Unknown,Primary tumor,MDA-50-V1
+GENIE-MDA-5533,GENIE-MDA-5533-16446,genie_public,Bone Cancer,Chordoma,1,,,Female,Unknown,Metastasis,53,MDA,CHDM,White,Distant organ metastasis,MDA-50-V1
+GENIE-MDA-6757,GENIE-MDA-6757-17969,genie_public,Bone Cancer,Chordoma,1,,,Female,Non-Spanish/non-Hispanic,Primary,30,MDA,CHDM,Asian,Primary tumor,MDA-50-V1
+GENIE-MSK-P-0000937,GENIE-MSK-P-0000937-T01-IM3,genie_public,Bone Cancer,Chordoma,1,,0.6766,Male,Non-Spanish/non-Hispanic,Primary,68,MSK,CHDM,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0001288,GENIE-MSK-P-0001288-T01-IM3,genie_public,Bone Cancer,Chordoma,1,2,0.2936,Male,Non-Spanish/non-Hispanic,Primary,60,MSK,CHDM,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0001727,GENIE-MSK-P-0001727-T01-IM3,genie_public,Bone Cancer,Chordoma,1,1,0.2775,Male,Non-Spanish/non-Hispanic,Primary,62,MSK,CHDM,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002259,GENIE-MSK-P-0002259-T01-IM3,genie_public,Bone Cancer,Chordoma,1,1,0.2203,Female,Non-Spanish/non-Hispanic,Primary,58,MSK,CHDM,Black,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0002701,GENIE-MSK-P-0002701-T01-IM3,genie_public,Bone Cancer,Chordoma,1,1,0.488,Male,Non-Spanish/non-Hispanic,Metastasis,60,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0002863,GENIE-MSK-P-0002863-T01-IM3,genie_public,Bone Cancer,Chordoma,1,2,0.216,Male,Non-Spanish/non-Hispanic,Metastasis,51,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT341
+GENIE-MSK-P-0002952,GENIE-MSK-P-0002952-T01-IM3,genie_public,Bone Cancer,Chordoma,1,1,0.3254,Female,Non-Spanish/non-Hispanic,Primary,72,MSK,CHDM,White,Primary tumor,MSK-IMPACT341
+GENIE-MSK-P-0003545,GENIE-MSK-P-0003545-T01-IM5,genie_public,Bone Cancer,Chordoma,1,2,0.0649,Male,Non-Spanish/non-Hispanic,Primary,52,MSK,CHDM,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0003949,GENIE-MSK-P-0003949-T01-IM5,genie_public,Bone Cancer,Chordoma,1,1,0.1071,Female,Non-Spanish/non-Hispanic,Primary,51,MSK,CHDM,Black,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0006204,GENIE-MSK-P-0006204-T01-IM5,genie_public,Bone Cancer,Chordoma,1,3,0.5212,Male,Non-Spanish/non-Hispanic,Primary,40,MSK,CHDM,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0006323,GENIE-MSK-P-0006323-T01-IM5,genie_public,Bone Cancer,Chordoma,1,2,0.4156,Male,Non-Spanish/non-Hispanic,Primary,77,MSK,CHDM,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0007585,GENIE-MSK-P-0007585-T01-IM5,genie_public,Bone Cancer,Chordoma,1,,0.4849,Female,Non-Spanish/non-Hispanic,Metastasis,48,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0010757,GENIE-MSK-P-0010757-T01-IM5,genie_public,Bone Cancer,Chordoma,1,2,0.2141,Female,Non-Spanish/non-Hispanic,Primary,84,MSK,CHDM,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0010819,GENIE-MSK-P-0010819-T01-IM5,genie_public,Bone Cancer,Chordoma,1,5,0.6452,Male,Non-Spanish/non-Hispanic,Primary,36,MSK,CHDM,Unknown,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012552,GENIE-MSK-P-0012552-T01-IM5,genie_public,Bone Cancer,Chordoma,2,1,0.0015,Female,Non-Spanish/non-Hispanic,Primary,26,MSK,CHDM,Black,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0012552,GENIE-MSK-P-0012552-T02-IM6,genie_public,Bone Cancer,Chordoma,2,3,0.1152,Female,Non-Spanish/non-Hispanic,Metastasis,27,MSK,CHDM,Black,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0013102,GENIE-MSK-P-0013102-T01-IM5,genie_public,Bone Cancer,Chordoma,1,,0.4222,Female,Non-Spanish/non-Hispanic,Metastasis,71,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0013436,GENIE-MSK-P-0013436-T01-IM5,genie_public,Bone Cancer,Chordoma,1,,0.003,Male,Non-Spanish/non-Hispanic,Primary,62,MSK,CHDM,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0013637,GENIE-MSK-P-0013637-T01-IM5,genie_public,Bone Cancer,Chordoma,1,1,0.3307,Male,Non-Spanish/non-Hispanic,Primary,72,MSK,CHDM,White,Primary tumor,MSK-IMPACT410
+GENIE-MSK-P-0014043,GENIE-MSK-P-0014043-T01-IM5,genie_public,Bone Cancer,Chordoma,1,2,0.0042,Male,Non-Spanish/non-Hispanic,Metastasis,34,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT410
+GENIE-MSK-P-0014545,GENIE-MSK-P-0014545-T01-IM6,genie_public,Bone Cancer,Chordoma,2,1,0.3273,Female,Non-Spanish/non-Hispanic,Primary,60,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0014545,GENIE-MSK-P-0014545-T02-IM6,genie_public,Bone Cancer,Chordoma,2,2,0.463,Female,Non-Spanish/non-Hispanic,Primary,63,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0015963,GENIE-MSK-P-0015963-T01-IM6,genie_public,Bone Cancer,Chordoma,1,2,0.3784,Female,Non-Spanish/non-Hispanic,Metastasis,77,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0016977,GENIE-MSK-P-0016977-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.349,Male,Non-Spanish/non-Hispanic,Metastasis,71,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0017837,GENIE-MSK-P-0017837-T01-IM6,genie_public,Bone Cancer,Chordoma,2,1,0,Female,Non-Spanish/non-Hispanic,Primary,<18,MSK,CHDM,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0018083,GENIE-MSK-P-0018083-T01-IM6,genie_public,Bone Cancer,Chordoma,1,2,0.0595,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019470,GENIE-MSK-P-0019470-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.1971,Male,Non-Spanish/non-Hispanic,Metastasis,36,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0019494,GENIE-MSK-P-0019494-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.7733,Male,Non-Spanish/non-Hispanic,Primary,39,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0020296,GENIE-MSK-P-0020296-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.2699,Male,Non-Spanish/non-Hispanic,Primary,84,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0021265,GENIE-MSK-P-0021265-T01-IM6,genie_public,Bone Cancer,Chordoma,1,4,0.3545,Female,Non-Spanish/non-Hispanic,Metastasis,69,MSK,CHDM,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0022183,GENIE-MSK-P-0022183-T01-IM6,genie_public,Bone Cancer,Chordoma,2,1,0.2128,Female,Non-Spanish/non-Hispanic,Metastasis,65,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0022183,GENIE-MSK-P-0022183-T02-IM6,genie_public,Bone Cancer,Chordoma,2,3,0.0684,Female,Non-Spanish/non-Hispanic,Metastasis,65,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0025147,GENIE-MSK-P-0025147-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.3829,Male,Non-Spanish/non-Hispanic,Primary,65,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0025172,GENIE-MSK-P-0025172-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.0185,Female,Non-Spanish/non-Hispanic,Primary,39,MSK,CHDM,Other,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0025706,GENIE-MSK-P-0025706-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.1321,Male,Non-Spanish/non-Hispanic,Primary,<18,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0026215,GENIE-MSK-P-0026215-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.0799,Female,Non-Spanish/non-Hispanic,Primary,22,MSK,CHDM,Asian,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0027573,GENIE-MSK-P-0027573-T02-IM6,genie_public,Bone Cancer,Chordoma,1,,0.0595,Female,Non-Spanish/non-Hispanic,Primary,55,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0028058,GENIE-MSK-P-0028058-T01-IM6,genie_public,Bone Cancer,Chordoma,2,,0.0516,Male,Non-Spanish/non-Hispanic,Primary,64,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0028058,GENIE-MSK-P-0028058-T02-IM6,genie_public,Bone Cancer,Chordoma,2,1,0.2814,Male,Non-Spanish/non-Hispanic,Primary,64,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0028882,GENIE-MSK-P-0028882-T01-IM6,genie_public,Bone Cancer,Chordoma,2,1,0,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0028882,GENIE-MSK-P-0028882-T02-IM6,genie_public,Bone Cancer,Chordoma,2,1,0.7789,Female,Non-Spanish/non-Hispanic,Metastasis,60,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0031448,GENIE-MSK-P-0031448-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.0004,Female,Non-Spanish/non-Hispanic,Metastasis,52,MSK,CHDM,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0034216,GENIE-MSK-P-0034216-T01-IM6,genie_public,Bone Cancer,Chordoma,1,2,0.3922,Male,Non-Spanish/non-Hispanic,Primary,46,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0037190,GENIE-MSK-P-0037190-T01-IM6,genie_public,Bone Cancer,Chordoma,1,2,0.5021,Female,Non-Spanish/non-Hispanic,Metastasis,31,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0037619,GENIE-MSK-P-0037619-T01-IM6,genie_public,Bone Cancer,Chordoma,1,2,0.0144,Male,Non-Spanish/non-Hispanic,Primary,55,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0040063,GENIE-MSK-P-0040063-T01-IM6,genie_public,Bone Cancer,Chordoma,1,2,0.1802,Female,Non-Spanish/non-Hispanic,Primary,64,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0040333,GENIE-MSK-P-0040333-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.1323,Male,Unknown,Primary,30,MSK,CHDM,Unknown,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0044295,GENIE-MSK-P-0044295-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.4735,Female,Non-Spanish/non-Hispanic,Primary,69,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0046341,GENIE-MSK-P-0046341-T01-IM6,genie_public,Bone Cancer,Chordoma,1,,0.2428,Male,Non-Spanish/non-Hispanic,Primary,52,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0046667,GENIE-MSK-P-0046667-T01-IM6,genie_public,Bone Cancer,Chordoma,1,5,0.0915,Male,Non-Spanish/non-Hispanic,Primary,87,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0049225,GENIE-MSK-P-0049225-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.1351,Male,Non-Spanish/non-Hispanic,Metastasis,52,MSK,CHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0049592,GENIE-MSK-P-0049592-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.5252,Female,Non-Spanish/non-Hispanic,Primary,69,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0049989,GENIE-MSK-P-0049989-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.3305,Male,Non-Spanish/non-Hispanic,Primary,71,MSK,CHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0051027,GENIE-MSK-P-0051027-T01-IM6,genie_public,Bone Cancer,Chordoma,1,1,0.1728,Male,Non-Spanish/non-Hispanic,Primary,59,MSK,CHDM,Black,Primary tumor,MSK-IMPACT468
+GENIE-VICC-382512,GENIE-VICC-382512-unk-1,genie_public,Bone Cancer,Chordoma,1,2,,Female,Non-Spanish/non-Hispanic,Metastasis,57,VICC,CHDM,White,Metastasis site unspecified,VICC-01-D2
+GENIE-VICC-943652,GENIE-VICC-943652-unk-1,genie_public,Bone Cancer,Chordoma,1,1,,Male,Non-Spanish/non-Hispanic,Metastasis,59,VICC,CHDM,White,Local recurrence,VICC-01-T4B

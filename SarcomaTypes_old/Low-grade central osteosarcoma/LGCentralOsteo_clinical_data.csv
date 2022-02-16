@@ -1,0 +1,2 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-MSK-P-0014094,GENIE-MSK-P-0014094-T02-IM5,genie_public,Bone Cancer,Low-Grade Central Osteosarcoma,2,1,0,Male,Non-Spanish/non-Hispanic,Metastasis,<18,MSK,LGCOS,White,Metastasis site unspecified,MSK-IMPACT410

@@ -1,0 +1,11 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-DFCI-004885	GENIE-DFCI-004885-2758	54	Soft Tissue Sarcoma	Tenosynovial Giant Cell Tumor Diffuse Type	DFCI	Non-Spanish/non-Hispanic	NA	4	TGCT	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-1	Male
+genie_public	GENIE-DFCI-005338	GENIE-DFCI-005338-9953	60	Non-Small Cell Lung Cancer	Giant Cell Carcinoma of the Lung	DFCI	Non-Spanish/non-Hispanic	NA	24	GCLC	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-006579	GENIE-DFCI-006579-3562	73	Non-Small Cell Lung Cancer	Giant Cell Carcinoma of the Lung	DFCI	Non-Spanish/non-Hispanic	NA	7	GCLC	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-1	Female
+genie_public	GENIE-DFCI-009060	GENIE-DFCI-009060-7150	67	Non-Small Cell Lung Cancer	Giant Cell Carcinoma of the Lung	DFCI	Non-Spanish/non-Hispanic	NA	4	GCLC	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-037271	GENIE-DFCI-037271-130300	40	Soft Tissue Sarcoma	Tenosynovial Giant Cell Tumor Diffuse Type	DFCI	Spanish/Hispanic	NA	8	TGCT	Other	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-JHU-01825	GENIE-JHU-01825-02233	48	Non-Small Cell Lung Cancer	Giant Cell Carcinoma of the Lung	JHU	Unknown	NA	2	GCLC	Black	1	Primary	Primary tumor	JHU-50GP	Male
+genie_public	GENIE-MSK-P-0040537	GENIE-MSK-P-0040537-T01-IM6	81	Soft Tissue Sarcoma	Tenosynovial Giant Cell Tumor Diffuse Type	MSK	Unknown	0.2505	2	TGCT	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0051991	GENIE-MSK-P-0051991-T01-IM6	50	Soft Tissue Sarcoma	Tenosynovial Giant Cell Tumor Diffuse Type	MSK	Unknown	0.0000	NA	TGCT	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-UHN-OCT217612	GENIE-UHN-OCT217612-ARC1	78	Non-Small Cell Lung Cancer	Giant Cell Carcinoma of the Lung	UHN	Not Collected	NA	1	GCLC	White	1	Primary	Primary tumor	UHN-OCA-V3	Male
+genie_public	GENIE-WAKE-C1259	GENIE-WAKE-C1259-01	59	Non-Small Cell Lung Cancer	Giant Cell Carcinoma of the Lung	WAKE	Non-Spanish/non-Hispanic	NA	2	GCLC	Not Collected	1	Primary	Primary tumor	WAKE-CA-01	Female

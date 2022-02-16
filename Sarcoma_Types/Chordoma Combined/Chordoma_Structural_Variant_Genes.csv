@@ -1,0 +1,6 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+JAK2,1,1,80,1.30%,Yes
+KMT2A,1,1,75,1.30%,Yes
+MON2,1,1,80,1.30%,No
+SMARCB1,1,1,80,1.30%,Yes
+KMT2D,1,1,71,1.40%,Yes

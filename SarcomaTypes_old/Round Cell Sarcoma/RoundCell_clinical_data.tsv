@@ -1,0 +1,51 @@
+Patient ID	Sample ID	Cancer Study	Cancer Type	Cancer Type Detailed	Number of Samples Per Patient	Mutation Count	Fraction Genome Altered	Sex	Ethnicity Category	Sample Type	Age at Which Sequencing was Reported	Center	Oncotree Code	Primary Race	Sample Type Detailed	Sequence Assay ID
+GENIE-CHOP-C2790870	GENIE-CHOP-C2790870-BS102PWWF9	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2	4		Male	Spanish/Hispanic	Unspecified	<18	CHOP	RCSNOS	Unknown	Not otherwise specified	CHOP-STNGS
+GENIE-CHOP-C2790870	GENIE-CHOP-C2790870-BSJ7CZNDC6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2	4		Male	Spanish/Hispanic	Metastasis	<18	CHOP	RCSNOS	Unknown	Local recurrence	CHOP-COMPT
+GENIE-DFCI-003328	GENIE-DFCI-003328-1522	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	4		Female	Non-Spanish/non-Hispanic	Primary	<18	DFCI	RCSNOS	White	Primary tumor	DFCI-ONCOPANEL-1
+GENIE-DFCI-007496	GENIE-DFCI-007496-4964	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	5		Female	Non-Spanish/non-Hispanic	Primary	25	DFCI	RCSNOS	White	Primary tumor	DFCI-ONCOPANEL-2
+GENIE-DFCI-030887	GENIE-DFCI-030887-158754	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	4		Male	Spanish/Hispanic	Primary	29	DFCI	RCSNOS	White	Primary tumor	DFCI-ONCOPANEL-3
+GENIE-DFCI-170697	GENIE-DFCI-170697-3036632	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2	8		Male	Non-Spanish/non-Hispanic	Not Applicable or Heme	<18	DFCI	RCSNOS	White	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3.1
+GENIE-DFCI-205448	GENIE-DFCI-205448-2970307	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	5		Female	Non-Spanish/non-Hispanic	Primary	20	DFCI	RCSNOS	White	Primary tumor	DFCI-ONCOPANEL-3.1
+GENIE-MSK-P-0006443	GENIE-MSK-P-0006443-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2		0.1632	Male	Non-Spanish/non-Hispanic	Metastasis	63	MSK	RCSNOS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0012337	GENIE-MSK-P-0012337-T01-IM5	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.0057	Male	Non-Spanish/non-Hispanic	Primary	<18	MSK	RCSNOS	Black	Primary tumor	MSK-IMPACT410
+GENIE-MSK-P-0015217	GENIE-MSK-P-0015217-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.1855	Male	Non-Spanish/non-Hispanic	Primary	28	MSK	RCSNOS	Unknown	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0015999	GENIE-MSK-P-0015999-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.5737	Female	Non-Spanish/non-Hispanic	Primary	22	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0018403	GENIE-MSK-P-0018403-T04-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	3	17	0.3675	Female	Non-Spanish/non-Hispanic	Metastasis	<18	MSK	RCSNOS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0019402	GENIE-MSK-P-0019402-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	2	0.2201	Female	Spanish/Hispanic	Primary	43	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0022272	GENIE-MSK-P-0022272-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	2	0.7569	Female	Non-Spanish/non-Hispanic	Metastasis	68	MSK	RCSNOS	Asian	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0024101	GENIE-MSK-P-0024101-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	2	0.7380	Unknown	Unknown	Primary	<18	MSK	RCSNOS	Unknown	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0025321	GENIE-MSK-P-0025321-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.1265	Female	Non-Spanish/non-Hispanic	Primary	40	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0025474	GENIE-MSK-P-0025474-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	5	0.0253	Female	Non-Spanish/non-Hispanic	Metastasis	46	MSK	RCSNOS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0027224	GENIE-MSK-P-0027224-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2		0.0634	Female	Spanish/Hispanic	Primary	23	MSK	RCSNOS	Black	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0027224	GENIE-MSK-P-0027224-T03-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2	3	0.2512	Female	Spanish/Hispanic	Metastasis	25	MSK	RCSNOS	Black	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0027649	GENIE-MSK-P-0027649-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.0035	Male	Spanish/Hispanic	Primary	<18	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0031365	GENIE-MSK-P-0031365-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.1342	Female	Non-Spanish/non-Hispanic	Primary	22	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0033473	GENIE-MSK-P-0033473-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.1367	Male	Non-Spanish/non-Hispanic	Primary	<18	MSK	RCSNOS	Black	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0034344	GENIE-MSK-P-0034344-T03-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.0023	Male	Non-Spanish/non-Hispanic	Primary	<18	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0035007	GENIE-MSK-P-0035007-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.0862	Female	Non-Spanish/non-Hispanic	Primary	<18	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0037407	GENIE-MSK-P-0037407-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.1026	Female	Non-Spanish/non-Hispanic	Primary	50	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0038411	GENIE-MSK-P-0038411-T01-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	2		0.1234	Male	Non-Spanish/non-Hispanic	Primary	60	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0038698	GENIE-MSK-P-0038698-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.1518	Male	Non-Spanish/non-Hispanic	Primary	19	MSK	RCSNOS	Black	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0040316	GENIE-MSK-P-0040316-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.0138	Male	Spanish/Hispanic	Primary	<18	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0045021	GENIE-MSK-P-0045021-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.5879	Female	Unknown	Primary	<18	MSK	RCSNOS	Unknown	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0045942	GENIE-MSK-P-0045942-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.2666	Female	Non-Spanish/non-Hispanic	Metastasis	68	MSK	RCSNOS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0052393	GENIE-MSK-P-0052393-T02-IM6	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.0129	Male	Unknown	Primary	<18	MSK	RCSNOS	White	Primary tumor	MSK-IMPACT468
+GENIE-NKI-YGSF	GENIE-NKI-YGSF-C1ME	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	2		Male	Not Collected	Primary	63	NKI	RCSNOS	Not collected	Primary tumor	NKI-CHPV2-SOCV2-NGS
+GENIE-UCSF-10514	GENIE-UCSF-10514-3847T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	1	0.9167	Female	Unknown	Not Collected	<18	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-10541	GENIE-UCSF-10541-5954T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	6	0.4748	Female	Non-Spanish/non-Hispanic	Not Collected	62	UCSF	RCSNOS	White	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-10945	GENIE-UCSF-10945-8400T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	5	0.9327	Male	Spanish/Hispanic	Not Collected	39	UCSF	RCSNOS	Other	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-10980	GENIE-UCSF-10980-5888T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	5	0.2452	Female	Unknown	Not Collected	<18	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-1153	GENIE-UCSF-1153-1310T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	8	0.1231	Male	Spanish/Hispanic	Not Collected	42	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-1627	GENIE-UCSF-1627-1786T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.0619	Male	Unknown	Not Collected	<18	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TN
+GENIE-UCSF-1688	GENIE-UCSF-1688-1839T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	8	0.5273	Female	Unknown	Not Collected	<18	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-1694	GENIE-UCSF-1694-1843T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	11	0.3002	Male	Unknown	Not Collected	<18	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-2304	GENIE-UCSF-2304-5565T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	6	0.2827	Male	Non-Spanish/non-Hispanic	Not Collected	<18	UCSF	RCSNOS	Asian	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-2477	GENIE-UCSF-2477-8512T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	2	0.3902	Female	Unknown	Not Collected	<18	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TN
+GENIE-UCSF-2681	GENIE-UCSF-2681-6128T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	9	0.2271	Male	Spanish/Hispanic	Not Collected	<18	UCSF	RCSNOS	Other	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-3689	GENIE-UCSF-3689-0929T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.1191	Female	Non-Spanish/non-Hispanic	Not Collected	52	UCSF	RCSNOS	White	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-678	GENIE-UCSF-678-828T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1		0.7079	Female	Spanish/Hispanic	Not Collected	<18	UCSF	RCSNOS	Black	Not Collected	UCSF-NIMV4-TN
+GENIE-UCSF-923	GENIE-UCSF-923-1082T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	11	0.0947	Female	Unknown	Not Collected	24	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TO
+GENIE-UCSF-991	GENIE-UCSF-991-1156T	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	6	0.5275	Female	Unknown	Not Collected	19	UCSF	RCSNOS	Unknown	Not Collected	UCSF-NIMV4-TN
+GENIE-UHN-OCT757846	GENIE-UHN-OCT757846-ARC1	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1			Male	Not Collected	Primary	45	UHN	RCSNOS	White	Primary tumor	UHN-OCA-V3
+GENIE-VICC-366195	GENIE-VICC-366195-unk-1	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	2		Female	Non-Spanish/non-Hispanic	Unspecified	51	VICC	RCSNOS	White	Not otherwise specified	VICC-01-R2
+GENIE-WAKE-C1544	GENIE-WAKE-C1544-01	genie_public	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	1	4		Female	Non-Spanish/non-Hispanic	Unspecified	>89	WAKE	RCSNOS	Not Collected	Not otherwise specified	WAKE-CA-NGSQ3

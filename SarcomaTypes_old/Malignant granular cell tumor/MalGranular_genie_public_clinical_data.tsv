@@ -1,0 +1,10 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-DFCI-010688	GENIE-DFCI-010688-8496	54	Sellar Tumor	Granular Cell Tumor	DFCI	Non-Spanish/non-Hispanic	NA	3	GCT	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Male
+genie_public	GENIE-DFCI-144018	GENIE-DFCI-144018-1304469	53	Sellar Tumor	Granular Cell Tumor	DFCI	Spanish/Hispanic	NA	6	GCT	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-JHU-07094	GENIE-JHU-07094-08075	48	Sellar Tumor	Granular Cell Tumor	JHU	Non-Spanish/non-Hispanic	NA	NA	GCT	Black	1	Primary	Primary tumor	JHU-500STP	Male
+genie_public	GENIE-MSK-P-0003470	GENIE-MSK-P-0003470-T01-IM5	68	Sellar Tumor	Granular Cell Tumor	MSK	Non-Spanish/non-Hispanic	0.1007	NA	GCT	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0010559	GENIE-MSK-P-0010559-T01-IM5	56	Sellar Tumor	Granular Cell Tumor	MSK	Non-Spanish/non-Hispanic	0.0503	1	GCT	Other	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0014126	GENIE-MSK-P-0014126-T01-IM5	55	Sellar Tumor	Granular Cell Tumor	MSK	Non-Spanish/non-Hispanic	0.0812	NA	GCT	Unknown	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0020381	GENIE-MSK-P-0020381-T01-IM6	30	Sellar Tumor	Granular Cell Tumor	MSK	Non-Spanish/non-Hispanic	0.0036	NA	GCT	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0032727	GENIE-MSK-P-0032727-T01-IM6	51	Sellar Tumor	Granular Cell Tumor	MSK	Spanish/Hispanic	0.1072	NA	GCT	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-WAKE-F1487	GENIE-WAKE-F1487-01	51	Sellar Tumor	Granular Cell Tumor	WAKE	Non-Spanish/non-Hispanic	NA	2	GCT	Not Collected	1	Unspecified	Not otherwise specified	WAKE-CLINICAL-T7	Female

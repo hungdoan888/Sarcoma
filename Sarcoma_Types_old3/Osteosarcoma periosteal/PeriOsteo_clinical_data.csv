@@ -1,0 +1,4 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-MSK-P-0037301,GENIE-MSK-P-0037301-T01-IM6,genie_public,Bone Cancer,Periosteal Osteosarcoma,1,,0.4572,Male,Non-Spanish/non-Hispanic,Primary,25,MSK,PEOS,White,Primary tumor,MSK-IMPACT468
+GENIE-UCSF-11449,GENIE-UCSF-11449-9815T,genie_public,Bone Cancer,Periosteal Osteosarcoma,1,1,0.1098,Female,Non-Spanish/non-Hispanic,Not Collected,28,UCSF,PEOS,White,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-1671,GENIE-UCSF-1671-1829T,genie_public,Bone Cancer,Periosteal Osteosarcoma,2,1,0.4041,Female,Spanish/Hispanic,Not Collected,<18,UCSF,PEOS,Other,Not Collected,UCSF-NIMV4-TN

@@ -1,0 +1,2 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-MSK-P-0023801	GENIE-MSK-P-0023801-T04-IM6	23	Malignant Glomus Tumor	Malignant Glomus Tumor	MSK	Non-Spanish/non-Hispanic	0.3004	NA	MGST	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female

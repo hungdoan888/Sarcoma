@@ -1,0 +1,15 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+TFCP2	1	1	27	3.7%	No
+SMAD3	2	1	23	4.3%	Yes
+MN1	1	1	27	3.7%	Yes
+CREB3L1	3	2	27	7.4%	Yes
+NFATC2	1	1	27	3.7%	Yes
+CREB1	3	3	7	42.9%	Yes
+ERG	1	1	27	3.7%	Yes
+EWSR1	33	27	11	245.5%	Yes
+PATZ1	1	1	27	3.7%	Yes
+CREM	1	1	27	3.7%	No
+ATF1	5	5	7	71.4%	Yes
+FLI1	7	6	27	22.2%	Yes
+ALK	1	1	27	3.7%	Yes
+DDIT3	4	4	7	57.1%	Yes

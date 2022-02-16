@@ -1,0 +1,5 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+NR4A3	8	7	14	50.0%	Yes
+TTC23	1	1	14	7.1%	No
+NTRK3	1	1	14	7.1%	Yes
+EWSR1	10	8	3	266.7%	Yes

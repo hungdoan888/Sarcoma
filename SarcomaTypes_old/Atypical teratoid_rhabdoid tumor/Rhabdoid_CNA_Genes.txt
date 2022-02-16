@@ -1,0 +1,2 @@
+Gene	Gistic(Q-value)	Cytoband	CNA	Profiled Samples	#	Freq	Is Cancer Gene (source: OncoKB)
+SMARCB1		22q11.23|22q11	HOMDEL	8	14	57.1%	Yes

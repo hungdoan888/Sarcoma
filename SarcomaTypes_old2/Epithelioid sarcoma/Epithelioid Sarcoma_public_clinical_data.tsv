@@ -1,0 +1,55 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-COLU-1226	GENIE-COLU-1226-1	37	Soft Tissue Sarcoma	Epithelioid Sarcoma	COLU	Unknown	NA	12	EPIS	Unknown	1	Primary	Primary tumor	COLU-CCCP-V1	Female
+genie_public	GENIE-DFCI-007291	GENIE-DFCI-007291-5419	21	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	EPIS	Black	1	Primary	Primary tumor	DFCI-ONCOPANEL-2	Female
+genie_public	GENIE-DFCI-037843	GENIE-DFCI-037843-88207	<18	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	6	EPIS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-090491	GENIE-DFCI-090491-350922	29	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	EPIS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-118448	GENIE-DFCI-118448-950635	69	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	49	EPIS	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-202882	GENIE-DFCI-202882-3036118	<18	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	4	EPIS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-DFCI-220103	GENIE-DFCI-220103-3446484	47	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	5	EPIS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-DFCI-243306	GENIE-DFCI-243306-3646488	45	Soft Tissue Sarcoma	Epithelioid Sarcoma	DFCI	Non-Spanish/non-Hispanic	NA	1	EPIS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3.1	Male
+genie_public	GENIE-GRCC-1cc9b033	GENIE-GRCC-1cc9b033-sample-a	40	Soft Tissue Sarcoma	Epithelioid Sarcoma	GRCC	Not Collected	NA	NA	EPIS	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Male
+genie_public	GENIE-GRCC-4901c5e8	GENIE-GRCC-4901c5e8-metastasis-a	<18	Soft Tissue Sarcoma	Epithelioid Sarcoma	GRCC	Not Collected	0.2829	NA	EPIS	Not collected	1	Metastasis	Distant organ metastasis	GRCC-MOSC3	Female
+genie_public	GENIE-MSK-P-0001083	GENIE-MSK-P-0001083-T01-IM3	<18	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1197	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT341	Male
+genie_public	GENIE-MSK-P-0001345	GENIE-MSK-P-0001345-T01-IM3	56	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1207	2	EPIS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT341	Female
+genie_public	GENIE-MSK-P-0004199	GENIE-MSK-P-0004199-T01-IM5	48	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0006	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0004604	GENIE-MSK-P-0004604-T01-IM5	54	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0095	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0005812	GENIE-MSK-P-0005812-T01-IM5	24	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0141	1	EPIS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0006384	GENIE-MSK-P-0006384-T01-IM5	39	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1518	2	EPIS	Other	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0007605	GENIE-MSK-P-0007605-T01-IM5	60	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2208	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0008860	GENIE-MSK-P-0008860-T01-IM5	30	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2227	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0013008	GENIE-MSK-P-0013008-T01-IM5	36	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Spanish/Hispanic	0.0016	NA	EPIS	Black	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0013508	GENIE-MSK-P-0013508-T01-IM5	21	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.2452	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT410	Male
+genie_public	GENIE-MSK-P-0016049	GENIE-MSK-P-0016049-T01-IM6	42	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Unknown	0.0029	NA	EPIS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0016631	GENIE-MSK-P-0016631-T01-IM6	<18	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Spanish/Hispanic	0.0004	NA	EPIS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0020942	GENIE-MSK-P-0020942-T02-IM6	55	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Unknown	0.0152	1	EPIS	Other	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0022013	GENIE-MSK-P-0022013-T01-IM6	40	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.4517	1	EPIS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0024806	GENIE-MSK-P-0024806-T01-IM6	59	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0891	9	EPIS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0025358	GENIE-MSK-P-0025358-T01-IM6	28	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0015	1	EPIS	Native American	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0025440	GENIE-MSK-P-0025440-T01-IM6	23	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0482	1	EPIS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0026284	GENIE-MSK-P-0026284-T01-IM6	60	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0120	1	EPIS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026284	GENIE-MSK-P-0026284-T02-IM6	60	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0004	1	EPIS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026646	GENIE-MSK-P-0026646-T02-IM6	59	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1912	2	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028895	GENIE-MSK-P-0028895-T01-IM6	32	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0044	1	EPIS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028895	GENIE-MSK-P-0028895-T02-IM6	32	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0964	NA	EPIS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028950	GENIE-MSK-P-0028950-T01-IM6	40	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0583	1	EPIS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0028950	GENIE-MSK-P-0028950-T02-IM6	40	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0588	2	EPIS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0029707	GENIE-MSK-P-0029707-T01-IM6	40	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.1451	NA	EPIS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030007	GENIE-MSK-P-0030007-T01-IM6	67	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0010	1	EPIS	White	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030007	GENIE-MSK-P-0030007-T02-IM6	67	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0007	1	EPIS	White	2	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0033198	GENIE-MSK-P-0033198-T01-IM6	55	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0006	1	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0037588	GENIE-MSK-P-0037588-T02-IM6	25	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0040981	GENIE-MSK-P-0040981-T02-IM6	36	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0008	1	EPIS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0044877	GENIE-MSK-P-0044877-T01-IM6	39	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0508	2	EPIS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0047563	GENIE-MSK-P-0047563-T01-IM6	23	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0581	1	EPIS	Black	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0049786	GENIE-MSK-P-0049786-T01-IM6	60	Soft Tissue Sarcoma	Epithelioid Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0007	NA	EPIS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-NKI-4YRS	GENIE-NKI-4YRS-8SAA	31	Soft Tissue Sarcoma	Epithelioid Sarcoma	NKI	Not Collected	NA	NA	EPIS	Not collected	1	Primary	Primary tumor	NKI-TSACP-MISEQ-NGS	Male
+genie_public	GENIE-NKI-USEU	GENIE-NKI-USEU-5Z6J	52	Soft Tissue Sarcoma	Epithelioid Sarcoma	NKI	Not Collected	NA	1	EPIS	Not collected	1	Primary	Primary tumor	NKI-CHPV2-SOCV2-NGS	Male
+genie_public	GENIE-SCI-0198806662	GENIE-SCI-0198806662-CN32247466_R7	62	Soft Tissue Sarcoma	Epithelioid Sarcoma	SCI	Non-Spanish/non-Hispanic	NA	NA	EPIS	White	1	Primary	Primary tumor	SCI-PMP68-V1	Female
+genie_public	GENIE-UCHI-Patient339	GENIE-UCHI-Patient339-T1	53	Soft Tissue Sarcoma	Epithelioid Sarcoma	UCHI	Not Collected	NA	3	EPIS	Not collected	1	Metastasis	Distant organ metastasis	UCHI-ONCOSCREEN50-V1	Male
+genie_public	GENIE-UCSF-1108	GENIE-UCSF-1108-1265T	<18	Soft Tissue Sarcoma	Epithelioid Sarcoma	UCSF	Unknown	0.9753	NA	EPIS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TN	Male
+genie_public	GENIE-UCSF-11640	GENIE-UCSF-11640-5024T	24	Soft Tissue Sarcoma	Epithelioid Sarcoma	UCSF	Unknown	0.3586	11	EPIS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-827	GENIE-UCSF-827-982T	48	Soft Tissue Sarcoma	Epithelioid Sarcoma	UCSF	Non-Spanish/non-Hispanic	0.9370	4	EPIS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UHN-256635	GENIE-UHN-256635-ARC1	67	Soft Tissue Sarcoma	Epithelioid Sarcoma	UHN	Not Collected	NA	NA	EPIS	White	1	Metastasis	Metastasis site unspecified	UHN-48-V1	Female
+genie_public	GENIE-UHN-OCT275973	GENIE-UHN-OCT275973-ARC1	50	Soft Tissue Sarcoma	Epithelioid Sarcoma	UHN	Not Collected	NA	NA	EPIS	White	1	Metastasis	Metastasis site unspecified	UHN-OCA-V3	Male
+genie_public	GENIE-VICC-753889	GENIE-VICC-753889-unk-1	30	Soft Tissue Sarcoma	Epithelioid Sarcoma	VICC	Non-Spanish/non-Hispanic	NA	3	EPIS	White	1	Primary	Primary tumor	VICC-01-R2	Female
+genie_public	GENIE-YALE-TPL726	GENIE-YALE-TPL726-1	58	Soft Tissue Sarcoma	Epithelioid Sarcoma	YALE	Non-Spanish/non-Hispanic	NA	1	EPIS	White	1	Metastasis	Lymph node metastasis	YALE-OCP-V3	Male

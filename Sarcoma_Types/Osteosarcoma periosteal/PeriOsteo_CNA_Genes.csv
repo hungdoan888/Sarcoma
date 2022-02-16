@@ -1,0 +1,4 @@
+Gene,Gistic(Q-value),Cytoband,CNA,Profiled Samples,#,Freq,Is Cancer Gene (source: OncoKB)
+CCNE1,,19q12,AMP,1,1,100.00%,Yes
+BCL2L1,,20q11.21,AMP,1,1,100.00%,Yes
+PIK3C2G,,12p12.3,AMP,1,1,100.00%,Yes

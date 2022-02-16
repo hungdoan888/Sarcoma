@@ -1,0 +1,9 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+FLI1	1	1	100	1.0%	Yes
+INPP4B	1	1	95	1.1%	Yes
+ARID2	1	1	96	1.0%	Yes
+PBRM1	1	1	95	1.1%	Yes
+SLC25A37	2	2	100	2.0%	No
+EWSR1	88	87	10	870.0%	Yes
+WT1	81	81	96	84.4%	Yes
+RIC3	2	2	100	2.0%	No

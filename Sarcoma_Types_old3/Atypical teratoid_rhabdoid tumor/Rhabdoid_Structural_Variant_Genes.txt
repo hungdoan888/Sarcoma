@@ -1,0 +1,7 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+SMAD4	1	1	43	2.3%	Yes
+SMARCB1	2	2	43	4.7%	Yes
+PLAGL1	1	1	43	2.3%	No
+EWSR1	3	2	24	8.3%	Yes
+GBA	1	1	8	12.5%	No
+C12ORF40	1	1	43	2.3%	No

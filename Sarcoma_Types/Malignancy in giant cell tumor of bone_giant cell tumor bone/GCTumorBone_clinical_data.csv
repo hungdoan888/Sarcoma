@@ -1,0 +1,15 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-CHOP-C2319903,GENIE-CHOP-C2319903-BS461PCYM0,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,2,,Male,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,GCTB,White,Not otherwise specified,CHOP-STNGS
+GENIE-CHOP-C2379066,GENIE-CHOP-C2379066-BSR71BS1YM,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,2,,Female,Non-Spanish/non-Hispanic,Unspecified,<18,CHOP,GCTB,White,Not otherwise specified,CHOP-STNGS
+GENIE-COLU-00374,GENIE-COLU-00374-01,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,13,,Female,Non-Spanish/non-Hispanic,Primary,25,COLU,GCTB,Black,Primary tumor,COLU-CCCP-V1
+GENIE-DFCI-026468,GENIE-DFCI-026468-36054,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,4,,Male,Non-Spanish/non-Hispanic,Not Applicable or Heme,48,DFCI,GCTB,White,Not applicable or hematologic malignancy,DFCI-ONCOPANEL-2
+GENIE-DFCI-088868,GENIE-DFCI-088868-332985,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,6,,Female,Non-Spanish/non-Hispanic,Primary,69,DFCI,GCTB,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-DFCI-091178,GENIE-DFCI-091178-350231,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,7,,Female,Non-Spanish/non-Hispanic,Primary,19,DFCI,GCTB,White,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-MSK-P-0021410,GENIE-MSK-P-0021410-T01-IM6,genie_public,Bone Cancer,Giant Cell Tumor of Bone,2,7,0.0052,Male,Non-Spanish/non-Hispanic,Primary,35,MSK,GCTB,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0021410,GENIE-MSK-P-0021410-T02-IM6,genie_public,Bone Cancer,Giant Cell Tumor of Bone,2,8,0.0122,Male,Non-Spanish/non-Hispanic,Primary,35,MSK,GCTB,Black,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0031194,GENIE-MSK-P-0031194-T02-IM6,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,,0,Female,Non-Spanish/non-Hispanic,Primary,76,MSK,GCTB,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0040863,GENIE-MSK-P-0040863-T01-IM6,genie_public,Bone Cancer,Giant Cell Tumor of Bone,2,1,0.0477,Male,Non-Spanish/non-Hispanic,Primary,35,MSK,GCTB,White,Primary tumor,MSK-IMPACT468
+GENIE-MSK-P-0044587,GENIE-MSK-P-0044587-T01-IM6,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,1,0.0007,Female,Non-Spanish/non-Hispanic,Metastasis,30,MSK,GCTB,Asian,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0050733,GENIE-MSK-P-0050733-T01-IM6,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,3,0.0504,Female,Unknown,Primary,48,MSK,GCTB,White,Primary tumor,MSK-IMPACT468
+GENIE-UCSF-11042,GENIE-UCSF-11042-8477T,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,2,0.27,Male,Non-Spanish/non-Hispanic,Not Collected,<18,UCSF,GCTB,White,Not Collected,UCSF-NIMV4-TN
+GENIE-UCSF-3569,GENIE-UCSF-3569-3700T,genie_public,Bone Cancer,Giant Cell Tumor of Bone,1,3,0.2926,Female,Non-Spanish/non-Hispanic,Not Collected,61,UCSF,GCTB,White,Not Collected,UCSF-NIMV4-TO

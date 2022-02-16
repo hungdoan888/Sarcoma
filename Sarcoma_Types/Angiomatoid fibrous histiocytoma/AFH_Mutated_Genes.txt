@@ -1,0 +1,24 @@
+Gene	MutSig(Q-value)	# Mut	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+TOP2A		1	1	5	20.0%	No
+KDR		1	1	7	14.3%	Yes
+TERT		6	2	7	28.6%	Yes
+BAP1		1	1	7	14.3%	Yes
+ESPL1		1	1	5	20.0%	No
+NBN		1	1	6	16.7%	Yes
+HIST1H3J		1	1	1	100.0%	Yes
+ZNF217		1	1	5	20.0%	Yes
+FANCF		1	1	5	20.0%	Yes
+ADGRA2		1	1	5	20.0%	Yes
+RICTOR		1	1	7	14.3%	Yes
+EPHA3		1	1	7	14.3%	Yes
+TET2		1	1	7	14.3%	Yes
+MLH1		1	1	7	14.3%	Yes
+KMT2D		1	1	6	16.7%	Yes
+NUTM1		1	1	5	20.0%	Yes
+ERCC2		1	1	6	16.7%	Yes
+PDGFRB		1	1	7	14.3%	Yes
+PTPRT		1	1	6	16.7%	Yes
+MSH2		1	1	7	14.3%	Yes
+MYBL1		1	1	5	20.0%	No
+GRM3		1	1	5	20.0%	Yes
+PTCH1		1	1	7	14.3%	Yes

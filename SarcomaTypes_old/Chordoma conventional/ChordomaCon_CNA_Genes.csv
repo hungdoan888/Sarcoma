@@ -1,0 +1,5 @@
+Gene,Gistic(Q-value),Cytoband,CNA,Profiled Samples,#,Freq,Is Cancer Gene (source: OncoKB)
+CBFB,,16q22.1,AMP,1,3,33.30%,Yes
+CDKN2A,,9p21.3,HOMDEL,1,4,25.00%,Yes
+CDKN2B,,9p21.3,HOMDEL,1,4,25.00%,Yes
+DOCK8,,9p24.3,HOMDEL,1,1,100.00%,No

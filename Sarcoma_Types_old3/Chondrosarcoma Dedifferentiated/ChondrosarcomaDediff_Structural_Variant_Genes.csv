@@ -1,0 +1,9 @@
+Gene,# Structural Variant,#,Profiled Samples,Freq,Is Cancer Gene (source: OncoKB)
+MANBAL,1,1,18,5.60%,No
+TFCP2,1,1,18,5.60%,No
+BCOR,1,1,18,5.60%,Yes
+DDX3X,1,1,2,50.00%,Yes
+FUS,1,1,5,20.00%,Yes
+CDK12,1,1,15,6.70%,Yes
+RASA1,1,1,13,7.70%,Yes
+SRC,1,1,16,6.30%,Yes

@@ -1,0 +1,23 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+ROS1	2	1	47	2.1%	Yes
+RMRP	1	1	50	2.0%	No
+SFPQ	2	2	50	4.0%	Yes
+TTC5	1	1	50	2.0%	No
+SMAD4	1	1	50	2.0%	Yes
+TP53	1	1	50	2.0%	Yes
+ERG	1	1	39	2.6%	Yes
+GABPA	1	1	50	2.0%	No
+SLC4A10	1	1	50	2.0%	No
+CCBE1	1	1	50	2.0%	No
+TFE3	4	4	14	28.6%	Yes
+ASPSCR1	1	1	50	2.0%	Yes
+NETO1	1	1	50	2.0%	No
+ATRX	1	1	44	2.3%	Yes
+LYG2	1	1	50	2.0%	No
+DMC1	1	1	11	9.1%	No
+HDAC8	1	1	50	2.0%	No
+POLE	1	1	40	2.5%	Yes
+PTPRD	1	1	32	3.1%	Yes
+DVL2	1	1	50	2.0%	No
+MAP2K3	1	1	50	2.0%	No
+RB1	1	1	50	2.0%	Yes

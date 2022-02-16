@@ -1,0 +1,22 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+TPR	3	2	18	11.1%	Yes
+LMNA	2	2	18	11.1%	Yes
+SLIT3	1	1	18	5.6%	No
+RAD52	1	1	15	6.7%	Yes
+STAT3	3	3	18	16.7%	Yes
+FGFR4	1	1	18	5.6%	Yes
+PPWD1	1	1	18	5.6%	No
+ETV6	2	2	18	11.1%	Yes
+TPM3	4	3	18	16.7%	Yes
+MACF1	1	1	18	5.6%	No
+NTRK1	18	16	18	88.9%	Yes
+PTEN	3	3	18	16.7%	Yes
+TAFA2	1	1	18	5.6%	No
+TLX3	1	1	5	20.0%	Yes
+NTRK3	2	2	18	11.1%	Yes
+FLT4	1	1	18	5.6%	Yes
+PEAR1	1	1	18	5.6%	No
+BICD1	1	1	18	5.6%	No
+MAP3K1	2	1	18	5.6%	Yes
+MEF2D	1	1	18	5.6%	Yes
+NPM1	1	1	18	5.6%	Yes

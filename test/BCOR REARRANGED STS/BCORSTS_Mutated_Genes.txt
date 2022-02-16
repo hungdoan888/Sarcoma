@@ -1,0 +1,23 @@
+Gene	MutSig(Q-value)	# Mut	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+PIK3CG		1	1	10	10.0%	Yes
+BAP1		1	1	10	10.0%	Yes
+NCOR1		1	1	10	10.0%	Yes
+FANCA		1	1	10	10.0%	Yes
+ARID1B		2	2	10	20.0%	Yes
+IDH1		1	1	10	10.0%	Yes
+CHD1		1	1	3	33.3%	No
+JAK2		1	1	10	10.0%	Yes
+MLH3		1	1	3	33.3%	No
+DDX3X		1	1	3	33.3%	Yes
+BRCA2		1	1	10	10.0%	Yes
+ZFHX4		1	1	3	33.3%	No
+KLHL6		1	1	3	33.3%	Yes
+ARID2		1	1	10	10.0%	Yes
+NOTCH1		1	1	10	10.0%	Yes
+XPO1		1	1	10	10.0%	Yes
+MAML2		1	1	3	33.3%	Yes
+RAD50		1	1	10	10.0%	Yes
+RAD51C		1	1	10	10.0%	Yes
+PTPRS		1	1	7	14.3%	Yes
+AMER1		1	1	10	10.0%	Yes
+DDX41		1	1	3	33.3%	Yes

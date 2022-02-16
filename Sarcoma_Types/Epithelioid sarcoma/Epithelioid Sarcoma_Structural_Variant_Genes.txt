@@ -1,0 +1,14 @@
+Gene	# Structural Variant	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+IRS2	1	1	37	2.7%	Yes
+BCORL1	2	1	11	9.1%	Yes
+SMARCB1	1	1	54	1.9%	Yes
+SUZ12	1	1	41	2.4%	Yes
+KIF1B	1	1	6	16.7%	No
+TNIK	1	1	54	1.9%	No
+ATRX	2	1	46	2.2%	Yes
+RSPO2	1	1	9	11.1%	Yes
+NF1	1	1	49	2.0%	Yes
+ATP6V1E1	2	2	54	3.7%	No
+BABAM1	2	2	29	6.9%	Yes
+EIF3E	1	1	54	1.9%	Yes
+ZCCHC7	1	1	54	1.9%	No

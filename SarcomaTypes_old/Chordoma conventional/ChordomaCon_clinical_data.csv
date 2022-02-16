@@ -1,0 +1,8 @@
+Patient ID,Sample ID,Cancer Study,Cancer Type,Cancer Type Detailed,Number of Samples Per Patient,Mutation Count,Fraction Genome Altered,Sex,Ethnicity Category,Sample Type,Age at Which Sequencing was Reported,Center,Oncotree Code,Primary Race,Sample Type Detailed,Sequence Assay ID
+GENIE-DFCI-000069,GENIE-DFCI-000069-9295,genie_public,Bone Cancer,Conventional Type Chordoma,2,2,,Male,Non-Spanish/non-Hispanic,Metastasis,72,DFCI,CCHDM,White,Metastasis site unspecified,DFCI-ONCOPANEL-2
+GENIE-DFCI-041264,GENIE-DFCI-041264-203490,genie_public,Bone Cancer,Conventional Type Chordoma,1,10,,Male,Non-Spanish/non-Hispanic,Primary,31,DFCI,CCHDM,Black,Primary tumor,DFCI-ONCOPANEL-3
+GENIE-MSK-P-0016922,GENIE-MSK-P-0016922-T01-IM6,genie_public,Bone Cancer,Conventional Type Chordoma,1,2,0.0102,Female,Non-Spanish/non-Hispanic,Metastasis,80,MSK,CCHDM,White,Metastasis site unspecified,MSK-IMPACT468
+GENIE-MSK-P-0053735,GENIE-MSK-P-0053735-T01-IM6,genie_public,Bone Cancer,Conventional Type Chordoma,1,,0.0021,Male,Non-Spanish/non-Hispanic,Primary,80,MSK,CCHDM,White,Primary tumor,MSK-IMPACT468
+GENIE-UCSF-1594,GENIE-UCSF-1594-1755T,genie_public,Bone Cancer,Conventional Type Chordoma,1,,0.3903,Female,Non-Spanish/non-Hispanic,Not Collected,59,UCSF,CCHDM,White,Not Collected,UCSF-NIMV4-TO
+GENIE-UCSF-3227,GENIE-UCSF-3227-8846T,genie_public,Bone Cancer,Conventional Type Chordoma,1,7,0.5986,Male,Non-Spanish/non-Hispanic,Not Collected,76,UCSF,CCHDM,White,Not Collected,UCSF-NIMV4-TO
+GENIE-UCSF-515,GENIE-UCSF-515-9742T,genie_public,Bone Cancer,Conventional Type Chordoma,1,7,0.3535,Male,Non-Spanish/non-Hispanic,Not Collected,42,UCSF,CCHDM,White,Not Collected,UCSF-NIMV4-TN

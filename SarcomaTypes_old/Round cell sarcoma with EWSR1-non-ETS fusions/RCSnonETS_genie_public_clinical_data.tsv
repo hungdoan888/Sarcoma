@@ -1,0 +1,28 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-DFCI-036973	GENIE-DFCI-036973-116308	41	Soft Tissue Sarcoma	Sarcoma, NOS	DFCI	Non-Spanish/non-Hispanic	NA	1	SARCNOS	White	1	Not Applicable or Heme	Not applicable or hematologic malignancy	DFCI-ONCOPANEL-3	Male
+genie_public	GENIE-DFCI-111534	GENIE-DFCI-111534-617792	63	Soft Tissue Sarcoma	Sarcoma, NOS	DFCI	Non-Spanish/non-Hispanic	NA	3	SARCNOS	White	1	Primary	Primary tumor	DFCI-ONCOPANEL-3	Female
+genie_public	GENIE-DFCI-241004	GENIE-DFCI-241004-3306981	31	Soft Tissue Sarcoma	Sarcoma, NOS	DFCI	Non-Spanish/non-Hispanic	NA	1	SARCNOS	White	1	Metastasis	Metastasis site unspecified	DFCI-ONCOPANEL-3.1	Female
+genie_public	GENIE-MSK-P-0006208	GENIE-MSK-P-0006208-T01-IM5	22	Soft Tissue Sarcoma	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	MSK	Non-Spanish/non-Hispanic	0.0000	1	MFH	White	1	Primary	Primary tumor	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0012497	GENIE-MSK-P-0012497-T02-IM5	64	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.2400	2	SARCNOS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT410	Female
+genie_public	GENIE-MSK-P-0014551	GENIE-MSK-P-0014551-T01-IM6	32	Soft Tissue Sarcoma	Myxoid/Round-Cell Liposarcoma	MSK	Spanish/Hispanic	0.0005	6	MRLS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0015217	GENIE-MSK-P-0015217-T01-IM6	28	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.1855	1	RCSNOS	Unknown	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0019448	GENIE-MSK-P-0019448-T01-IM6	29	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0	3	SARCNOS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0021357	GENIE-MSK-P-0021357-T01-IM6	83	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.0125	1	SARCNOS	Asian	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0026818	GENIE-MSK-P-0026818-T01-IM6	40	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.1070	3	SARCNOS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0028392	GENIE-MSK-P-0028392-T02-IM6	24	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Unknown	0.0383	NA	SARCNOS	Other	2	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0030673	GENIE-MSK-P-0030673-T01-IM6	40	Soft Tissue Sarcoma	Myxoid/Round-Cell Liposarcoma	MSK	Non-Spanish/non-Hispanic	0.1339	2	MRLS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0030973	GENIE-MSK-P-0030973-T01-IM6	58	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.0683	3	SARCNOS	White	4	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0033015	GENIE-MSK-P-0033015-T01-IM6	<18	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.3151	3	SARCNOS	White	2	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0035089	GENIE-MSK-P-0035089-T02-IM6	40	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.0010	NA	SARCNOS	White	1	Metastasis	Metastasis site unspecified	MSK-IMPACT468	Female
+genie_public	GENIE-MSK-P-0041287	GENIE-MSK-P-0041287-T01-IM6	60	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.0000	3	SARCNOS	Other	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0041943	GENIE-MSK-P-0041943-T01-IM6	44	Soft Tissue Sarcoma	Sarcoma, NOS	MSK	Non-Spanish/non-Hispanic	0.7855	1	SARCNOS	Asian	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0052838	GENIE-MSK-P-0052838-T01-IM6	32	Soft Tissue Sarcoma	Myxoid/Round-Cell Liposarcoma	MSK	Non-Spanish/non-Hispanic	0.0131	5	MRLS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0055142	GENIE-MSK-P-0055142-T01-IM6	40	Soft Tissue Sarcoma	Myxoid/Round-Cell Liposarcoma	MSK	Unknown	0.0061	2	MRLS	White	1	Primary	Primary tumor	MSK-IMPACT468	Female
+genie_public	GENIE-UCSF-10541	GENIE-UCSF-10541-5954T	62	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Non-Spanish/non-Hispanic	0.4748	6	RCSNOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-11257	GENIE-UCSF-11257-4619T	20	Soft Tissue Sarcoma	Sarcoma, NOS	UCSF	Not Collected	0.2198	7	SARCNOS	Not collected	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-1153	GENIE-UCSF-1153-1310T	42	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Spanish/Hispanic	0.1231	8	RCSNOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-2992	GENIE-UCSF-2992-7454T	70	Soft Tissue Sarcoma	Sarcoma, NOS	UCSF	Unknown	0.2153	6	SARCNOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-UCSF-3452	GENIE-UCSF-3452-4084T	<18	Soft Tissue Sarcoma	Sarcoma, NOS	UCSF	Unknown	0.1289	8	SARCNOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-3689	GENIE-UCSF-3689-0929T	52	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Non-Spanish/non-Hispanic	0.1191	NA	RCSNOS	White	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-UCSF-923	GENIE-UCSF-923-1082T	24	Soft Tissue Sarcoma	Round Cell Sarcoma, NOS	UCSF	Unknown	0.0947	11	RCSNOS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Female
+genie_public	GENIE-VICC-579742	GENIE-VICC-579742-unk-1	<18	Soft Tissue Sarcoma	Sarcoma, NOS	VICC	Non-Spanish/non-Hispanic	NA	5	SARCNOS	White	1	Primary	Primary tumor	VICC-01-D2	Male

@@ -1,0 +1,33 @@
+Patient ID	Sample ID	Cancer Type	Cancer Type Detailed	Number of Samples Per Patient	Mutation Count	Fraction Genome Altered	Sex	Ethnicity Category	Sample Type	Age at Which Sequencing was Reported	Center	Oncotree Code	Primary Race	Sample Type Detailed	Sequence Assay ID
+GENIE-COLU-734	GENIE-COLU-734-1	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	17		Female	Non-Spanish/non-Hispanic	Metastasis	33	COLU	ASPS	Asian	Distant organ metastasis	COLU-CCCP-V1
+GENIE-DFCI-005265	GENIE-DFCI-005265-1114	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	8		Female	Non-Spanish/non-Hispanic	Metastasis	75	DFCI	ASPS	Unknown	Metastasis site unspecified	DFCI-ONCOPANEL-1
+GENIE-DFCI-011305	GENIE-DFCI-011305-11500	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	2		Female	Non-Spanish/non-Hispanic	Primary	<18	DFCI	ASPS	White	Primary tumor	DFCI-ONCOPANEL-2
+GENIE-DFCI-050753	GENIE-DFCI-050753-203652	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	7		Male	Non-Spanish/non-Hispanic	Metastasis	37	DFCI	ASPS	White	Metastasis site unspecified	DFCI-ONCOPANEL-3
+GENIE-DFCI-050940	GENIE-DFCI-050940-250165	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	10		Male	Non-Spanish/non-Hispanic	Primary	32	DFCI	ASPS	Other	Primary tumor	DFCI-ONCOPANEL-3
+GENIE-DFCI-053427	GENIE-DFCI-053427-218688	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	4		Male	Non-Spanish/non-Hispanic	Metastasis	34	DFCI	ASPS	Black	Metastasis site unspecified	DFCI-ONCOPANEL-3
+GENIE-GRCC-8d93d48a	GENIE-GRCC-8d93d48a-metastasis-a	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	1	0.0008	Female	Not Collected	Metastasis	Unknown	GRCC	ASPS	Not collected	Distant organ metastasis	GRCC-MOSC3
+GENIE-MSK-P-0000851	GENIE-MSK-P-0000851-T01-IM3	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0168	Male	Non-Spanish/non-Hispanic	Primary	30	MSK	ASPS	Asian	Primary tumor	MSK-IMPACT341
+GENIE-MSK-P-0000863	GENIE-MSK-P-0000863-T01-IM3	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0000	Male	Non-Spanish/non-Hispanic	Metastasis	27	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT341
+GENIE-MSK-P-0001000	GENIE-MSK-P-0001000-T01-IM3	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.1911	Male	Non-Spanish/non-Hispanic	Primary	38	MSK	ASPS	White	Primary tumor	MSK-IMPACT341
+GENIE-MSK-P-0002354	GENIE-MSK-P-0002354-T01-IM3	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	2		0.0000	Male	Non-Spanish/non-Hispanic	Primary	24	MSK	ASPS	Asian	Primary tumor	MSK-IMPACT341
+GENIE-MSK-P-0002354	GENIE-MSK-P-0002354-T02-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	2	1	0.0558	Male	Non-Spanish/non-Hispanic	Primary	28	MSK	ASPS	Asian	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0008447	GENIE-MSK-P-0008447-T01-IM5	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	2	1	0.0631	Male	Non-Spanish/non-Hispanic	Metastasis	42	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT410
+GENIE-MSK-P-0008447	GENIE-MSK-P-0008447-T02-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	2		0.0035	Male	Non-Spanish/non-Hispanic	Metastasis	46	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0010977	GENIE-MSK-P-0010977-T01-IM5	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	3	2	0.0018	Female	Non-Spanish/non-Hispanic	Metastasis	52	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT410
+GENIE-MSK-P-0010977	GENIE-MSK-P-0010977-T02-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	3	5	0.1731	Female	Non-Spanish/non-Hispanic	Metastasis	55	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0010977	GENIE-MSK-P-0010977-T03-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	3	2	0.0029	Female	Non-Spanish/non-Hispanic	Metastasis	55	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0012991	GENIE-MSK-P-0012991-T01-IM5	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0000	Male	Non-Spanish/non-Hispanic	Metastasis	26	MSK	ASPS	Unknown	Metastasis site unspecified	MSK-IMPACT410
+GENIE-MSK-P-0018405	GENIE-MSK-P-0018405-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	2	0.1888	Female	Non-Spanish/non-Hispanic	Metastasis	38	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0019335	GENIE-MSK-P-0019335-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	2	0.1764	Female	Non-Spanish/non-Hispanic	Primary	<18	MSK	ASPS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0020393	GENIE-MSK-P-0020393-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	1	0.0608	Female	Non-Spanish/non-Hispanic	Metastasis	24	MSK	ASPS	Black	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0022286	GENIE-MSK-P-0022286-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	2	0.0410	Female	Spanish/Hispanic	Primary	32	MSK	ASPS	White	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0022944	GENIE-MSK-P-0022944-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0862	Female	Non-Spanish/non-Hispanic	Primary	28	MSK	ASPS	Black	Primary tumor	MSK-IMPACT468
+GENIE-MSK-P-0037048	GENIE-MSK-P-0037048-T02-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0000	Male	Non-Spanish/non-Hispanic	Metastasis	32	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0039593	GENIE-MSK-P-0039593-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0052	Female	Spanish/Hispanic	Metastasis	58	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0050408	GENIE-MSK-P-0050408-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.0754	Female	Non-Spanish/non-Hispanic	Metastasis	31	MSK	ASPS	Asian	Metastasis site unspecified	MSK-IMPACT468
+GENIE-MSK-P-0055213	GENIE-MSK-P-0055213-T01-IM6	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	1	0.0000	Female	Unknown	Metastasis	31	MSK	ASPS	White	Metastasis site unspecified	MSK-IMPACT468
+GENIE-UCSF-1798	GENIE-UCSF-1798-1965T	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	1	0.1192	Female	Non-Spanish/non-Hispanic	Not Collected	<18	UCSF	ASPS	White	Not Collected	UCSF-NIMV4-TN
+GENIE-UCSF-2618	GENIE-UCSF-2618-2800T	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1		0.2955	Male	Non-Spanish/non-Hispanic	Not Collected	<18	UCSF	ASPS	Asian	Not Collected	UCSF-NIMV4-TN
+GENIE-VHIO-324	GENIE-VHIO-324-001	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1			Male	Spanish/Hispanic	Primary	29	VHIO	ASPS	White	Primary tumor	VHIO-GENERAL-V01
+GENIE-VICC-315150	GENIE-VICC-315150-unk-1	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	1		Female	Non-Spanish/non-Hispanic	Metastasis	25	VICC	ASPS	White	Metastasis site unspecified	VICC-01-T5A
+GENIE-VICC-525858	GENIE-VICC-525858-unk-1	Soft Tissue Sarcoma	Alveolar Soft Part Sarcoma	1	6		Male	Non-Spanish/non-Hispanic	Primary	<18	VICC	ASPS	Black	Primary tumor	VICC-01-T7

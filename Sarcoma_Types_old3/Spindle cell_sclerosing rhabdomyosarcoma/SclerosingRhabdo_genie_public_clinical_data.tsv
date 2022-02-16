@@ -1,0 +1,6 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-MSK-P-0040585	GENIE-MSK-P-0040585-T01-IM6	48	Soft Tissue Sarcoma	Spindle Cell/Sclerosing Rhabdomyosarcoma	MSK	Spanish/Hispanic	0.6242	NA	SCSRMS	Black	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-MSK-P-0042790	GENIE-MSK-P-0042790-T01-IM6	73	Soft Tissue Sarcoma	Spindle Cell/Sclerosing Rhabdomyosarcoma	MSK	Non-Spanish/non-Hispanic	0.0355	2	SCSRMS	White	1	Primary	Primary tumor	MSK-IMPACT468	Male
+genie_public	GENIE-UCSF-2162	GENIE-UCSF-2162-2355T	<18	Soft Tissue Sarcoma	Spindle Cell/Sclerosing Rhabdomyosarcoma	UCSF	Unknown	0.6050	9	SCSRMS	Unknown	1	Not Collected	Not Collected	UCSF-NIMV4-TO	Male
+genie_public	GENIE-VICC-183302	GENIE-VICC-183302-unk-1	35	Soft Tissue Sarcoma	Spindle Cell/Sclerosing Rhabdomyosarcoma	VICC	Non-Spanish/non-Hispanic	NA	10	SCSRMS	White	1	Metastasis	Local recurrence	VICC-01-D2	Female
+genie_public	GENIE-VICC-740786	GENIE-VICC-740786-unk-1	68	Soft Tissue Sarcoma	Spindle Cell/Sclerosing Rhabdomyosarcoma	VICC	Unknown	NA	6	SCSRMS	Unknown	1	Primary	Primary tumor	VICC-01-D2	Male

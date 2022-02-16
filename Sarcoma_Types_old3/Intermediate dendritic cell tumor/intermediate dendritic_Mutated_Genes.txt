@@ -1,0 +1,4 @@
+Gene	MutSig(Q-value)	# Mut	#	Profiled Samples	Freq	Is Cancer Gene (source: OncoKB)
+BRAF		1	1	1	100.0%	Yes
+NRAS		1	1	1	100.0%	Yes
+TET2		2	1	1	100.0%	Yes

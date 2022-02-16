@@ -1,0 +1,3 @@
+Study ID	Patient ID	Sample ID	Age at Which Sequencing was Reported	Cancer Type	Cancer Type Detailed	Center	Ethnicity Category	Fraction Genome Altered	Mutation Count	Oncotree Code	Primary Race	Number of Samples Per Patient	Sample Type	Sample Type Detailed	Sequence Assay ID	Sex
+genie_public	GENIE-NKI-DRF9	GENIE-NKI-DRF9-8OX4	82	Soft Tissue Sarcoma	Interdigitating Dendritic Cell Sarcoma	NKI	Not Collected	NA	1	IDCS	Not collected	1	Primary	Primary tumor	NKI-CHPV2-SOCV2-NGS	Female
+genie_public	GENIE-UHN-339345	GENIE-UHN-339345-ARC1	51	Soft Tissue Sarcoma	Interdigitating Dendritic Cell Sarcoma	UHN	Not Collected	NA	NA	IDCS	Asian	1	Primary	Primary tumor	UHN-50-V2	Female
